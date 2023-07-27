@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "mahsummary"
+version = "0.1.0"
+description = "Generate summaries for GRs found at https://gr.maharashtra.gov.in"
+authors = ["Your Name <you@example.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+pyyaml = "^6.0.1"
+pysbd = "^0.3.4"
+sentence-transformers = "^2.2.2"
+lunr = "^0.6.2"
+python-dateutil = "^2.8.2"
+
+[tool.poetry.group.dev.dependencies]
+Jinja2 = "^3.1.2"
+more-itertools = "^9.1.0"
+ruff = "^0.0.278"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.ruff]
+line-length = 100
+

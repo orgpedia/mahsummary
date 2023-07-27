@@ -12,26 +12,38 @@
                         </li>			  
 			<ul>
                           <li class="mb-3.5 ml-3">
+			    {% if site.doc_type == "common" %}
                             <a href="dept/summary.html">
+			    {% else %}
+			    <a href="../dept/summary.html">
+  		            {% endif %}
                               {{ site.dept_summary }}
                             </a>
                           </li>
                           <li class="mb-3.5 ml-3">
+			    {% if site.doc_type == "common" %}
                             <a href="dist/summary.html">
+			    {% else %}
+			    <a href="../dist/summary.html">
+  		            {% endif %}
                               {{ site.district_summary }}
                             </a>
                           </li>
 			</ul>
                         <li class="mb-3.5">
-                          <a href="archive.html">{{site.Archives}}</a>
+			  {% if site.doc_type == "common" %}
+                          <a href="archive.html">{{site.Archives}}</a>			  
+			  {% else %}
+                          <a href="../archive.html">{{site.Archives}}</a>			  			  
+  		          {% endif %}
                         </li>			  
+                        <!-- <li class="mb-3.5 lg:hidden"> -->
+                        <!--   <a href="../languages.html"> -->
+			<!--     {{ site.languages }} -->
+                        <!--   </a> -->
+                        <!-- </li> -->
                         <li class="mb-3.5 lg:hidden">
-                          <a href="../languages.html">
-			    {{ site.languages }}
-                          </a>
-                        </li>
-                        <li class="mb-3.5 lg:hidden">
-                          <a href="../disclaimer.html">
+                          <a href="https://www.orgpedia.in/disclaimer.html">
 			    {{ site.disclaimer }}
                           </a>
                         </li>

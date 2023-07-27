@@ -722,3 +722,7 @@ lakhs:
 lakh:
   en: lakh
   mr: लाख
+
+'...':
+  en: '...'
+  mr: '...'

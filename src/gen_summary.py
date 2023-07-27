@@ -141,8 +141,16 @@ def build_dept_summary(gr_dir, doc_infos):
         
         #doc_info['districts'] = find_districts(doc_text, district_names)
 
-        doc_info['district_counts'] = find_districts(doc_path, district_names)        
-        doc_info['districts'] = ', '.join(d for (d, c) in doc_info['district_counts'].items())
+        doc_info['district_counts'] = find_districts(doc_path, district_names)
+
+        dist_counts = doc_info['district_counts']
+        if len(dist_counts) > 5:
+            dist_counts = dict(((d,c) for idx, (d,c) in enumerate(dist_counts.items()) if idx < 5))
+            doc_info['districts'] = ', '.join(d for (d, c) in dist_counts.items())
+            doc_info['districts'] += ', ...'
+        else:
+            doc_info['districts'] = ', '.join(d for (d, c) in dist_counts.items())            
+            
         
         doc_info['mr_text'] = find_subject(doc_path)
 
@@ -246,7 +254,8 @@ def get_site_info(lang):
     if not SiteInfoGlobal:
         SiteInfoGlobal = yaml.load(Path('site.yml').read_text(), Loader=yaml.FullLoader)
 
-    input_dict = {'lang_selected': lang, 'lang': lang}
+    input_dict = {'lang_selected': lang, 'lang': lang, lang: 'selected'}
+
     for key, key_dict in SiteInfoGlobal.items():
         input_dict[key] = key_dict[lang]
     return SiteInfo(input_dict)
@@ -259,11 +268,10 @@ def gen_index_html(lang, jinja_env):
                 
     site_info = get_site_info(lang)
     site_info.title = site_info.mahGRs
+    site_info.doc_type = 'common'
 
     html_file = Path(f"output/{lang}/index.html")
     html_file.write_text(template.render(site=site_info))
-    
-    
 
 def gen_dept_top_html(dept_names, doc_infos_dict, lang, year, week_num, jinja_env):
     def get_url(name, lang):
@@ -278,6 +286,7 @@ def gen_dept_top_html(dept_names, doc_infos_dict, lang, year, week_num, jinja_en
     site_info = get_site_info(lang)
     site_info.set_date(get_date(doc_infos_dict), lang)
     site_info.title = site_info.dept_title
+    site_info.doc_type = 'department'    
 
     dept_infos = [(getattr(site_info, name), get_url(name, lang), convert_num(len(doc_infos_dict.get(name, [])), site_info))
                   for name in dept_names
@@ -302,6 +311,7 @@ def gen_district_top_html(district_names, doc_infos_dict, lang, year, week_num, 
     template = jinja_env.get_template('top-level.html')
     site_info = get_site_info(lang)
     site_info.set_date(get_date(doc_infos_dict), lang)
+    site_info.doc_type = 'district'
     
     site_info.title = site_info.district_title
     district_infos = [(getattr(site_info, name), get_url(name, lang), convert_num(len(doc_infos_dict.get(name, [])), site_info))
@@ -335,6 +345,25 @@ def gen_dept_summary_html(dept_name, doc_infos, lang, year, week_num, jinja_env)
     html_file = Path(f"output/{lang}/dept/{year}-W{week_num}-{dept_file_name}.html")
     html_file.write_text(template.render(site=site_info, dept_name=dept_name, depts=result_doc_dict))
 
+def gen_dept_summary_md(dept_name, doc_infos, lang, year, week_num, jinja_env):
+    result_doc_dict = {}
+    site_info = get_site_info(lang)    
+
+    doc_infos.sort(key=itemgetter('doc_type'))
+    for doc_info_dict in doc_infos:
+        doc_info = DocInfo(doc_info_dict, site_info, lang)
+        result_doc_dict.setdefault(doc_info.doc_type, []).append(doc_info)
+
+    template = jinja_env.get_template('summary.md')
+
+    site_info.set_date(doc_infos[0]['date'], lang)
+    site_info.title = f'{getattr(site_info, dept_name)}'
+    site_info.doc_type = 'department'
+
+    if lang == 'en':
+        dept_file_name = dept_name.replace(' ', '')
+        md_file = Path(f"output/{lang}/dept/{dept_file_name}.md")
+        md_file.write_text(template.render(site=site_info, dept_name=dept_name, depts=result_doc_dict))
 
 def gen_district_summary_html(district_name, doc_infos, lang, year, week_num, jinja_env):
     site_info = get_site_info(lang)
@@ -371,12 +400,12 @@ def gen_archive_html(lang, jinja_env):
     dept_archive_paths = list(Path(f"output/{lang}/dept/").glob("*-summary.html"))
     dept_archive = build_dict(dept_archive_paths)
     site_info.title = site_info.archive_title
+    site_info.doc_type = 'common'    
     
     dist_archive_paths = Path(f"output/{lang}/dist/").glob("*-summary.html")
     dist_archive = build_dict(dist_archive_paths)
     
     template = jinja_env.get_template('archive.html')
-
     
     html_file = Path(f"output/{lang}/archive.html")
     html_file.write_text(template.render(site=site_info, dept_archive=dept_archive, district_archive=dist_archive))
@@ -397,14 +426,15 @@ def get_week_document_infos(gr_dir, year, wk_num):
 
 def get_searchdoc_dict(doc_info):
     doc = {}
-    doc["idx"] = doc_info['code']    
+    doc["idx"] = doc_info['code']
+    doc["short_idx"] = f'{doc_info["code"][:9]}...'        
     doc["text"] = doc_info['text']
-    doc["districts"] = doc_info['districts']
+    doc["districts"] = doc_info['districts'] if doc_info['districts'] else ''
     doc["date"] = doc_info['date'].strftime("%d %B %Y")
     doc["url"] = doc_info['url']
     doc["num_pages"] = doc_info['num_pages']
     doc["doc_type"] = doc_info['doc_type']
-    doc["funds_amount"] = doc_info['funds_amount']
+    doc["funds_amount"] = doc_info['funds_amount'] if doc_info['funds_amount'] else ''
     doc["dept"] = doc_info['dept']
     return doc
 
@@ -415,10 +445,10 @@ def write_search_index(search_doc_dicts):
 
     lunrIdx = lunr(ref="idx", fields=["text", "dept"], documents=search_doc_dicts)
 
-    search_index_file = Path("lunr.idx.json")
+    search_index_file = Path("output/lunr.idx.json")
     search_index_file.write_text(json.dumps(lunrIdx.serialize(), separators=(',', ':')))
 
-    docs_file = Path("docs.json")
+    docs_file = Path("output/docs.json")
     docs_file.write_text(json.dumps(search_doc_dicts, separators=(',', ':')))
 
 
@@ -459,13 +489,15 @@ def main():
     for (dept, doc_infos) in dept_doc_infos_dict.items():
         if doc_infos:
             gen_dept_summary_html(dept, doc_infos, lang, year, wk_num, env)
+            gen_dept_summary_md(dept, doc_infos, lang, year, wk_num, env)            
 
     for (district, doc_infos) in district_doc_infos_dict.items():
         if doc_infos:
             gen_district_summary_html(district, doc_infos, lang, year, wk_num, env)
 
-    search_docs = [get_searchdoc_dict(i) for i in doc_infos]
-    write_search_index(search_docs)
+    if lang == 'en':
+        search_docs = [get_searchdoc_dict(i) for i in doc_infos]
+        write_search_index(search_docs)
     
         
             
