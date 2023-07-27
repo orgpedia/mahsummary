@@ -260,7 +260,7 @@ def get_site_info(lang):
         input_dict[key] = key_dict[lang]
     return SiteInfo(input_dict)
 
-def gen_index_html(lang, jinja_env):
+def gen_index_html(output_dir, lang, jinja_env):
     if lang == 'en':
         template = jinja_env.get_template('index.html')
     else:
@@ -270,10 +270,10 @@ def gen_index_html(lang, jinja_env):
     site_info.title = site_info.mahGRs
     site_info.doc_type = 'common'
 
-    html_file = Path(f"output/{lang}/index.html")
+    html_file = output_dir / Path(f"{lang}/index.html")
     html_file.write_text(template.render(site=site_info))
 
-def gen_dept_top_html(dept_names, doc_infos_dict, lang, year, week_num, jinja_env):
+def gen_dept_top_html(output_dir, dept_names, doc_infos_dict, lang, year, week_num, jinja_env):
     def get_url(name, lang):
         return f"{year}-W{week_num}-{name.replace(' ','')}.html"
 
@@ -292,14 +292,14 @@ def gen_dept_top_html(dept_names, doc_infos_dict, lang, year, week_num, jinja_en
                   for name in dept_names
                   ]
 
-    html_file = Path(f"output/{lang}/dept/{year}-W{week_num}-summary.html")
+    html_file = output_dir / Path(f"{lang}/dept/{year}-W{week_num}-summary.html")
     html_file.write_text(template.render(site=site_info, depts=dept_infos))
 
-    html_file = Path(f"output/{lang}/dept/summary.html")
+    html_file = output_dir / Path(f"{lang}/dept/summary.html")
     html_file.write_text(template.render(site=site_info, depts=dept_infos))
     
 
-def gen_district_top_html(district_names, doc_infos_dict, lang, year, week_num, jinja_env):
+def gen_district_top_html(output_dir, district_names, doc_infos_dict, lang, year, week_num, jinja_env):
     def get_url(name, lang):
         return f"{year}-W{week_num}-{name.replace(' ','')}.html"
 
@@ -318,15 +318,15 @@ def gen_district_top_html(district_names, doc_infos_dict, lang, year, week_num, 
                   for name in district_names
                   ]
 
-    html_file = Path(f"output/{lang}/dist/{year}-W{week_num}-summary.html")
+    html_file = output_dir / Path(f"{lang}/dist/{year}-W{week_num}-summary.html")
     html_file.write_text(template.render(site=site_info, depts=district_infos))
 
-    html_file = Path(f"output/{lang}/dist/summary.html")
+    html_file = output_dir / Path(f"{lang}/dist/summary.html")
     html_file.write_text(template.render(site=site_info, depts=district_infos))
     
     
 
-def gen_dept_summary_html(dept_name, doc_infos, lang, year, week_num, jinja_env):
+def gen_dept_summary_html(output_dir, dept_name, doc_infos, lang, year, week_num, jinja_env):
     result_doc_dict = {}
     site_info = get_site_info(lang)    
 
@@ -342,10 +342,10 @@ def gen_dept_summary_html(dept_name, doc_infos, lang, year, week_num, jinja_env)
     site_info.doc_type = 'department'
 
     dept_file_name = dept_name.replace(' ', '')
-    html_file = Path(f"output/{lang}/dept/{year}-W{week_num}-{dept_file_name}.html")
+    html_file = output_dir / Path(f"{lang}/dept/{year}-W{week_num}-{dept_file_name}.html")
     html_file.write_text(template.render(site=site_info, dept_name=dept_name, depts=result_doc_dict))
 
-def gen_dept_summary_md(dept_name, doc_infos, lang, year, week_num, jinja_env):
+def gen_dept_summary_md(output_dir, dept_name, doc_infos, lang, year, week_num, jinja_env):
     result_doc_dict = {}
     site_info = get_site_info(lang)    
 
@@ -362,10 +362,10 @@ def gen_dept_summary_md(dept_name, doc_infos, lang, year, week_num, jinja_env):
 
     if lang == 'en':
         dept_file_name = dept_name.replace(' ', '')
-        md_file = Path(f"output/{lang}/dept/{dept_file_name}.md")
+        md_file = output_dir / Path(f"{lang}/dept/{dept_file_name}.md")
         md_file.write_text(template.render(site=site_info, dept_name=dept_name, depts=result_doc_dict))
 
-def gen_district_summary_html(district_name, doc_infos, lang, year, week_num, jinja_env):
+def gen_district_summary_html(output_dir, district_name, doc_infos, lang, year, week_num, jinja_env):
     site_info = get_site_info(lang)
     result_doc_dict = {}
     doc_infos.sort(key=itemgetter('dept'))
@@ -381,10 +381,10 @@ def gen_district_summary_html(district_name, doc_infos, lang, year, week_num, ji
         
     district_file_name = district_name.replace(' ', '')
     
-    html_file = Path(f"output/{lang}/dist/{year}-W{week_num}-{district_file_name}.html")
+    html_file = output_dir / Path(f"{lang}/dist/{year}-W{week_num}-{district_file_name}.html")
     html_file.write_text(template.render(site=site_info, dept_name=district_name, depts=result_doc_dict))
 
-def gen_archive_html(lang, jinja_env):
+def gen_archive_html(output_dir, lang, jinja_env):
     def build_dict(paths):
         r = {}
         for p in paths:
@@ -397,17 +397,17 @@ def gen_archive_html(lang, jinja_env):
         return r
 
     site_info = get_site_info(lang)    
-    dept_archive_paths = list(Path(f"output/{lang}/dept/").glob("*-summary.html"))
+    dept_archive_paths = (output_dir / Path(f"{lang}/dept/")).glob("*-summary.html")
     dept_archive = build_dict(dept_archive_paths)
     site_info.title = site_info.archive_title
     site_info.doc_type = 'common'    
     
-    dist_archive_paths = Path(f"output/{lang}/dist/").glob("*-summary.html")
+    dist_archive_paths = (output_dir / Path(f"{lang}/dist/")).glob("*-summary.html")
     dist_archive = build_dict(dist_archive_paths)
     
     template = jinja_env.get_template('archive.html')
     
-    html_file = Path(f"output/{lang}/archive.html")
+    html_file = output_dir / Path(f"{lang}/archive.html")
     html_file.write_text(template.render(site=site_info, dept_archive=dept_archive, district_archive=dist_archive))
 
 
@@ -439,16 +439,16 @@ def get_searchdoc_dict(doc_info):
     return doc
 
 
-def write_search_index(search_doc_dicts):
+def write_search_index(output_dir, search_doc_dicts):
     from lunr import lunr
 
 
     lunrIdx = lunr(ref="idx", fields=["text", "dept"], documents=search_doc_dicts)
 
-    search_index_file = Path("output/lunr.idx.json")
+    search_index_file = output_dir / "lunr.idx.json"
     search_index_file.write_text(json.dumps(lunrIdx.serialize(), separators=(',', ':')))
 
-    docs_file = Path("output/docs.json")
+    docs_file = output_dir / "docs.json"
     docs_file.write_text(json.dumps(search_doc_dicts, separators=(',', ':')))
 
 
@@ -465,6 +465,8 @@ def main():
     assert wk_num == -1 or 0 < wk_num <= 53
 
     lang = sys.argv[3] if len(sys.argv) > 3 else 'en'
+
+    output_dir = Path("docs")
     
     # Filter the doc_infos
     doc_infos, year, wk_num = get_week_document_infos(gr_dir, 2023, wk_num)
@@ -479,28 +481,26 @@ def main():
         lstrip_blocks=True,
     )
 
-    gen_archive_html(lang, env)                         
-    gen_index_html(lang, env)
+    gen_archive_html(output_dir, lang, env)                         
+    gen_index_html(output_dir, lang, env)
 
                          
-    gen_dept_top_html(dept_names, dept_doc_infos_dict, lang, year, wk_num, env)
-    gen_district_top_html(district_names, district_doc_infos_dict, lang, year, wk_num, env)    
+    gen_dept_top_html(output_dir, dept_names, dept_doc_infos_dict, lang, year, wk_num, env)
+    gen_district_top_html(output_dir, district_names, district_doc_infos_dict, lang, year, wk_num, env)    
 
     for (dept, doc_infos) in dept_doc_infos_dict.items():
         if doc_infos:
-            gen_dept_summary_html(dept, doc_infos, lang, year, wk_num, env)
-            gen_dept_summary_md(dept, doc_infos, lang, year, wk_num, env)            
+            gen_dept_summary_html(output_dir, dept, doc_infos, lang, year, wk_num, env)
+            gen_dept_summary_md(output_dir, dept, doc_infos, lang, year, wk_num, env)            
 
     for (district, doc_infos) in district_doc_infos_dict.items():
         if doc_infos:
-            gen_district_summary_html(district, doc_infos, lang, year, wk_num, env)
+            gen_district_summary_html(output_dir, district, doc_infos, lang, year, wk_num, env)
 
     if lang == 'en':
         search_docs = [get_searchdoc_dict(i) for i in doc_infos]
-        write_search_index(search_docs)
+        write_search_index(output_dir, search_docs)
     
-        
-            
 main()
 
 """
