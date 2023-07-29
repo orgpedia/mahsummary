@@ -71,7 +71,7 @@ Search:
   ur: "\u062A\u0644\u0627\u0634 \u06A9\u0631\u06CC\u06BA\u06D4"
 
 mahGRs:
-  en: "Weekly Summary: Maharastra GRs"
+  en: "Weekly Summary: Maharastra Government Resolutions (GR)"
   mr: 'साप्ताहिक सारांश: महाराष्ट्र शासन निर्णय'
 
 keywords:
@@ -534,6 +534,9 @@ Mumbai_City:
 Mumbai_Suburban:
   en: Mumbai_Suburban
   mr: मुंबई_उपनगर
+'Mumbai Suburban':
+  en: 'Mumbai Suburban'
+  mr: 'मुंबई उपनगर'
 Nagpur:
   en: Nagpur
   mr: नागपूर
@@ -603,8 +606,69 @@ Jul:
 July:
   en: July
   mr: जुलै
-
-  
+Aug:
+  en: Aug
+  mr: ऑगस्ट
+August:
+  en: August
+  mr: ऑग
+Sep:
+  en: Sep
+  mr: सप्टें
+September:
+  en: September
+  mr: सप्टेंबर
+Oct:
+  en: Oct
+  mr: ऑक्ट
+October:
+  en: October
+  mr: ऑक्टोबर
+Nov:
+  en: Nov
+  mr: नोव्हें
+November:
+  en: November
+  mr: नोव्हेंबर
+Dec:
+  en: Dec
+  mr: डिसें
+December:
+  en: December
+  mr: डिसेंबर
+Jan:
+  en: Jan
+  mr: जान
+January:
+  en: January
+  mr: जानेवारी
+Feb:
+  en: Feb
+  mr: फेब
+February:
+  en: February
+  mr: फेब्रुवारी
+Mar:
+  en: Mar
+  mr: मार्च
+March:
+  en: March
+  mr: मार्च
+Apr:
+  en: Apr
+  mr: एप्रि
+April:
+  en: April
+  mr: एप्रिल
+May:
+  en: May
+  mr: मे
+Jun:
+  en: Jun
+  mr: जून
+June:
+  en: Jun
+  mr: जून
 'Agriculture, Dairy Development, Animal Husbandry and Fisheries Department':
   en: 'Agriculture, Dairy Development, Animal Husbandry and Fisheries Department'
   mr: 'कृषी, पशुसंवर्धन, दुग्‍धव्‍यवसाय विकास व मत्‍स्‍यव्‍यवसाय विभाग'

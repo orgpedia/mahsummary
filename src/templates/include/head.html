@@ -7,5 +7,11 @@
         <title>{{ site.title }} </title>
 
         <!-- CSS Link -->
-        <link rel="stylesheet" href="../../c/output.css">
-	<link rel="shortcut icon" type="image/x-icon" href="../../favicon.ico">
+
+	{% if site.doc_type == "common" %}
+        <link rel="stylesheet" href="../c/output.css">	
+	<link rel="shortcut icon" type="image/x-icon" href="../i/favicon.ico">
+	{% else %}
+        <link rel="stylesheet" href="../../c/output.css">	
+	<link rel="shortcut icon" type="image/x-icon" href="../../i/favicon.ico">
+	{% endif %}

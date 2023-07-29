@@ -40,7 +40,7 @@
 			    {% if loop.index ==  1 %}
 			    <span><a class="text-blue-500" href="dept/{{year|int}}-W{{week_num|int}}-summary.html">{{site.week}} {{ week_num|trim("W")}}</a> </span>
 			    {% else %}
-			    <span>&nbsp; | &nbpsp; <a class="text-blue-500" href="dept/{{year|int}}-W{{week_num|int}}-summary.html">{{site.week}} {{ week_num|trim("W")}}</a></span>
+			    <span> | <a class="text-blue-500" href="dept/{{year|int}}-W{{week_num|int}}-summary.html">{{site.week}} {{ week_num|trim("W")}}</a></span>
 			    {% endif %}			    
 			    {% endfor %}			    
 			  </div>
@@ -61,7 +61,7 @@
 			    {% if loop.index ==  1 %}
 			    <span><a class="text-blue-500" href="dist/{{year|int}}-W{{week_num|int}}-summary.html">{{site.week}} {{ week_num|trim("W")}}</a> </span>
 			    {% else %}
-			    <span>&nbsp; | &nbpsp; <a class="text-blue-500" href="dist/{{year|int}}-W{{week_num|int}}-summary.html">{{site.week}} {{ week_num|trim("W")}}</a></span>
+			    <span> | <a class="text-blue-500" href="dist/{{year|int}}-W{{week_num|int}}-summary.html">{{site.week}} {{ week_num|trim("W")}}</a></span>
 			    {% endif %}
 			    {% endfor %}
 			  </div>

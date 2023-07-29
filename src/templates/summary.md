@@ -12,4 +12,4 @@
 {% endfor %}
 {% endfor %}
 
-*Archives of earlier summaries are available at http://www.orgpedia.in/mahgrs*
+*Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

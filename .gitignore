@@ -162,3 +162,4 @@ node_modules
 package.json
 .bak
 *~
+.DS_Store

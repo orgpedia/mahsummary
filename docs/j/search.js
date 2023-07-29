@@ -138,6 +138,7 @@ function updateSearchResults(query, results) {
 			<div class="md:w-3/4 w-full p-2" > 
 			  <h4 class="">${hit.text}</h4>
 			  <div class="text-gray-500 text-sm">
+			    <span class="font-semibold">Department:</span> ${hit.dept}<br>
 			    <span class="font-semibold">Funds:</span> ${hit.funds_amount}
 			    <span class="font-semibold">Districts:</span>${hit.districts}
 			  </div>
@@ -1119,6 +1120,27 @@ function xt(button) {
 //     //carousel_elem.classList.toggle('hidden');
 // }
 
+function openSubscriptionPopup(listName, listID) {
+  // Define the URL of the pop-up window
+    const popupURL = `../subscription.html?list=${encodeURIComponent(listName)}&listID=${listID}`;
 
+    console.log("popupURL: " + popupURL);
 
+  // Define the size and position of the pop-up window
+    const width = 610;;
+    const height = 377;
+    const left = (window.innerWidth - width) / 2;
+    const top = (window.innerHeight - height) / 2;
+
+  // Generate the window features as a string
+  const windowFeatures = `width=${width},height=${height},left=${left},top=${top}`;
+
+  // Open the pop-up window
+  const popupWindow = window.open(popupURL, "EmailSubscription", windowFeatures);
+
+  // Ensure that the pop-up window is not blocked by the browser
+  if (popupWindow) {
+    popupWindow.focus();
+  }
+}
 

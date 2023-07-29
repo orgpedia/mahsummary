@@ -1,6 +1,7 @@
 
 {% macro breadcrumb(crumbs=[], last_id=-1) -%}
-<div class="flex gap-1.5 items-center justify-start text-blue-500 text-sm mb-4">
+<div class="flex gap-1.5 items-center justify-between text-blue-500 text-sm mb-4">
+  <div class="flex items-center justify-start gap-2.5">
   {% for (name, href) in crumbs %}
   {% if (loop.last) %}
       {% if (last_id == -1) %}
@@ -20,6 +21,10 @@
   </span>
   {% endif %}
   {% endfor %}
+  </div>
+  {% if site.doc_type != "common" %}
+    <button id="subscribe" class="bg-blue-500 text-white py-2.5 px-5 text-xs " onclick="openSubscriptionPopup('{{site.item_name}}', {{site.list_id}})">Subscribe</button>
+  {% endif %}
 </div>
 {% endmacro %}
 

@@ -34,4 +34,4 @@
   [202307201905466121.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307201905466121.pdf)
 
 
-*Archives of earlier summaries are available at http://www.orgpedia.in/mahgrs*
+*Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

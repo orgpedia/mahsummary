@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Email Subscription</title>
+</head>
+<body>
+
+<!-- Get the list name from the query parameter -->
+<script>
+  function getQueryParam(param) {
+    const urlParams = new URLSearchParams(window.location.search);
+    return urlParams.get(param);
+  }
+  const listName = getQueryParam('list');
+  const listID = getQueryParam('listID');  
+</script>
+
+<!-- Display the subscription list name at the top -->
+<h1>Subscribe to the Email List: <span id="listNameDisplay"></span></h1>
+
+<!-- The form for email list subscription -->
+
+<form id="subscriptionForm" action="http://127.0.0.1:8787/subscribe" method="GET">
+<!-- <form id="subscriptionForm" action="https://subscriber-manage.orgpedia-foundation.workers.dev/subscribe" method="GET">   -->
+  <label for="nameInput">Name (optional):</label>
+  <input name="nameInput" type="text" id="nameInput" placeholder="Your Name">
+  <br>
+  <label for="emailInput">Email (required):</label>
+  <input name="emailInput" type="email" id="emailInput" placeholder="Your Email" required>
+
+  <input name="listNameForm" type="hidden" id="listNameForm" value="" />
+  <input name="listIDForm" type="hidden" id="listIDForm" value="" />  
+  
+  <br>
+  <!-- CORSS ISSUE -->
+  <!-- <button type="button" onclick="subscribe()">Subscribe</button> -->
+  <button type="submit">Subscribe</button>
+</form>
+
+<!-- Element to show the subscription result -->
+<div id="result"></div>
+
+<script>
+  // Display the list name obtained from the query parameter
+  document.getElementById("listNameDisplay").textContent = listName;
+  document.getElementById("listNameForm").value = listName;
+  document.getElementById("listIDForm").value = listID;    
+  
+
+  function subscribe() {
+    const nameInput = document.getElementById("nameInput").value;
+    const emailInput = document.getElementById("emailInput").value;
+    const listNameForm = document.getElementById("listNameForm").value;
+    const listIDForm = document.getElementById("listIDForm").value;            
+
+    const resultDiv = document.getElementById("result");
+
+    // Validate if the email input is not empty
+    if (emailInput.trim() === "") {
+      resultDiv.textContent = "Please enter your email.";
+      return;
+    }
+
+    // You can add more validation for the email format if needed
+
+    // Clear the result
+    resultDiv.textContent = "";
+
+      // Create a new FormData object
+    const formData = new FormData();
+      formData.append('nameInput', nameInput);
+      formData.append('emailInput', emailInput);
+      formData.append('listNameForm', listNameForm);
+      formData.append('listIDForm', listIDForm);
+      
+  // Remote URL to which the form data will be sent
+  const remoteUrl = 'http://127.0.0.1:8787/';
+
+  // Send the form data using the fetch API
+  fetch(remoteUrl, {
+    method: 'POST',
+    body: formData
+  })
+  .then(response => response.json()) // Assuming the server returns JSON response
+  .then(data => {
+    // Handle the response data here
+    console.log(data);
+  })
+  .catch(error => {
+    // Handle errors here
+    console.error('Error:', error);
+  });
+      
+    resultDiv.textContent = `Thank you, ${nameInput ? nameInput : "Subscriber"}! You have successfully subscribed to the "${listName}" list with the email: ${emailInput}`;
+  }
+</script>
+
+</body>
+</html>
