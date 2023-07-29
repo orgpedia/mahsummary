@@ -22,7 +22,7 @@
   {% endif %}
   {% endfor %}
   </div>
-  {% if site.doc_type != "common" %}
+  {% if site.doc_type == "department" and site.lang == "en" %}
     <button id="subscribe" class="bg-blue-500 text-white py-2.5 px-5 text-xs " onclick="openSubscriptionPopup('{{site.item_name}}', {{site.list_id}})">Subscribe</button>
   {% endif %}
 </div>

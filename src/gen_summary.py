@@ -313,7 +313,7 @@ def gen_dept_top_html(output_dir, dept_names, doc_infos_dict, lang, stub, jinja_
     site_info = get_site_info(lang)
     site_info.set_date(get_date(doc_infos_dict), lang)
     site_info.title = site_info.dept_title
-    site_info.doc_type = 'department'
+    site_info.doc_type = 'top-department'
 
     dept_infos = [(getattr(site_info, name), get_url(name, lang), convert_num(len(doc_infos_dict.get(name, [])), site_info))
                   for name in dept_names
@@ -338,7 +338,7 @@ def gen_district_top_html(output_dir, district_names, doc_infos_dict, lang, stub
     template = jinja_env.get_template('top-level.html')
     site_info = get_site_info(lang)
     site_info.set_date(get_date(doc_infos_dict), lang)
-    site_info.doc_type = 'district'
+    site_info.doc_type = 'top-district'
 
     site_info.title = site_info.district_title
     district_infos = [(getattr(site_info, name), get_url(name, lang), convert_num(len(doc_infos_dict.get(name, [])), site_info))
