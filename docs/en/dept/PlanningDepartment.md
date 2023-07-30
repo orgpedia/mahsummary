@@ -1,28 +1,24 @@
 # Planning Department
 
-**Date Range**: 17 July 2023 - 22 July 2023
+**Date Range**: 24 July 2023 - 29 July 2023
 
 
 ## Funds
-- Regarding giving administrative approval to the building construction of Chhatrapati Shahu Maharaj Institute of Research, Training and Human Development (SARATHI), Pune-Latur Divisional Office, Hostel, Study Hall, Library, Training Center Hall etc.\
-  [202307201336566616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307201336566616.pdf)
+- Government at your Doorstep Campaign\
+  [202307261129421516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307261129421516.pdf)
 
-- To Start Sayajirao Gaikwad SARATHI Gunwant Vidhyarthi Pardesh Shikshan Shishyavrutti Yojana.\
-  [202307201337136216.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307201337136216.pdf)
-
-- To Grant Release of Rs.90 Cr. to Annasaheb Patil Arthik Magas Vikas Mahamandal.\
-  [202307201815014016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307201815014016.pdf)
+- hilly area development programme fund allocation for financial year 2023-24\
+  [202307281516570316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307281516570316.pdf)
 
 ## Miscellaneous
-- Regarding amendment of the posts created to control the Member of Parliament Local Area Development Programme\
-  [202307201510495816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307201510495816.pdf)
+- Appointment of Nominated Members on District Planning Committee, Raigad.\
+  [202307251907352316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307251907352316.pdf)
 
-## Personnel
-- Regarding general transfers for the year 2023 of Joint Director, Group-A cadre officers in the Directorate of Finance and Statistics.\
-  [202307191500133616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307191500133616.pdf)
+- Mahatma Gandhi National Rural Employment Guarantee Scheme-Maharashtra regarding taking up protective wall works in all the schools in the state....\
+  [202307261606528316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307261606528316.pdf)
 
-- Regarding transfers requested by the Joint Director, Group-A cadre officers in the Directorate of Finance and Statistics.\
-  [202307191505367916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307191505367916.pdf)
+- Regarding sanction of allowances to officers/employees related to budgetary work.....\
+  [202307261701533316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307261701533316.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

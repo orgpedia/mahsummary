@@ -1,27 +1,30 @@
 # Public Works Department
 
-**Date Range**: 17 July 2023 - 22 July 2023
+**Date Range**: 24 July 2023 - 29 July 2023
 
 
 ## Miscellaneous
-- Regarding implementation of e-office system by field offices under Public Works Department and acceptance of mail through e-office system.\
-  [202307181255362218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307181255362218.pdf)
+- Uppgradation of other district road and village road to Major District Road in Taluka Buldana, shegaon and khamgaon at District Buldana.\
+  [202307251737507318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307251737507318.pdf)
 
-- Upgradation of Major District Road to State Highway Khamgaon, Shegaon and NanduraTaluka at Buldana District.\
-  [202307181546019118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307181546019118.pdf)
-
-- Regarding Rural Development Department to Upgrade nonplan to village road and village road to other district road.\
-  [202307211811316018.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307211811316018.pdf)
+- Uppgradation of other district road to Major District Road in Taluka Wardha at District Wardha.\
+  [202307251800498618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307251800498618.pdf)
 
 ## Personnel
-- Regarding classification of Sub Divisional Office, National Highways Sub Division, Amravati under Chief Engineer (National Highways), Navi Mumbai.\
-  [202307171254271618.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307171254271618.pdf)
+- Transfer and Posting Executive Engineer (Civil)\
+  [202307251640485318.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307251640485318.pdf)
 
-- Promotion Posting Order ... Superintending Engineer (Civil) to Chief Engineer (Civil)\
-  [202307191720510118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307191720510118.pdf)
+- Transfer and Posting Executive Engineer (Civil)\
+  [202307251644069418.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307251644069418.pdf)
 
-- Transfer and Posting Executive Engineer (Civil).\
-  [202307191724340918.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307191724340918.pdf)
+- Regarding The Detailed Posting on the post of Junior Engineer (Civil) Group-B (Non Gazetted)- Shri\
+  [202307281305215218.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307281305215218.pdf)
+
+- Regarding The Detailed Posting on the post of Assistant Engineer Grade-2 (Civil) Group-B (Gazetted)- Shri.\
+  [202307281310462118.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307281310462118.pdf)
+
+- Transfer/Posting Order Of Shri. Vivek Ambule, Deputy Engineer (Civil), Public Works Department.\
+  [202307281553321818.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307281553321818.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,18 +1,24 @@
 # Skill Development and Entrepreneurship Department
 
-**Date Range**: 17 July 2023 - 22 July 2023
+**Date Range**: 24 July 2023 - 29 July 2023
 
 
-## Miscellaneous
-- Regarding Reimbursement of Technical Training Expenses of Candidates of Assistant Commissioner, Group-A and Skill Development, Employment and Entrepreneurship Guidance Officer Cadre selected by Maharashtra Public Service Commission on the basis of Combined Probationary Training Program-8 State Service (Main) Examination-2020 Result...\
-  [202307191313395303.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307191313395303.pdf)
+## Funds
+- Regarding fixation of ceiling in respect of expenditure to be incurred for employment fairs.\
+  [202307261116057303.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307261116057303.pdf)
+
+- Regarding disbursement of funds under the Scheme to Maharashtra State Innovation Societies (Programme). (Year 2023-24 Requisition No. ZA-2, Account Head 2230 A 343 )\
+  [202307271454073103.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307271454073103.pdf)
+
+- Pramod Mahajan Kaoushlya Vikas and Udyojagata Abhiyan administrative approval and grant allocation 202324.\
+  [202307271615221603.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307271615221603.pdf)
+
+- Maharashtra State Skills Development Society Grant allocation 2023-24.\
+  [202307271620290903.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307271620290903.pdf)
 
 ## Personnel
-- Regarding conversion of fixed posts into permanent posts as per revised scheme of posts on establishment of Directorate of Business Education and Training under Department of Skills, Employment, Entrepreneurship and Innovation.\
-  [202307181820395803.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307181820395803.pdf)
-
-- 2nd and 3rd Phase in existing Industrial Training Institutes in 43 Minority Majority Areas of the State under Directorate of Vocational Education and Training, State of Maharashtra, Mumbai and temporary posts in 2 new Industrial Training Institutes in Greater Mumbai, Mandvi and Nehrunagar (Kurla). Regarding extension of time from 01/03/2023 to 31/08/2023.\
-  [202307181835130803.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307181835130803.pdf)
+- Assistant Director (Senior) (Non -Technical) /Deputy Secretary, Maharashtra State Skills, Board of Vocational Education and Training, Maharashtra Education Service, Group-A (Junior) (Non -Technical) in Institutions and Offices under the Directorate of Vocational Education and Training Final Seniority List as on Dt. 01/1/2022.\
+  [202307261520529403.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307261520529403.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

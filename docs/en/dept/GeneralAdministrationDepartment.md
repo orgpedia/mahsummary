@@ -1,43 +1,40 @@
 # General Administration Department
 
-**Date Range**: 17 July 2023 - 22 July 2023
+**Date Range**: 24 July 2023 - 29 July 2023
 
 
 ## Funds
-- Regarding providing financial assistance to the widows/dependents of Maharashtra officers/jawans who died in the army - Nayak Manoj Laxmanrao Gaikwad Distt. Dhule.\
-  [202307191216186807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307191216186807.pdf)
-
-- Marathwada Administrative and Development Training Prabodhini Nathnagar (U.S.) Paithan, Chhatrapati Sambhajinagar under the Program of Disbursement of funds for various works in buildings from the sanctioned provision under the program (year 2023-24)\
-  [202307191300435107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307191300435107.pdf)
+- Regarding the distribution of funds to the monument to be erected at Nagthane, Palus, Dist. Sangli...\
+  [202307251152315407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307251152315407.pdf)
 
 ## Miscellaneous
-- Formation of Project Implementation Committee.\
-  [202307181132498907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307181132498907.pdf)
+- Grant-in-Aid to YASHADA, Pune 2023-24 (Program) For imparting training under Right to Information Act,2005.\
+  [202307241713375607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307241713375607.pdf)
 
-- Hon. Principal Secretary to Chief Minister (Mr. Brijesh Singh) and Hon. Regarding allotment of office space to Deputy Chief Ministers Secretary (Mr. Shrikar Pardeshi).\
-  [202307181841024107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307181841024107.pdf)
+- To bring sections present on various floors of new administrative building of general administration department on one floor.\
+  [202307251541331107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307251541331107.pdf)
 
-- Disabled Army Officers and Regarding providing financial assistance to jawans- Disability Sepoy Sark Bharat Agatarao, Distt. sangli\
-  [202307191211004507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307191211004507.pdf)
+- Coverage under All India Services (Death Cum Retirement Benefits) Rules, 1958, in place of National Pension System, of those members of All India Services who were recruited against the posts / vacancies advertised / notified on or before 22.12.2003\
+  [202307251728164807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307251728164807.pdf)
 
-- Terms and conditions for appointment for Deputation to the post Comptroller of the Household to the Governor.\
-  [202307201110422407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307201110422407.pdf)
+- Regarding setting up a Project Management Unit (PROJECT MANAGEMENT UNIT) under the management and control of the Central Postal Unit (CRU) for receiving mail near the main entrance of the Ministry.\
+  [202307271547040807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307271547040807.pdf)
 
-- Regarding formation of Project Implementation Committee - Regarding appoinment of the services of two additional Technical Officers in the office of the Chief Electoral Officer, Maharashtra State.\
-  [202307211503137907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307211503137907.pdf)
+- Regarding filling the vacant post in the office of State Information Commission, Pune Bench by deputation.\
+  [202307281749116807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307281749116807.pdf)
 
-- Regarding allotment of hall on 6th floor to Additional Chief Secretary (Services), General Administration Department.\
-  [202307211759121507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307211759121507.pdf)
+- Regarding repatriation of Shri. A.M. Bhokare and Shri. S.S. Hake, Clerk cum typist.\
+  [202307281755065707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307281755065707.pdf)
 
 ## Personnel
-- Regarding the cancellation of the appointment From Assistant Section officer (Main) Exam 2021 in Mantralaya Department.\
-  [202307201210338507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307201210338507.pdf)
+- Chief Election Officer Office (General Administration Department/Election Branch (Desk-33) Appointment from Transfer for the work of Election.\
+  [202307261550301607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307261550301607.pdf)
 
-- Ad-Hoc Promotion to the post of Desk Officer cadre.\
-  [202307211645305807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307211645305807.pdf)
+- Change in Posting of Promotion smt. V. P. Patankar, senior PA\
+  [202307261556123207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307261556123207.pdf)
 
-- Regarding posting after temporary promotion from the post of Desk Officer to the post of Under Secretary.\
-  [202307211832253407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307211832253407.pdf)
+- Transfer cancellation order.\
+  [202307261559304007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307261559304007.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

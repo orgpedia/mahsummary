@@ -1,21 +1,24 @@
 # Tribal Development Department
 
-**Date Range**: 17 July 2023 - 22 July 2023
+**Date Range**: 24 July 2023 - 29 July 2023
 
-
-## Funds
-- To release grant for the scheme of central sponsored scheme Pradhan Mantri Jan Arogya Yojana under the TSP in financial year 2023-24. state share- 2210 G494.\
-  [202307111757468624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307111757468624.pdf)
-
-- To release grant for the scheme of Krishi Unnati Yojana - Sub Mission on Agricultural Extension-Support to state Extension Programmes for Extension Reforms under the TSP in financial year 2023-24. central share (2401 A512) state share (2401 A521).\
-  [202307111758003424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307111758003424.pdf)
-
-- To release grant for the scheme of Shabri Adivasi Gharkul Yojna under the TSP in financial year 2023-24 . (CRC 2225 D271).\
-  [202307111758129524.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307111758129524.pdf)
 
 ## Miscellaneous
-- To release grant for the scheme of District annual sub plan under the TSP in financial year 2023-24. demand no.T-9, T-10 T-11.\
-  [202307111758241624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307111758241624.pdf)
+- To release grant for the scheme of committed expenditure under the TSP in financial year 2023-24. (Major Head 2225 and 2251)\
+  [202307281228145224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307281228145224.pdf)
+
+- To release grant for the scheme of Salary and scholarship under the TSP in financial year 2023-24. (Major Head 2225 and 2425)\
+  [202307281228415624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307281228415624.pdf)
+
+- To release grant for the scheme of Salary and Scholarship under the TSP in financial year 2023-24. (Major Head 2225, Object 01 34)\
+  [202307281228489024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307281228489024.pdf)
+
+## Personnel
+- Regarding the ad hoc promotion of the post of Assistant Commissioner / Senior Research Officer / Project Officer (Grade-2) in Maharashtra Tribal Development Services. Group - A.\
+  [202307251225096524.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307251225096524.pdf)
+
+- Regarding the ad hoc promotion of the post of Deputy Commissioner / Deputy Director / Project Officer (Class-I) in Maharashtra Tribal Development Services Group-A .\
+  [202307281528293124.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307281528293124.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

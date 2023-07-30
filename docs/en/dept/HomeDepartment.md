@@ -1,46 +1,40 @@
 # Home Department
 
-**Date Range**: 17 July 2023 - 22 July 2023
+**Date Range**: 24 July 2023 - 29 July 2023
 
 
 ## Funds
-- Regarding appointment of cloud service provider for CCTNS project and administrative approval of RFP for application of NON CAS system (2.0).\
-  [202307211202482129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307211202482129.pdf)
+- Regarding the deposit of central and state share funds of the security expenditure scheme under the PFMS system in the SNA account of the said scheme.\
+  [202307251520388329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307251520388329.pdf)
 
 ## Miscellaneous
-- Regarding the creation of 256 supernumerary posts of Police Sub-Inspectors on the establishment of Maharashtra Police Academy, Nashik..\
-  [202307181804372229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307181804372229.pdf)
+- Regarding setting up of a task force for Immigration Check Posts (ICPs) in the State to trace foreign nationals residing illegally in India after expiry of visa period.\
+  [202307241228350329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307241228350329.pdf)
 
-- Regarding direct service appointment to the post of Director, Directorate of Forensic Scientific Laboratories, Mumbai, under the Director General (Judicial Technical), Directorate of Forensic Scientific Laboratories, State of Maharashtra.\
-  [202307191749146129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307191749146129.pdf)
+- Outsourcing of 3000 manpower for CP Office, Mumbai from Maharashtra State Security Corporation.\
+  [202307241733258229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307241733258229.pdf)
 
-- Regarding the constitution of a committee to review the suspension of Group-A and Group-B cadre officers in the establishment of the Directorate of Judicial Scientific Laboratories, Mumbai...\
-  [202307201818330429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307201818330429.pdf)
+- Regarding the appointment of Single Nodal Agency (SNA) for PFMS (Public Financial Management System) for fund disbursement and allocation management of the centrally sponsored scheme National Cybercrime Helpline number 1930.\
+  [202307251216576129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307251216576129.pdf)
 
-- Regarding application of GST on expenses incurred for sending smart card registration certificate and license to Post Offices Batwada Service (BNPL).\
-  [202307211638076829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307211638076829.pdf)
+- Installation of fire fighting and fire alarm system etc. along with electrical wiring work in new building at Sub Regional Transport Office, Navi Mumbai. Regarding administrative and financial approval of expenditure budget.\
+  [202307251535517429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307251535517429.pdf)
+
+- Regarding conversion of Vehicle Inspection and Testing Center at Nashik into Automated Vehicle Inspection Center.\
+  [202307261134114229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307261134114229.pdf)
 
 ## Personnel
-- Regarding transfers/ postings of officers of Deputy Superintendent of Police/ Asst. Commissioner of Police (Unarmed) cadre.\
-  [202307171726003329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307171726003329.pdf)
+- Regarding declaration of Appointing Authority to decide on cases of appointment/posting to be made by direct service, promotion or deputation in Assistant Sub-Inspector, Group-C, Jawans, Group-C and Jawans cum drivers, Group-C cadre.\
+  [202307241651291329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307241651291329.pdf)
 
-- Regarding transfers/postings of officers of Deputy Superintendent of Police/Asst. Commissioner of Police (Unarmed) cadre.\
-  [202307171735234029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307171735234029.pdf)
+- Regarding the creation of 1 supernumerary post of police constable on the establishment of Superintendent of Police, railways, Pune....\
+  [202307251104177229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307251104177229.pdf)
 
-- Regarding transfers/postings of officers of Deputy Superintendent of Police/Asst. Commissioner of Police (Unarmed) cadre.\
-  [202307171740374329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307171740374329.pdf)
+- Mr. Ganesh Narayan Shinde, Sub-Inspector of Police (Driver), Additional Commissioner of Police, Motor Transport Department, Nagpada, Brihanmumbai, regarding the creation of a supernumerary post in the cadre of Sub-Inspector of Police (Driver).\
+  [202307271247501529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307271247501529.pdf)
 
-- Regarding transfers/postings of officers of Deputy Superintendent of Police/Asst. Commissioner of Police (Unarmed) cadre.\
-  [202307171747238829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307171747238829.pdf)
-
-- Regarding transfers/postings of officers of Deputy Superintendent of Police/Asst. Commissioner of Police (Unarmed) cadre.\
-  [202307171814493429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307171814493429.pdf)
-
-- Select List Year 2022-23: Regarding posting-on-promotion to posts in the cadre of Deputy Superintendent of Police/Asst. Commissioner of Police (Unarmed)\
-  [202307171821089429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307171821089429.pdf)
-
-- Regular Select List 2022-23: Regarding posting-on-promotion to posts in the cadre of Deputy Superintendent of Police/Asst. Commissioner of Police, Motor Transport.\
-  [202307201218493129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307201218493129.pdf)
+- Fifth Quarter for Modernization of Police Control Rooms (DIAL-112) Project in the State Regarding disbursement of funds for installments as well as payment of arrears.\
+  [202307281148236929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307281148236929.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
