@@ -1,28 +1,22 @@
 # Water Resources Department
 
-**Date Range**: 24 July 2023 - 29 July 2023
+**Date Range**: 31 July 2023 - 05 August 2023
 
 
 ## Funds
-- Second Revised Administrative Approval to Shelarwadi Minor Irrigation Scheme Tal. Khed, Dist. Ratnagiri\
-  [202307241601288927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307241601288927.pdf)
-
-- Grant allowed to heirs of deceased Government Employees under Deposit Link Insurance Scheme.\
-  [202307271441478527.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307271441478527.pdf)
+- Administrative approval to Special Repairs of Mula left bank Canal at Ch Km 17 to km 25.\
+  [202308021155570127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308021155570127.pdf)
 
 ## Miscellaneous
-- Administrative Approval under special repairs of Khandeshwar Medium Project Taluka - Paranda, District - Osamanabad.\
-  [202307271057308627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307271057308627.pdf)
+- Regarding the appointment of a study group to prepare an integrated regulation of reservoirs in the Godavari basin.\
+  [202308011741096727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308011741096727.pdf)
 
 ## Personnel
-- Regarding Appointment and Posting of Maharashtra Engineering Services Examination (Main), 2013 on the Post Deputy Engineers (Mech.), Class-1 Mrs. Chanda Ajay Buktare (Chanda Ramrao Hingole).\
-  [202307251201125827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307251201125827.pdf)
+- Regarding increased Bulk Water Entitlement from Chaktirtha Comprehensive minor Irrigation Project to Malegaon Water Supply Scheme Tal.and Dist.Malegaon .\
+  [202307311651254227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307311651254227.pdf)
 
-- Posting on promotion of Executive Engineer (Civil) of Water Resources Department.\
-  [202307261534458227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307261534458227.pdf)
-
-- Superintended Engineer (Civil) Deem date approval, Shri.Mundada\
-  [202307271652035627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307271652035627.pdf)
+- Regarding bulk water Entitlement from Gharni Medium Project to Anant Shirul Water Supply Scheme in Tal. Shirur Anantpal, Dist. Latur.\
+  [202308041630016127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308041630016127.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

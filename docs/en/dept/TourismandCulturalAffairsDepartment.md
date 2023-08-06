@@ -1,33 +1,33 @@
 # Tourism and Cultural Affairs Department
 
-**Date Range**: 24 July 2023 - 29 July 2023
+**Date Range**: 31 July 2023 - 05 August 2023
 
 
 ## Funds
-- Regarding granting financial approval for the cost of cultural program organized at Panvel, District Raigad on the occasion of the birth anniversary of Swatantra Veer Savarkar.\
-  [202307241513590823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307241513590823.pdf)
+- Admisitrative and financial approval for programme prapoused at gate way of india and fort raigad on the occasion of 350th corenation ceremony.\
+  [202308011613282923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308011613282923.pdf)
 
-- Regarding making funds available for new works in Nashik and Dhule districts under Regional Tourism Development Scheme 2022-23.\
-  [202307251656579123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307251656579123.pdf)
+- Financial approval for drama sangeet sauyukt manapman on its 101 year of programmce.\
+  [202308011613373723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308011613373723.pdf)
 
-- grand for cultural program organised on the occasion of folk likeature and folk art council.\
-  [202307261152277723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307261152277723.pdf)
+- Regarding giving administrative approval to the Directorate of Archives for publication of Selected Rare Letters of Chhatrapati shivaji Maharaj in book from (coffee table book) on the occasion of the festival of 350th Shiv Rajyabhishek Sohla under the Ekchtri scheme of Aazadi ka Amrit Mahotsav.\
+  [202308021212157523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308021212157523.pdf)
 
 ## Miscellaneous
-- Regarding use of logo on government programs and government correspondence on the eve of 350th coronation ceremony of Chatrapati Shivaji Maharaj.\
-  [202307241735557923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307241735557923.pdf)
+- Administrative and financial approval for maharashtrachi lokdhara cultural programme.\
+  [202308011613450823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308011613450823.pdf)
 
-- sanction of grand for steff aveviled from outsource.\
-  [202307261147077023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307261147077023.pdf)
+- Administative and financial approval for vasant Varsha classical music programme.\
+  [202308011613516023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308011613516023.pdf)
 
-- financial and administrative approval for the program organised during visit tour of parliamentary standing community in Mumbai.\
-  [202307261156411723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307261156411723.pdf)
+- Administrative and financial approval for programme performed on occasion of Chatrapati Shahu Maharaj birth anniversary.\
+  [202308031757556523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308031757556523.pdf)
 
-- financial approval for the drama triveni.\
-  [202307271514190223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307271514190223.pdf)
+- Administrative and financial approval for post ticket and its printing on the occasion of Chatrapati Shivaji Maharaj 350 coronation ceremony.\
+  [202308041515530923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308041515530923.pdf)
 
-- administrative and financial approval for programme organised at rajbhavan.\
-  [202307271519111523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307271519111523.pdf)
+- constitution of management committee for the program rashtriya sanskriti mohotsav.\
+  [202308041823464323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308041823464323.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

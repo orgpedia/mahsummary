@@ -1,15 +1,11 @@
 # Housing Department
 
-**Date Range**: 17 July 2023 - 22 July 2023
+**Date Range**: 31 July 2023 - 05 August 2023
 
 
-## Miscellaneous
-- Regarding the extension of time to the study group appointed to recommend to the Government regarding setting up of Slum Rehabilitation Authority for other areas of the State except Slum Rehabilitation Authority Mumbai/Pune and Pimpri Chinchwad and Nagpur as well as Mumbai Metropolitan Region Slum Rehabilitation Authority (MMR-SRA).\
-  [202307181309445109.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307181309445109.pdf)
-
-## Personnel
-- Regarding measures to be taken for effective implementation of Pradhan Mantri Awas Yojana (Urban).\
-  [202307181324002409.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307181324002409.pdf)
+## Funds
+- Regarding reduction in transfer fee levied on transfer of rehabilitation tenements/Non residential shops to close relatives under Slum Rehabilitation Scheme.\
+  [202308021928282409.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308021928282409.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,34 +1,27 @@
 # Law and Judiciary Department
 
-**Date Range**: 24 July 2023 - 29 July 2023
+**Date Range**: 31 July 2023 - 05 August 2023
 
 
 ## Funds
-- Construction of Residential Quarters (First Floor) for Civil Judge (S.D.) at Judicial Magistrate First Class Patur, Dist Akola.\
-  [202307241802075012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307241802075012.pdf)
-
-- Construction of total 4 Residential Quarters for Judges viz.1 for District Judge, 2 for Civil Judge (S.D.) and 1 for Civil Judge (J.D.) at Vaijapur Dist Aurangabad.\
-  [202307241808514112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307241808514112.pdf)
-
-- Construction of Court Building (G4) at Devgad, Dist Sindhudurg.\
-  [202307261037586812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307261037586812.pdf)
-
-- Construction of Court Building (G3) at Mandangad, Dist Ratnagiri\
-  [202307261213266312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307261213266312.pdf)
+- Regarding granting administrative sanction to VPNo BB Connections expenditure amounting to Rs.1,28,220/- to the Court at Family Court, Satara.\
+  [202308031544034512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308031544034512.pdf)
 
 ## Miscellaneous
-- To declare Civil Judge, Senior Division , Mangrulpir, District - Washim, as Office Head Drawing and Disbursing officer.\
-  [202307261302101512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307261302101512.pdf)
+- Declaring Civil Judge Senior Division, Madha, District Solapur as Drawing and Disbursing officer.\
+  [202307311753523512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307311753523512.pdf)
 
-- Regarding the administrative approval of the proposal amounting to Rs.12,03,871/- for purchase of computer equipment for e-filing function in the office of Advocate General High Court Mumbai.\
-  [202307271643169212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307271643169212.pdf)
+- According administrative approval for purchase of translation software for the use of Hon. High Court of Bombay.\
+  [202308011306559812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308011306559812.pdf)
 
-## Personnel
-- Regular Promotion to the post of Deputy Charity Commissioner, Group-A in the Charity Organization Select List 2017-18\
-  [202307281211129412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307281211129412.pdf)
+- Regarding outsourcing the services of 4 vacant posts such as Stenographer (Lower Grade)-1, Stenographer-1 and Clerk- Typist-2 in the Office of the government pleader,high court, bench Nagpur for 11 months or until regular candidates are available through direct service, whichever is earlier.\
+  [202308021631222812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308021631222812.pdf)
 
-- Regular Promotion on the post of Deputy Charity Commissioner, Group-A in the Charity Organization Select List 2021-22\
-  [202307281219583112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307281219583112.pdf)
+- Regarding opening of Personal Deposit Account for Civil Judge ,Senior Division, Karmala, District Solpur.\
+  [202308031625389512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308031625389512.pdf)
+
+- Regarding trial of PMLA Cases in the CBI Special Courts.\
+  [202308031841187812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308031841187812.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

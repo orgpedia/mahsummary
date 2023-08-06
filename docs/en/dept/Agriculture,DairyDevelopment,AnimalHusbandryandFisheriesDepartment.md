@@ -1,73 +1,42 @@
 # Agriculture, Dairy Development, Animal Husbandry and Fisheries Department
 
-**Date Range**: 24 July 2023 - 29 July 2023
+**Date Range**: 31 July 2023 - 05 August 2023
 
 
 ## Funds
-- Approval for establishment of Regional Disease Investigation Laboratory at Latur Head Quarter for Latur Animal Husbandry Department.\
-  [202307241220550601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307241220550601.pdf)
+- Release of Rs.228.91666 lakh grants for FNS-commercial crop(cotton, sugarcane)programme under KrishiUnnati Scheme for General category in year 2023-24\
+  [202308041254043901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308041254043901.pdf)
 
-- Regarding approval for release of fund of General Category Rs. 88,17,90,667/- for the implementation of PMFME in the year 2023-24.\
-  [202307261640113701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307261640113701.pdf)
+- Release of Rs. 6644.95000 lakh grants under National food security mission Scheme for General category in year 2022-23.\
+  [202308041300513201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308041300513201.pdf)
 
-- Release Rs.17.45 crores under Gopinath Munde Shetkari Accident Safety Grant Scheme\
-  [202307281822233101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307281822233101.pdf)
-
-- Regarding release of fund under Chief Minister Food Processing Scheme for the year 2023-24.\
-  [202307281830556501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307281830556501.pdf)
-
-- Regarding release of fund under PMFME of SC category for the year 2023-24.\
-  [202307281837230801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307281837230801.pdf)
+- Regarding disbursement of funds of Rs.70.07000 lakhs for payment of prize money to the winners of crop competition at state to taluka level during the Rabbi season of the year 2021.\
+  [202308041306577601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308041306577601.pdf)
 
 ## Miscellaneous
-- Mahatma Phule Agricultural University, Rahuri under Rajalakshmi Foundation, Mu.Maddgaon, Po.Bhatodi, Dist.Ahmednagar regarding approval to start an Agricultural College by converting the institution into a permanent unaided Agricultural Biotechnology College.\
-  [202307241817289001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307241817289001.pdf)
+- Approval for extension of Cut off date for enrolment of Farmers under Pradhan Mantri Fasal Bima Yojana.\
+  [202307311653309201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307311653309201.pdf)
 
-- Mahatma Phule Agricultural University, Shanaishwar Shikshan Prasarak Mandal (Laling), Dist.Dhule under Mahatma Phule Agricultural University, Rahuri regarding approval to start an agricultural college by converting the institution into a permanent unaided food industry college.\
-  [202307241817392201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307241817392201.pdf)
+- Regarding increase in Fixed Pay (Consolidated Emoluments) of Agricultural Servants in Agriculture Department.\
+  [202308011629399301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308011629399301.pdf)
 
-- Mahatma Phule Agricultural University, Pravara Rural Education Institute under Rahuri, Loni Khurd, Dist. Rahata, Dist.Ahmednagar regarding sanctioning of additional batch to the permanent unaided college Agricultural College, Pravara Nagar, Dist. Rahata, Dist. Ahmednagar.\
-  [202307241958417101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307241958417101.pdf)
+- Regarding extending the lease period of Fish Seed/Shrimp Seed Production and Conservation Centers in the State.\
+  [202308011734259701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308011734259701.pdf)
 
-- Regarding approving the grant of additional batch to the permanent unaided Agricultural College, Vadgaon Gupta (Viladghat), District Ahmednagar of Dr. Vitthalrao Vikhe Patil Institute, Viladghat, District Ahmednagar under Mahatma Phule Agricultural University, Rahuri.\
-  [202307241959151301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307241959151301.pdf)
+- To celebrate farmers day on 30 august 2023 to compare birth anniversary of Padma shree dr. vikhe patil.\
+  [202308031200254401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308031200254401.pdf)
 
-- Dr. Balasaheb Sawant Kokan Agricultural University, Dapoli under Bhairavanath Nature Society, Aurangabad as permanent non-subsidized Agricultural College, Achaloli, T. Mahad, Dist. Raigad regarding approving the sanction of increment to this college.\
-  [202307241959403401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307241959403401.pdf)
+- Regarding providing financial assistance to the families of fishermen and sailors from Maharashtra State for their livelihood if they are caught by the Maritime Security Agency of Pakistan\
+  [202308031528063701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308031528063701.pdf)
 
-- Vasantrao Naik Marathwada Agricultural University, Parbhani under Shri. With regard to approving the grant of increment to the permanent unaided Agricultural College, Alni (Gadpati), Distt.Usmanabad of Sai Janavikas Pratishthan, Aurangabad.\
-  [202307242000050801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307242000050801.pdf)
+- Regarding the formation of a committee to determine fisheries development policy\
+  [202308041125137601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308041125137601.pdf)
 
-- Vasantrao Naik Marathwada Agricultural University, Parbhani under Shri. Regarding approval to start an Agricultural College by converting the institution into permanent unaided Agricultural Biotechnology College, Dhaneshwari Manav Vikas Mandal, Gevrai Tanda, Aurangabad.\
-  [202307242000239701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307242000239701.pdf)
+- Regarding giving approval to the Sahyadri Cooperative Sugar Factory Ltd. Yeshwantnagar, Dist. Karad, Dist. Satara to start a new Agricultural College on permanent unaided basis at Yeshwantnagar, Dist. Karad, Dist. Satara under Mahatma Phule Agricultural University, Rahuri.\
+  [202308041436099801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308041436099801.pdf)
 
-- Vasantrao Naik Marathwada Agricultural University, Parbhani under Mauli Shikshan Prasarak Mandal, Aurangabad regarding approval to start an agricultural college by converting the college as a permanent unaided food technology college, Loni, Udgir district, Latur district.\
-  [202307242000508401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307242000508401.pdf)
-
-- Regarding approving the establishment of Agricultural College by converting the institute into a permanent unaided Agribusiness Management College under Dr. Radhesham Shivram Gunjal Welfare Foundation, Chandnapuri Ghat, Gunjalwadi Sub-district Sangamner, District Ahmednagar under Mahatma Phule Agricultural University, Rahuri.\
-  [202307261429093101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307261429093101.pdf)
-
-- Regarding enrollment of students of agricultural universities and their affiliated colleges as voters in the electoral roll under the Special Brief Revision Programme, 2024.\
-  [202307261749431801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307261749431801.pdf)
-
-- To cancel Gopinath Munde Shetakari Apaghat Yojana G. R. dated 08.08.2022.\
-  [202307261755479501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307261755479501.pdf)
-
-- Regarding Integrated Dairy Development Programme under DPDC\
-  [202307271807504201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307271807504201.pdf)
-
-- Release amount of Rs. 18,73,92,977/- Under the Pradhan Mantri Fasal Bima Yojana\
-  [202307281828004201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307281828004201.pdf)
-
-## Personnel
-- Maharashtra Agricultural Service Group-B (Junior) Cadre Transfers - 2023 (Partial Changes)\
-  [202307241157175501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307241157175501.pdf)
-
-- For widening Ambajogai Gitta-JawalGaon road Under Vasantrao Naik Marathwada Agricultural University, Parbhani Survey No.165 at Pulses Research Sub-Centre, Ambajogai 0 hectare 68 r of road land acquired in Regarding getting permission to do.\
-  [202307261544481601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307261544481601.pdf)
-
-- Regarding permission to open separate bank account for implementation of Namo Shetkari Mahasanman Nidhi Yojana through Public Financial Management System.\
-  [202307281542316501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307281542316501.pdf)
+- Regarding grant of approval for opening bank accounts for Fasal projects implemented through Mahalanobis National Crop Forecasting Centre, Government of India.\
+  [202308041814412501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308041814412501.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

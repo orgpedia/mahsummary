@@ -55,7 +55,6 @@ def main(markdown_dir):
     lists = get_lists()
     print(f'# Lists: {len(lists)}')
 
-    sys.exit(1)
     campaign_ids = []
     for list in lists:
         list_id, list_name = list['id'], list['name']
