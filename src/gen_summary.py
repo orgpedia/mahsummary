@@ -122,7 +122,7 @@ def annotate_doc_infos(gr_dir, doc_infos):
         line_idx = 0
         for idx, line in enumerate(lines):
             line = line.strip(' .,').lower()
-            if line.startswith('the government of maharashtra') or line.startswith('government of maharashtra') or line.startswith('the maharashtra government'):
+            if line.startswith('the government of maharashtra') or line.startswith('government of maharashtra') or line.startswith('the maharashtra government') or line.startswith('| the government of maharashtra'):
                 line_idx = idx
                 break
 

@@ -1,19 +1,18 @@
 # Finance Department
 
-**Date Range**: 31 July 2023 - 05 August 2023
+**Date Range**: 07 August 2023 - 12 August 2023
 
-
-## Funds
-- Administrative approval to new GST building at Kalyan.\
-  [202308041624311905.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308041624311905.pdf)
 
 ## Miscellaneous
-- Maharashtra group-C services main exam-2021 recommended by maharashtra public service commission, Regarding cancellation of allotment of waitlisted candidates to the post of Technical Assistant, Group-C in Directorate of Insurance.\
-  [202308041253567705.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308041253567705.pdf)
+- Increase in overtime allowance to government vehicle drivers.\
+  [202308071444047805.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308071444047805.pdf)
+
+- According to the Rights of Persons with Disabilities Act, 2016, regarding ensuring posts in the Government Service for persons with disabilities for posts in Group-A, B, C and D cadres in the Directorate, Directorate of Accounts and Treasury and Directorate of Local Fund Audit and subordinate offices.\
+  [202308071646519105.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308071646519105.pdf)
 
 ## Personnel
-- Guidelines in respect of an alternative fund flow mechanism named SNA-SPARSH for just-in-time release of Centrally Sponsored Schems (CSS) funds through e-kuber platform of Reserve Bank of India (RBI).\
-  [202308031027130605.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308031027130605.pdf)
+- Officers in the cadre of Joint Director of Maharashtra Finance and Accounts Service. Final seniority list showing status as on 1st January 2022.\
+  [202308091443085805.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308091443085805.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

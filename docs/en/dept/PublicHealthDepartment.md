@@ -1,61 +1,57 @@
 # Public Health Department
 
-**Date Range**: 31 July 2023 - 05 August 2023
+**Date Range**: 07 August 2023 - 12 August 2023
 
 
 ## Funds
-- Regarding getting administrative approval for the work of arranging Asha staff accommodation in Melghat area of Amravati district.\
-  [202306272012562717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202306272012562717.pdf)
+- For tribal deployment for the year 2023-24 under the Centrally Sponsored National Ayush Abhiyan 2210F981 60 central share of Rs. 153.066 lakhs and 40 from the head of account 2210F999. Regarding disbursement of total subsidy of Rs.255.110 lakhs amounting to Rs.102.044 lakhs for share.\
+  [202306272013055717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202306272013055717.pdf)
 
-- Regarding the approval of Nacof India Limited (NACOF) to start a Generic medicine shop under all the Government Hospitals currently functioning under the Public Health Department\
-  [202307211316098917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307211316098917.pdf)
+- From the General Plan for the year 2023-24 under the Centrally Sponsored National AYUSH Abhiyan 2210G135 60 central share of Rs. 689.275 lakhs and a total of Rs.459.517 lakhs for 40 state share from account 2210G144. Regarding disbursement of grant of Rs.1148.792 lakhs\
+  [202306272013157717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202306272013157717.pdf)
 
-- Regarding distribution of fund under Mahatma Jyotirao Phule Jan Aarogya Yojana, in the financial year 2023-24, under 2210 G 289 (TSP).\
-  [202308021020067217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308021020067217.pdf)
+- Approval for recurring expenditure on ambulances operating under Maharashtra Emergency Medical Services Scheme (MEMS) for the year 2023-24. (70 payment for June, 2023)\
+  [202308041213180917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308041213180917.pdf)
 
-- Regarding giving administrative approval to the budget for the repair and construction of District Hospital Beed.\
-  [202308031151534417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308031151534417.pdf)
+- Regarding disbursement of funds through State share (40) under the head of account 2210 G 449 (General) for Pradhan Mantri Jan Arogya Yojana for the financial year 2023-2024.\
+  [202308071607214217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308071607214217.pdf)
 
-- Regarding granting Administrative approval for e-tendering for appointment of service provider for Maharashtra Emergency Medical Services Project on PPP basis for a period of ten years\
-  [202308041212504517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308041212504517.pdf)
+- Regarding disbursement of funds for the Mahatma Jyotirao Phule Jan Arogya Yojana for the financial year 2023-24 under the head of account 2210 G 251.\
+  [202308071607465317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308071607465317.pdf)
+
+- Regarding giving administrative approval to budget and plans for furniture work at 200 bedded womens hospital, Amravati\
+  [202308091658356917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308091658356917.pdf)
 
 ## Miscellaneous
-- Regarding approval of new District Hospital at Osmanabad.\
-  [202307131822002317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307131822002317.pdf)
+- Regarding Deputation of Shri. Amol Mutyal ,Deputy Secretary as General Manager (Administration) for the establishment Section of Maharashtra Medical Goods Procurement Authority.\
+  [202307042003295917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307042003295917.pdf)
 
-- Providing free diet services to malnourished, sick children and women during and after delivery and their accompanying two children/relatives in Melghat area.\
-  [202307211316222617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307211316222617.pdf)
+- Regarding termination of probationary period of Medical Officer Group-A in the Maharashtra Medical and Health Service cadre\
+  [202308031309384417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308031309384417.pdf)
 
-- Regarding upgradation from 50 bedded to 100 bedded -Sub District Hospital Mul, District Chandrapur.\
-  [202307211316335117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307211316335117.pdf)
+- Regarding termination of probationary period of Medical Officer Group-A in the Maharashtra Medical and Health Service cadre\
+  [202308031309468917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308031309468917.pdf)
 
-- Regarding approval of Primary Health Center at Mauje Korochi, Hatkanangle, District Kolhapur.\
-  [202308031151408517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308031151408517.pdf)
+- Regarding termination of probationary period of Medical Officer Group-A in the Maharashtra Medical and Health Service cadre.\
+  [202308031309525417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308031309525417.pdf)
 
-- Wagholi Regarding approval of upgradation of Primary Health Center in Haveli District Pune to 30 bedded rural hospital as a special case.\
-  [202308041540469317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308041540469317.pdf)
+- Regarding termination of probationary period of Medical Officer Group-A in the Maharashtra Medical and Health Service cadre.\
+  [202308031310058017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308031310058017.pdf)
 
-- Safale, Distt. Regarding approval for upgradation of primary health center at Palghar to 30 bedded rural hospital...\
-  [202308041540576117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308041540576117.pdf)
+- Regarding upgradation of 30-Bed Rural hospital to 50-Bed Sub-district hospital at Surgana, District Surgana, District Nashik\
+  [202308041213238817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308041213238817.pdf)
 
-- Mauje Puloj District Pandharpur Distt. Regarding approval of upgradation of primary center at Solapur to 30 bedded rural hospital as special matter\
-  [202308041541040017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308041541040017.pdf)
+- Dr. Sridhar Subrao Wagh, Medical Officer, Regarding fixed age retirement of Group-A.\
+  [202308081210571217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308081210571217.pdf)
 
-## Personnel
-- Final Common Seniority List dated 01.01.2021 of Civil Surgeons, District Health Officers and Specialists in Maharashtra Medical and Health Service, Group A\
-  [202307311441233617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307311441233617.pdf)
+- Dr. Pushpalata Pandurang Solvale, Medical Officer, Regarding fixed age retirement of Group-A.\
+  [202308081211033717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308081211033717.pdf)
 
-- Regarding the transfer of the posts of Additional Director / Joint Director / Deputy Director in Maharashtra Medical and Health Services, Group-A.\
-  [202308011100166317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308011100166317.pdf)
+- Dr. Mahendra Vilasrao Phalke, Medical Officer, Regarding fixed age retirement of Group-A.\
+  [202308081211094417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308081211094417.pdf)
 
-- Regarding transfer of officers in the cadre of Chief Administrative Officers in the General State Service, Group-A\
-  [202308011324565017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308011324565017.pdf)
-
-- Regarding posting by transfer of specialist cadre officers.\
-  [202308011512594917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308011512594917.pdf)
-
-- Regarding posting by transfer of specialist cadre officers\
-  [202308031354025717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308031354025717.pdf)
+- Regarding giving administrative approval to budget and plans for furniture work at 200 bedded womens hospital, Amravati\
+  [202308091658285317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308091658285317.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

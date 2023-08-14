@@ -1,33 +1,33 @@
 # Tourism and Cultural Affairs Department
 
-**Date Range**: 31 July 2023 - 05 August 2023
+**Date Range**: 07 August 2023 - 12 August 2023
 
 
 ## Funds
-- Admisitrative and financial approval for programme prapoused at gate way of india and fort raigad on the occasion of 350th corenation ceremony.\
-  [202308011613282923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308011613282923.pdf)
+- Regarding cancellation of administrative approval of administratively approved works under Regional Tourism Development Scheme 2022-23 and giving administrative approval to new works instead.\
+  [202308080831275423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308080831275423.pdf)
 
-- Financial approval for drama sangeet sauyukt manapman on its 101 year of programmce.\
-  [202308011613373723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308011613373723.pdf)
+- Regarding approval of Tourism Marketing Plan 2023-24 for the year 2023-24....\
+  [202308081734034523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308081734034523.pdf)
 
-- Regarding giving administrative approval to the Directorate of Archives for publication of Selected Rare Letters of Chhatrapati shivaji Maharaj in book from (coffee table book) on the occasion of the festival of 350th Shiv Rajyabhishek Sohla under the Ekchtri scheme of Aazadi ka Amrit Mahotsav.\
-  [202308021212157523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308021212157523.pdf)
+- Grant - in Aid to cultural firms working in the field of experimental performing art.\
+  [202308081812554823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308081812554823.pdf)
+
+- Administrative Approval and financial approval to carry out microfilming of documents of Directorate of Archives through L-1 Agency\
+  [202308091243286823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308091243286823.pdf)
+
+- Regarding availability of cloud platform from MahaIT to launch website of Department of Tourism and Cultural Affairs to public\
+  [202308101221535723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308101221535723.pdf)
+
+- Under the Regional Tourism Development Plan for the year 2023-24, regarding the provision of funds for new works at the Directorate of Tourism and District level with administrative approval.\
+  [202308101705364423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308101705364423.pdf)
 
 ## Miscellaneous
-- Administrative and financial approval for maharashtrachi lokdhara cultural programme.\
-  [202308011613450823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308011613450823.pdf)
+- Administrative and financial approval for the programmes organised for state cultural award 2019 and 2020 ceremony.\
+  [202308081606290323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308081606290323.pdf)
 
-- Administative and financial approval for vasant Varsha classical music programme.\
-  [202308011613516023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308011613516023.pdf)
-
-- Administrative and financial approval for programme performed on occasion of Chatrapati Shahu Maharaj birth anniversary.\
-  [202308031757556523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308031757556523.pdf)
-
-- Administrative and financial approval for post ticket and its printing on the occasion of Chatrapati Shivaji Maharaj 350 coronation ceremony.\
-  [202308041515530923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308041515530923.pdf)
-
-- constitution of management committee for the program rashtriya sanskriti mohotsav.\
-  [202308041823464323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308041823464323.pdf)
+- Administrative and financial approval for the programme performed on 9th august and the occasion of rally.\
+  [202308091649128423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308091649128423.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,34 +1,39 @@
 # Water Supply and Sanitation Department
 
-**Date Range**: 31 July 2023 - 05 August 2023
+**Date Range**: 07 August 2023 - 12 August 2023
 
 
 ## Funds
-- To release General (State Share) fund to State Water and Sanitation Mission under Jal Jeevan Mission ( Budget Head 2215 2071)\
-  [202308011507490628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308011507490628.pdf)
+- Revised Administrative approval to Mou. Bhomdipada (Karanji Bu.)(Tal.Navapur, Dist.Nandurbar) water supply sceme Under JJM.\
+  [202307251901059028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307251901059028.pdf)
 
-- Regarding fund release to State Water and Sanitation Mission for Water quality Monitoring Surveillance and support fund under Jal Jeevan Mission (Budget head 2215 9971 -State Share)\
-  [202308011507556628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308011507556628.pdf)
+- Revised Administrative approval to Mou. Bokaljhar (Tal.Navapur, Dist.Nandurbar) water supply sceme Under JJM.\
+  [202307251901133128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307251901133128.pdf)
 
-## Miscellaneous
-- Budget grant 2023-2024 Demand Number Y-04, 2702 Estabilishment of exploration and development of small irrigation groundwater assets (non-plan)(2702 3918).\
-  [202307311235122828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307311235122828.pdf)
+- Revised Administrative approval to Mou. Tarapur (Tal.Navapur, Dist.Nandurbar) water supply sceme Under JJM.\
+  [202307251901212828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307251901212828.pdf)
 
-- Budget grant 2023-2024 Demand Number Y-06, 4402 capital expenditure on soil and water conservation (non-plan)\
-  [202308021722251728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308021722251728.pdf)
+- Revised Administrative approval to Mou. Tarpada (Tal.Navapur, Dist.Nandurbar) water supply sceme Under JJM.\
+  [202307251901295828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307251901295828.pdf)
 
-- Regarding Vehicle Review and Vehicle Permitting of Ground Water Survey and Development Agency\
-  [202308031606385328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308031606385328.pdf)
+- Revised Administrative approval to Mou. Dhanaje Bu.(Juni and Navi Mungabari) (Tal.Dhadgaon, Dist.Nandurbar) water supply sceme Under JJM.\
+  [202307251901372728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307251901372728.pdf)
+
+- Revised Administrative approval to Mou. Kokanifali (Amalan)(Tal.Navapur, Dist.Nandurbar) water supply sceme Under JJM.\
+  [202307251901445628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307251901445628.pdf)
+
+- Revised Administrative approval to Mou. Nijampur (Tal.Navapur, Dist.Nandurbar) water supply sceme Under JJM.\
+  [202307251901518928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307251901518928.pdf)
+
+- Grant Release head 22151881\
+  [202308091318109128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308091318109128.pdf)
 
 ## Personnel
-- Provisional Final seniority list of Senior Geologist, GSDA (01.01.2023)\
-  [202308011135253028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308011135253028.pdf)
+- Provisional Seniority List of Officers/Employees in Group-B Cadre of Assistant Geophysicist in Ground Water Survey and Development Agency (Dated 1/1/2022 to Date 1/1/2023)\
+  [202308071125023028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308071125023028.pdf)
 
-- Provisional Final seniority list of employees in Group-B cadre of Section Engineer in Ground Water Survey and Development Agency(01.01.2023)\
-  [202308011135375528.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308011135375528.pdf)
-
-- Provisional Final seniority list of Group-B cadre of Assistant Chemist in Ground Water Survey and Development Agency(01.01.2023)Provisional Final seniority list of Group-B cadre of Assistant Chemist in Ground Water Survey and Development Agency(01.01.2023)\
-  [202308011135436628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308011135436628.pdf)
+- Provisional Final Seniority List of Senior Drilling Engineer Group-A Cadre (Dated 1/1/2022 to Date 1/1/2023) in Ground Water Survey and Development Agency\
+  [202308071125227928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308071125227928.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,20 +1,34 @@
 # Medical Education and Drugs Department
 
-**Date Range**: 31 July 2023 - 05 August 2023
+**Date Range**: 07 August 2023 - 12 August 2023
 
+
+## Funds
+- Administrative approval to Government Medical College, Parbhani for the purchase of new furniture material.\
+  [202308071127482013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308071127482013.pdf)
 
 ## Miscellaneous
-- Punyashlok Ahilya Devi Holkar Government Medical College Baramati regarding provision of security guard services through Pune District Security Guard Board Pune and providing administrative approval for the annual expenditure incurred for the same.\
-  [202308021740045913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308021740045913.pdf)
+- Administrative approval to Government Medical College, Parbhani for the purchase of new furniture material\
+  [202308071128026413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308071128026413.pdf)
 
-- Administrative Approval For Construction of Security Cabin at Gate No 1 2 construction of toilet beside Library Other Work at Government Medical College Hospital, Baramati\
-  [202308031140329613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308031140329613.pdf)
+- Administrative approval to Government Medical College, Parbhani for the purchase of new furniture material.\
+  [202308071128103213.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308071128103213.pdf)
 
-- Administrative Approval For Purchase of Furniture From State Plan Grant for the Year 2023-24 at Government Medical College Hospital, Baramati\
-  [202308031140487813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308031140487813.pdf)
+- Purchase of Turn Key base Machinery through Medical Education Drugs Department Required for Government Medical College Dental College.\
+  [202308071301499813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308071301499813.pdf)
 
-- Regarding approval to make four wheeler available on lease for the office work of the Principal, Government Medical College, Parbhani.\
-  [202308031629138613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308031629138613.pdf)
+- Regarding renaming Government Medical College and Hospital, Satara to Chhatrapati Sambhaji Maharaj Government Medical College and Hospital, Satara.\
+  [202308091000299713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308091000299713.pdf)
+
+- Regarding approving the opening of Personal Ledger Account (PLA) for Government Medical College and Hospital, Chandrapur.\
+  [202308091117532913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308091117532913.pdf)
+
+- Regarding exemption from fees charged by Maharashtra University of Health Sciences, Nashik for obtaining Affiliation Certificate and Renewal of Affiliation Certificate to Government Colleges.\
+  [202308101745491413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308101745491413.pdf)
+
+## Personnel
+- Regarding approving the opening of Personal Ledger Account (PLA) for Government Medical College and Hospital, Jalgaon\
+  [202308091134520613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308091134520613.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

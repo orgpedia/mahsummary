@@ -1,27 +1,27 @@
 # Law and Judiciary Department
 
-**Date Range**: 31 July 2023 - 05 August 2023
+**Date Range**: 07 August 2023 - 12 August 2023
 
 
 ## Funds
-- Regarding granting administrative sanction to VPNo BB Connections expenditure amounting to Rs.1,28,220/- to the Court at Family Court, Satara.\
-  [202308031544034512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308031544034512.pdf)
+- To accord administrative approval to the work of Structural Strengthening and renovation at 1st floor at Central Telegraph Office Building at Fort, Mumbai rented for Bombay High Court, Mumbai.\
+  [202308091559093212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308091559093212.pdf)
+
+- Revised Administrative Approval to Construction of Court Building at Kalambhe, Tal Shahapur Dist Thane.\
+  [202308101753394112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308101753394112.pdf)
 
 ## Miscellaneous
-- Declaring Civil Judge Senior Division, Madha, District Solapur as Drawing and Disbursing officer.\
-  [202307311753523512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307311753523512.pdf)
+- Hon. Regarding giving administrative approval to the proposal amounting to Rs.49,90,535/- for purchase of Digital Signature Certificate with USB Tokens for Judicial Officers, State of Maharashtra.\
+  [202308071502485512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308071502485512.pdf)
 
-- According administrative approval for purchase of translation software for the use of Hon. High Court of Bombay.\
-  [202308011306559812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308011306559812.pdf)
+- Construction of one residential quarters for Civil Judge (S.D.) at Karjat, Dist Ahmednagar\
+  [202308101745089412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308101745089412.pdf)
 
-- Regarding outsourcing the services of 4 vacant posts such as Stenographer (Lower Grade)-1, Stenographer-1 and Clerk- Typist-2 in the Office of the government pleader,high court, bench Nagpur for 11 months or until regular candidates are available through direct service, whichever is earlier.\
-  [202308021631222812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308021631222812.pdf)
+- Establishment of Lift in the District Court Building,Thane\
+  [202308101749585012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308101749585012.pdf)
 
-- Regarding opening of Personal Deposit Account for Civil Judge ,Senior Division, Karmala, District Solpur.\
-  [202308031625389512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308031625389512.pdf)
-
-- Regarding trial of PMLA Cases in the CBI Special Courts.\
-  [202308031841187812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308031841187812.pdf)
+- Construction of 10 Residential Quarters viz.5 for District Judges and Adhoc District Judges, 5 for Civil Judges (S.D.) and Chief Judiciary Magistrate at Nyaynagari, Dist Buldhana\
+  [202308111455358812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308111455358812.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

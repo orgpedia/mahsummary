@@ -1,0 +1,5 @@
+curl -vs -u 'orgpedia_admin:patra_pathav' -X GET 'https://listsrv.orgpedia.in/api/campaigns?page=1&per_page=100' >  /tmp/campaigns.txt;
+cat /tmp/campaigns.txt | jq '.data.results[].id' > /tmp/campaign.ids.txt;
+#for f in `cat /tmp/campaign.ids.txt`; do curl -u 'orgpedia_admin:patra_pathav' -X DELETE https://listsrv.orgpedia.in/api/campaigns/$f; echo; done;
+
+
