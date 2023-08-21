@@ -1,21 +1,22 @@
 # Planning Department
 
-**Date Range**: 07 August 2023 - 12 August 2023
+**Date Range**: 14 August 2023 - 19 August 2023
 
 
 ## Funds
-- Regarding the distribution of funds for the development plan for creating basic facilities in Srikshetra Dehu, Alandi, Pandharpur, Bhandara Dongar, Palkhital, Nevasa.\
-  [202308081656131116.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308081656131116.pdf)
+- Government at your Doorstep campaign.\
+  [202308181641474816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308181641474816.pdf)
 
-- Regarding disbursement of funds for Srikshetra Bhimashankar Pilgrimage Development Plan, Taluka Khed and Taluka Ambegaon, District Pune\
-  [202308111719326516.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308111719326516.pdf)
+## Miscellaneous
+- Recapitalisation assistance to Vidarbha Konkan Gramin Bank for the financial year 2022-23\
+  [202308181151554316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308181151554316.pdf)
+
+- Regarding the inclusion of the development sector Energy in the core area in the District Annual Plan (General).\
+  [202308181806284216.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308181806284216.pdf)
 
 ## Personnel
-- Employees Master Database (EMDb)\
-  [202308081528237616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308081528237616.pdf)
-
-- Regarding transfer request of Deputy Director, Group-A cadre officers in Directorate of Finance and Statistics.\
-  [202308111654241616.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308111654241616.pdf)
+- Regarding the permanent and temporary posts as per the revised diagram on the establishment of the Planning Department (Proper).\
+  [202308171550142216.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308171550142216.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
