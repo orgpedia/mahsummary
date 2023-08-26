@@ -1,15 +1,15 @@
 # Women and Child Development Department
 
-**Date Range**: 07 August 2023 - 12 August 2023
+**Date Range**: 21 August 2023 - 26 August 2023
 
 
 ## Funds
-- To release fund for Habitual offenders and probation of offenders scheme under budget Head (2235-0113) for the financial year 2023-24\
-  [202308071729011730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308071729011730.pdf)
+- Release of Grant for the Salary of ICDS employees for the year 2023-24.\
+  [202308211742261830.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308211742261830.pdf)
 
 ## Miscellaneous
-- Regarding the task force set up to review and suggest measures to reduce malnutrition in tribal areas of the state.\
-  [202308091415057730.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308091415057730.pdf)
+- Regarding approval of opening of new account head for funds received through Central Government for all component schemes under Centrally Sponsored Mission Shakti Umbrell Scheme.\
+  [202308221742049930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308221742049930.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

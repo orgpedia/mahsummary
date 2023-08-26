@@ -1,39 +1,30 @@
 # Water Supply and Sanitation Department
 
-**Date Range**: 07 August 2023 - 12 August 2023
+**Date Range**: 21 August 2023 - 26 August 2023
 
 
 ## Funds
-- Revised Administrative approval to Mou. Bhomdipada (Karanji Bu.)(Tal.Navapur, Dist.Nandurbar) water supply sceme Under JJM.\
-  [202307251901059028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307251901059028.pdf)
+- To release SCC (State Share) fund to State Water and Sanitation Mission under Jal Jeevan Mission (Budget head 2215 A097)\
+  [202308211127108228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308211127108228.pdf)
 
-- Revised Administrative approval to Mou. Bokaljhar (Tal.Navapur, Dist.Nandurbar) water supply sceme Under JJM.\
-  [202307251901133128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307251901133128.pdf)
+- To release STC (State Share) fund to State Water and Sanitation Mission under Jal Jeevan Mission ( Budget Head 2215 A061)\
+  [202308211127325328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308211127325328.pdf)
 
-- Revised Administrative approval to Mou. Tarapur (Tal.Navapur, Dist.Nandurbar) water supply sceme Under JJM.\
-  [202307251901212828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307251901212828.pdf)
+- Regarding Central share fund under Jal Jeevan Mission (year 2023-2024)\
+  [202308211745590028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308211745590028.pdf)
 
-- Revised Administrative approval to Mou. Tarpada (Tal.Navapur, Dist.Nandurbar) water supply sceme Under JJM.\
-  [202307251901295828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307251901295828.pdf)
+- Regarding granting administrative approval for procurement of servers and server racks and 24 Port switches and other ancillary materials for servers and servers for scanning and data storage under Water Supply and Sanitation Department.\
+  [202308231304318228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308231304318228.pdf)
 
-- Revised Administrative approval to Mou. Dhanaje Bu.(Juni and Navi Mungabari) (Tal.Dhadgaon, Dist.Nandurbar) water supply sceme Under JJM.\
-  [202307251901372728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307251901372728.pdf)
-
-- Revised Administrative approval to Mou. Kokanifali (Amalan)(Tal.Navapur, Dist.Nandurbar) water supply sceme Under JJM.\
-  [202307251901445628.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307251901445628.pdf)
-
-- Revised Administrative approval to Mou. Nijampur (Tal.Navapur, Dist.Nandurbar) water supply sceme Under JJM.\
-  [202307251901518928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307251901518928.pdf)
-
-- Grant Release head 22151881\
-  [202308091318109128.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308091318109128.pdf)
+- Grant Release head 22151843.\
+  [202308251204385728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308251204385728.pdf)
 
 ## Personnel
-- Provisional Seniority List of Officers/Employees in Group-B Cadre of Assistant Geophysicist in Ground Water Survey and Development Agency (Dated 1/1/2022 to Date 1/1/2023)\
-  [202308071125023028.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308071125023028.pdf)
+- Termination of probation period of Deputy Engineer (Mechanical) in Ground water Survey and Development Agency. Shri Nitin Dandagavhal\
+  [202308241125257828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308241125257828.pdf)
 
-- Provisional Final Seniority List of Senior Drilling Engineer Group-A Cadre (Dated 1/1/2022 to Date 1/1/2023) in Ground Water Survey and Development Agency\
-  [202308071125227928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308071125227928.pdf)
+- Regarding the posting of Mr. Sunil Mahajan on the post of Assistant Administrative Officer (Group-B) in Ground Water Survey and Development Agency.\
+  [202308251138588828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308251138588828.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

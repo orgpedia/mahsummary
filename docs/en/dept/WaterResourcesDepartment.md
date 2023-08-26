@@ -1,20 +1,18 @@
 # Water Resources Department
 
-**Date Range**: 14 August 2023 - 19 August 2023
+**Date Range**: 21 August 2023 - 26 August 2023
 
+
+## Miscellaneous
+- Corrigendum..... Maharashtra Engineering (Civil) Service Exam 2019, regarding recruitment to the post of Assistant Engineer Grade-2 (Civil) Group-B\
+  [202308251153409727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308251153409727.pdf)
+
+- Formation of a committee to recommend and co-ordinate on project regarding tourism of reservoir of Water Resources Department in Maharashtra.\
+  [202308251706413027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308251706413027.pdf)
 
 ## Personnel
-- Minor Change ant posting of Executive Engineer (Civil) of Water Resources Department.\
-  [202308171512433827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308171512433827.pdf)
-
-- Transfer and posting of Executive Engineer (Mechanical) in the Water Resources Department\
-  [202308171835187727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308171835187727.pdf)
-
-- Regarding posting of Junior Engineer / Sectional Engineer / Assistant Engineer Grade-2 Cadre in Water Resources Department.\
-  [202308181631318727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308181631318727.pdf)
-
-- Posting of Deputy Engineer.\
-  [202308181737521727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308181737521727.pdf)
+- Regarding Recruitment to the Post of Assistant Engineer Grade - 2 (Civil) Group-B in Maharashtra Engineering (Civil) Service Examination 2019\
+  [202308211213140627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308211213140627.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

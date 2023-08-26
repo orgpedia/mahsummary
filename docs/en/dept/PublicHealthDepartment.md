@@ -1,31 +1,27 @@
 # Public Health Department
 
-**Date Range**: 14 August 2023 - 19 August 2023
+**Date Range**: 21 August 2023 - 26 August 2023
 
 
 ## Funds
-- Approval for recurring expenditure on ambulances operating under Maharashtra Emergency Medical Services Scheme (MEMS) for the year 2023-24. (70 payment for July, 2023)\
-  [202308141228272417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308141228272417.pdf)
+- 60 percent Central share from account head 2210G574 for social justice and special assistance component for the year 2023-24 under Centrally Sponsored National AYUSH Abhiyan Rs. 275.427 lakhs and disbursing a total grant of Rs.459.045 lakhs amounting to Rs.183.618 lakhs for 40 percent state share from the head of account 2210G583.\
+  [202306272013306517.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202306272013306517.pdf)
 
-- Regarding provision of funds for recurrent expenditure on operational ambulances under Maharashtra Emergency Medical Services Scheme (MEMS)\
-  [202308141228369017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308141228369017.pdf)
+- Administrative approval for the purchase of equipments and materials required for cataract surgery in government hospitals under the National Blindness Control Program for the promotion of cataract surgery, CRC code 2210 0164 under the heading grant-31 (Non-salary) of Rs. 10,00,00,000/- (Rs. Ten crore) In the Financial year 2023-24.\
+  [202307042003097117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307042003097117.pdf)
+
+- Regarding giving administrative approval to the budget and plan for the construction of Nurses Residence and other ancillary works at Rural Hospital, Ghoti District Nashik.\
+  [202308231728169817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308231728169817.pdf)
 
 ## Miscellaneous
-- Regarding the formation of a committee to investigate the accident that happened at Chhatrapati Shivaji Maharaj Hospital, Kalwa Hospital under the jurisdiction of Thane Municipal Corporation\
-  [202308141227528417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308141227528417.pdf)
+- Primary Health Center Yevda, Tal. Daryapur District Amravati Regarding up gradation to 30 bedded rural hospital.\
+  [202308091658562217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308091658562217.pdf)
 
-## Personnel
-- REGARDING CONTINUATION OF TEMPORARY POSTS\
-  [202308141120579317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308141120579317.pdf)
+- Regarding intake capacity and admission Process of ANM and GNM for year 2023-24 under Public health Department.\
+  [202308221757115617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308221757115617.pdf)
 
-- With regard to partial modification of the appointment made by nomination in the cadre of District Surgeon/Specialist in the Maharashtra Medical and Surgical Services, Group-A.\
-  [202308141138111317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308141138111317.pdf)
-
-- On temporary promotion to Deputy Director, Health Services Cadre.\
-  [202308141139135317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308141139135317.pdf)
-
-- Regarding posting by transfer on the posts of Additional Director / Joint Director / Deputy Director in Maharashtra Medical and Health Services, Group-A Dr. Hemantkumar Borse\
-  [202308141139199117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308141139199117.pdf)
+- Regarding free examination and treatment in government hospitals under the control of the Public Health Department.\
+  [202308231324241917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308231324241917.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,36 +1,46 @@
 # Home Department
 
-**Date Range**: 14 August 2023 - 19 August 2023
+**Date Range**: 21 August 2023 - 26 August 2023
 
+
+## Funds
+- Regarding sanctioning the release of funds for the centrally sponsored scheme National Cybercrime Helpline number 1930\
+  [202308211737517629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308211737517629.pdf)
+
+- Demand No. B-3, Re-appropriation of grant under Head 2041-Tax on Vehicles.\
+  [202308251659079129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308251659079129.pdf)
 
 ## Miscellaneous
-- Regarding the opening of a bank account under the designation of Joint Secretary, Home Department for implementation of Central Sector Scheme of Inter-Operable Criminal Justice System (ICJS) Project.\
-  [202308171713296329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308171713296329.pdf)
+- Regarding appointment of Mr. Dattatray Padsalgikar, IPS (retired) as Director Emeritus of Maharashtra Intelligence Academy, Pune.\
+  [202308221138216829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308221138216829.pdf)
 
-- Regarding approving the revised scheme of posts of Deputy Inspector General of Police, Amravati Zone and Superintendent of Police Amravati Rural, Washim, Akola, Yavatmal and Buldhana in Maharashtra Police Force on establishment of Police Constituent Office.\
-  [202308171718017929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308171718017929.pdf)
+- Regarding the new object to cover the medical and surgical expenses of the prisoners in the jail\
+  [202308221617181529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308221617181529.pdf)
 
-- Regarding approval of the revised scheme of posts on the establishment of the Police Constituent Office of the Additional Director General of Police and Director, Communications and Transport Maharashtra State, Pune (Motor Transport Department) in the Maharashtra Police Force.\
-  [202308181713322029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308181713322029.pdf)
+- Regarding guidelines to be considered for creation of new police stations in the state and action to be taken accordingly.\
+  [202308251749493329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308251749493329.pdf)
 
-- Regarding payment for work done to Ernst Young, a consulting firm appointed as a consultant for the project of modernization of police control rooms in the state.\
-  [202308181720176229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308181720176229.pdf)
+- Regarding determination of manpower criteria/standards for Police Stations as per requirement of Police Commissionerate in the State and Police Stations in the District.\
+  [202308251753347129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308251753347129.pdf)
 
 ## Personnel
-- Regarding transfers/postings of officers of Superintendent of Police/Deputy Commissioner of Police (Technical), Motor Transport cadre.\
-  [202308141832343429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308141832343429.pdf)
+- Regarding appointment by nomination to posts in the direct recruitment quota of Deputy Superintendent of Police/Asst. Commissioner of Police, Police Communication and I.T. cadre.\
+  [202308211748468229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308211748468229.pdf)
 
-- Regarding transfers/postings of officers of Armed Superintendent of Police/Commandant, S.R.P.F. cadre.\
-  [202308171725339429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308171725339429.pdf)
+- Request transfer of additional public prosecutor (Group A) on the Establishment of Director of prosecution.\
+  [202308221648384229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308221648384229.pdf)
 
-- Regarding transfers/postings of S.P.S. officers.\
-  [202308181528066329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308181528066329.pdf)
+- Request transfer of Assistant public prosecutor (Group A) on the Establishment of Director of prosecution.\
+  [202308221659349429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308221659349429.pdf)
 
-- Regarding classification of the posts of Reserve Police Inspector and Reserve Police Sub-Inspector at the establishment of Maharashtra Police Academy, Nashik.\
-  [202308181649550529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308181649550529.pdf)
+- Regarding approving the revised chart of posts in the Maharashtra Police Force for the establishment of Special Inspector General of Police, Nashik Zone and Superintendent of Police, Nashik Rural, Ahmednagar, Dhule, Nandurbar and Jalgaon Police Constituent Office.\
+  [202308221741446629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308221741446629.pdf)
 
-- Regarding the approval of the revised scheme of posts on the establishment of Police Constituent Offices of Navi Mumbai, Mira-Bhainder-Vasai-Virar, Thane City, Nashik City, Pune City, Pimpri Chinchwad, Solapur City, Aurangabad City, Amravati City and Nagpur City in Maharashtra Police Force.\
-  [202308181703435729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308181703435729.pdf)
+- Request transfer of additional public prosecutor (Group A) on the Establishment of Director of prosecution. (corrigendum)\
+  [202308231823526729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308231823526729.pdf)
+
+- Request transfer of assistant public prosecutor (Group A) on the Establishment of Director of prosecution. (corrigendum)\
+  [202308231829030829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308231829030829.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

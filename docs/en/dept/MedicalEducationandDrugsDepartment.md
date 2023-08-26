@@ -1,34 +1,36 @@
 # Medical Education and Drugs Department
 
-**Date Range**: 07 August 2023 - 12 August 2023
+**Date Range**: 21 August 2023 - 26 August 2023
 
 
 ## Funds
-- Administrative approval to Government Medical College, Parbhani for the purchase of new furniture material.\
-  [202308071127482013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308071127482013.pdf)
+- Administrative approval to the construction of separate 5 lakh liter capacity water tank for library building, dhobi ghat, main building and mortuary building in Mr.Bhausaheb Hire Government Medical College, Dhule.\
+  [202308241750133913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308241750133913.pdf)
 
 ## Miscellaneous
-- Administrative approval to Government Medical College, Parbhani for the purchase of new furniture material\
-  [202308071128026413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308071128026413.pdf)
+- Regarding approving the opening of Private Account (PLA) for the institution Government Medical College Jalgaon.\
+  [202308211746223213.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308211746223213.pdf)
 
-- Administrative approval to Government Medical College, Parbhani for the purchase of new furniture material.\
-  [202308071128103213.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308071128103213.pdf)
+- Administrative approval for construction of residence building for class-3 employees in Swami Ramanand Tirtha Rural Government Medical College, Ambajogai.\
+  [202308241749289913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308241749289913.pdf)
 
-- Purchase of Turn Key base Machinery through Medical Education Drugs Department Required for Government Medical College Dental College.\
-  [202308071301499813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308071301499813.pdf)
+- Administrative approval for construction of residence building for class-4 employees in Swami Ramanand Tirtha Rural Government Medical College, Ambajogai.\
+  [202308241749490313.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308241749490313.pdf)
 
-- Regarding renaming Government Medical College and Hospital, Satara to Chhatrapati Sambhaji Maharaj Government Medical College and Hospital, Satara.\
-  [202308091000299713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308091000299713.pdf)
+- Administrative approval the construction for upgrading the 30-bed health team, Paithan the of Government Medical College and Hospital, Chhatrapati Sambhajinagar to a 100-bed hospital.\
+  [202308241749570613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308241749570613.pdf)
 
-- Regarding approving the opening of Personal Ledger Account (PLA) for Government Medical College and Hospital, Chandrapur.\
-  [202308091117532913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308091117532913.pdf)
+- Administrative approval for purchase of machinery and equipment from Central Government Fund for Skill Center (NELS) to Dr. Shankarao Chavan Government Medical College, Vishnupuri Nanded.\
+  [202308241750042813.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308241750042813.pdf)
 
-- Regarding exemption from fees charged by Maharashtra University of Health Sciences, Nashik for obtaining Affiliation Certificate and Renewal of Affiliation Certificate to Government Colleges.\
-  [202308101745491413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308101745491413.pdf)
+- Administrative approval to the construction of the new / Independent Nursing College Building of the Government Medical College Hospital, Nagpur\
+  [202308241750294613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308241750294613.pdf)
 
-## Personnel
-- Regarding approving the opening of Personal Ledger Account (PLA) for Government Medical College and Hospital, Jalgaon\
-  [202308091134520613.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308091134520613.pdf)
+- Sir.J. G. Group Hospital premises R. M. Regarding giving administrative approval to the construction budget for structural strengthening and renovation etc. at Bhatt Hostel Building.\
+  [202308251443340113.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308251443340113.pdf)
+
+- Administrative Approval for Construction of Structural Strengthening and Renovation of Apna Childrens Hostel Building in Sir J. J. Group Hospital\
+  [202308251443429713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308251443429713.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
