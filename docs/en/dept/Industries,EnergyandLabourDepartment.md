@@ -1,18 +1,28 @@
 # Industries, Energy and Labour Department
 
-**Date Range**: 21 August 2023 - 26 August 2023
+**Date Range**: 28 August 2023 - 02 September 2023
 
 
 ## Funds
-- To extend time limit for concession in tariff of EHV, HV, LV LIS scheme consumers.\
-  [202308221556362810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308221556362810.pdf)
+- Industrial and Labor Court, Pune regarding increase in rent of office premises\
+  [202308291526266010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308291526266010.pdf)
 
-- Subsidy Disbursement Demand No.N-3 (Head of Account 28015661) in the year 2023-24 for concession in electricity tariff to Scheduled Caste Agricultural Pump Consumer Beneficiaries under Special Component Program of Social Justice Department.\
-  [202308241730055510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308241730055510.pdf)
+- Financial Year 2023-24 Bhusawal of Mahanirti 1x660 M.W. Regarding disbursement of share capital for the project in cash.\
+  [202309011532119310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309011532119310.pdf)
+
+- Financial Year 2023-24 Bhusawal of Mahanirti 1x660 M.W. Regarding disbursement of share capital for the project with adjustment.\
+  [202309011551201010.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309011551201010.pdf)
 
 ## Miscellaneous
-- Regarding Implementation of micrositing guidelines issued by the GOI for development of wind power projects in the state.\
-  [202308251246011510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308251246011510.pdf)
+- Visit of Delegation led by Honble Minister (Industries) Government of Maharashtra from 15th to 17th June, 2023 (including travel time) for participation in the London Tech Week 2023, London, UK.\
+  [202308301217455710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308301217455710.pdf)
+
+- Visit of Delegation led by Honble Minister (Industries) Government of Maharashtra to the Manufacturing Unit of TRUMPF SE Co.KG, Ditzingen, Germany from 13th to 15th January, 2023 (excluding travel time)\
+  [202308301231029110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308301231029110.pdf)
+
+## Personnel
+- Final seniority list- Assistant Engineer Grade-2, Group-B (Gazetted) Dated 01.01.2023.\
+  [202309011440039110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309011440039110.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

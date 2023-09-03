@@ -1,43 +1,45 @@
 # Tribal Development Department
 
-**Date Range**: 21 August 2023 - 26 August 2023
+**Date Range**: 28 August 2023 - 02 September 2023
 
 
 ## Funds
-- To release grant for the scheme of ( Secretariat Social Services) Computer Expencess under the TSP in financial year 2023-24. (CRC- 2251 0572)\
-  [202308171708199324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308171708199324.pdf)
+- To release grant for the scheme of major head of general education under the TSP in financial year 2023-24. (CRC 2202 1901, 2202 1948 2202 H973 salary)\
+  [202308171708388424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308171708388424.pdf)
 
-- TO release grant for the scheme of Grant-in-aid to Krishi Vidyapeeth under the TSP in financial year 2023-24 CRC-2401 8291\
-  [202308171708323824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308171708323824.pdf)
+- To release grant for the scheme of major head of Secretariat Social Services under head of Tribal Development Department.for purchase vehicle under the TSP in financial year 2023-24. CRC 2251 0211\
+  [202308301544039624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308301544039624.pdf)
 
-- Procedure for transfer of subsidized ashram schools which have been de-approved/closed in tribal development department to another institution.\
-  [202308231602062724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308231602062724.pdf)
+- To release grant for the scheme of Krishi Unnati Yojana-National Food Security Mission-Food Grain Crops under the TSP in financial year 2023-24 under the TSP.\
+  [202308301544134824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308301544134824.pdf)
+
+- To release grant for the scheme of Krishi Unnati Yojana-National Food Security Mission-Commercial Crops (Cotton,Sugarcane) under the TSP in financial year 2023-24. cotton-(central share-2401 A575) (state share- 2401 A584) sugarcane-(central share- 2401 A593) (state share-2401 A593)\
+  [202308301544193124.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308301544193124.pdf)
+
+- To release grant for the scheme of Concession in Energy Tariff to Agriculture Pump Consumers under the TSP in financial year 2023-24. CRC 2801 5614\
+  [202308301544256824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308301544256824.pdf)
+
+- To release grant for the scheme of Grants-in-aid to Zilla Parishads - For Educational Fees,Examination Fees, Maintenance and Scholarship under the TSP in financial year 2023-24.\
+  [202308301544384924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308301544384924.pdf)
+
+- PHD fund distribution\
+  [202308311700314824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311700314824.pdf)
 
 ## Miscellaneous
-- To release grant for the scheme of District annual sub plan under the TSP in financial year 2023-24. demand no T-9.\
-  [202308171708076124.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308171708076124.pdf)
+- Regarding the selection of institutions/schools for imparting education to Scheduled Tribe students in reputed residential schools of English medium in the academic year 2023-24. Additional Commissioner, Tribal Development, Amravati\
+  [202308311634385624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311634385624.pdf)
 
-- To release grant for the scheme of committed expenditure under the TSP in financial year 2023-24. (Salary Scholarship)\
-  [202308171708139924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308171708139924.pdf)
+- Regarding the selection of institutions/schools for imparting education to Scheduled Tribe students in reputed residential schools of English medium in the academic year 2023-24. Additional Commissioner, Tribal Development, Thane\
+  [202308311646330824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311646330824.pdf)
 
-- To release grant for the scheme of scheme expenditure under the TSP in financial year 2023-24. (salary scholarship )\
-  [202308171708257724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308171708257724.pdf)
+- Regarding the selection of institutions/schools for imparting education to Scheduled Tribe students in reputed residential schools of English medium in the academic year 2023-24. Additional Commissioner, Tribal Development, Nagpur\
+  [202308311652275224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311652275224.pdf)
 
-- Vegetables, mutton, chicken, eggs, bananas etc. for the students of government ashram schools working under tribal development department. Regarding implementation of e-tendering process for procurement of as well as food contracts for government hostels.\
-  [202308221148458924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308221148458924.pdf)
+- Administrative cost to State/UT for implementation of scheme Regarding taking new account head for this centrally awarded scheme..\
+  [202308311655548324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311655548324.pdf)
 
-- Kambalgaon, Dist. Palghar as well as Mundegaon Distt. Regarding prescribing revised guidelines for operation of central kitchen at Nashik.\
-  [202308221158585924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308221158585924.pdf)
-
-- Regarding the implementation of a scheme to guide the scheduled tribe students of the state of Maharashtra in engineering and medical entrance examinations within a period of two years after class 10 with the help of a reputed private training institute...\
-  [202308231653442024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308231653442024.pdf)
-
-## Personnel
-- Regarding the recognition of the post of Primary Teacher and Junior Clerk filled by the Adivasi Fasepardhi Sudhar Samiti Mangrul Chavala, Nandgaon Khandeshwar, Distt. Amravati Managed Aided Ashram School Mangrul Chawla as a special matter.\
-  [202308231559486024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308231559486024.pdf)
-
-- Regarding the ad hoc promotion of the post of Assistant Commissioner / Senior Research Officer / Project Officer (Grade-2) in Maharashtra Tribal Development Services. Group - A.\
-  [202308241128324324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308241128324324.pdf)
+- Regarding the selection of institutions/schools for imparting education to Scheduled Tribe students in reputed residential schools of English medium in the academic year 2023-24. Additional Commissioner, Tribal Development, Nashik\
+  [202308311658492124.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311658492124.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

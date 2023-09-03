@@ -1,46 +1,49 @@
 # Home Department
 
-**Date Range**: 21 August 2023 - 26 August 2023
+**Date Range**: 28 August 2023 - 02 September 2023
 
 
 ## Funds
-- Regarding sanctioning the release of funds for the centrally sponsored scheme National Cybercrime Helpline number 1930\
-  [202308211737517629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308211737517629.pdf)
+- Disbursement of funds to works in the expenditure proposals to be carried out from the Road Safety Fund.\
+  [202307181514015329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307181514015329.pdf)
 
-- Demand No. B-3, Re-appropriation of grant under Head 2041-Tax on Vehicles.\
-  [202308251659079129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308251659079129.pdf)
+- Regarding disbursement of funds for installation of CCTV cameras in police stations in the state.\
+  [202308281506208729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308281506208729.pdf)
 
 ## Miscellaneous
-- Regarding appointment of Mr. Dattatray Padsalgikar, IPS (retired) as Director Emeritus of Maharashtra Intelligence Academy, Pune.\
-  [202308221138216829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308221138216829.pdf)
+- Combined full service review at the age of 50/55 years in the category of Transport Officer (Group-A) cadre.\
+  [202308281517505429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308281517505429.pdf)
 
-- Regarding the new object to cover the medical and surgical expenses of the prisoners in the jail\
-  [202308221617181529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308221617181529.pdf)
+- Administrative Approval for financial year 2023-24 to purchase equipments required for Modernisation of prison agriculture scheme\
+  [202308291136280929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308291136280929.pdf)
 
-- Regarding guidelines to be considered for creation of new police stations in the state and action to be taken accordingly.\
-  [202308251749493329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308251749493329.pdf)
+- Regarding giving administrative approval to spend during the financial year 2023-24 the supplementary demand amount approved in the Monsoon Session of July 2023 for meeting the expenditure on medical treatment of inmates in Central Jails\
+  [202308301526484929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308301526484929.pdf)
 
-- Regarding determination of manpower criteria/standards for Police Stations as per requirement of Police Commissionerate in the State and Police Stations in the District.\
-  [202308251753347129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308251753347129.pdf)
+- Regarding giving administrative approval to spend the supplementary demand amount approved in the Monsoon Session of July 2023 for meeting the expenditure on medical treatment of inmates in the District Jails in the financial year 2023-24...\
+  [202308301527151829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308301527151829.pdf)
+
+- Revocation of Suspension of Shri Vishal Sharad Dhume, Assistant Commissioner of Police.\
+  [202308301623005229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308301623005229.pdf)
+
+- Regarding the reconstitution of the Divisional Promotion Committee for preparation of shortlist for promotion to the posts in the State Excise Department (Group A B) cadre.\
+  [202308301624394929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308301624394929.pdf)
 
 ## Personnel
+- Regarding transfers/postings of I.P.S. officers.\
+  [202308281156098829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308281156098829.pdf)
+
+- For CCTNS project for the year 2023-24 Rs. 130,74,54,753/- regarding approval of expenditure. Also the supplier of CCTNS project. Wipro Ltd. As a matter of special concern to this company, through CCTNS 2.0 RFP, extension of time till transfer of project work to new supplier etc.\
+  [202308291725335129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308291725335129.pdf)
+
 - Regarding appointment by nomination to posts in the direct recruitment quota of Deputy Superintendent of Police/Asst. Commissioner of Police, Police Communication and I.T. cadre.\
-  [202308211748468229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308211748468229.pdf)
+  [202308301915553829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308301915553829.pdf)
 
-- Request transfer of additional public prosecutor (Group A) on the Establishment of Director of prosecution.\
-  [202308221648384229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308221648384229.pdf)
+- Regarding transfers/postings of I.P.S. officers.\
+  [202308301925082729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308301925082729.pdf)
 
-- Request transfer of Assistant public prosecutor (Group A) on the Establishment of Director of prosecution.\
-  [202308221659349429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308221659349429.pdf)
-
-- Regarding approving the revised chart of posts in the Maharashtra Police Force for the establishment of Special Inspector General of Police, Nashik Zone and Superintendent of Police, Nashik Rural, Ahmednagar, Dhule, Nandurbar and Jalgaon Police Constituent Office.\
-  [202308221741446629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308221741446629.pdf)
-
-- Request transfer of additional public prosecutor (Group A) on the Establishment of Director of prosecution. (corrigendum)\
-  [202308231823526729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308231823526729.pdf)
-
-- Request transfer of assistant public prosecutor (Group A) on the Establishment of Director of prosecution. (corrigendum)\
-  [202308231829030829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308231829030829.pdf)
+- Regarding constitution of Anti Narcotics Task Force (ANTF) in the state of Maharashtra.\
+  [202308311215369329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311215369329.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

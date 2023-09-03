@@ -1,11 +1,11 @@
 # Persons with Disabilities Welfare Department
 
-**Date Range**: 21 August 2023 - 26 August 2023
+**Date Range**: 28 August 2023 - 02 September 2023
 
 
-## Miscellaneous
-- To organize Persons with Disabilities Welfare Department at the doorstep of Divyangjan Campaign in all districts.\
-  [202308231428297135.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308231428297135.pdf)
+## Funds
+- Rehabilitation home (half way home) for persons free from mental illness through voluntary organisation.\
+  [202309011752106535.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309011752106535.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

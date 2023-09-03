@@ -1,11 +1,11 @@
 # Minorities Development Department
 
-**Date Range**: 14 August 2023 - 19 August 2023
+**Date Range**: 28 August 2023 - 02 September 2023
 
 
-## Miscellaneous
-- Introduction of second cycle for minority students in existing government technical colleges. Disbursement of funds for the year 2023-24.\
-  [202308171306488014.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308171306488014.pdf)
+## Funds
+- Regarding the disbursement of funds for the financial year 2023-24 for the Self Help Group Scheme.\
+  [202308291249234014.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308291249234014.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

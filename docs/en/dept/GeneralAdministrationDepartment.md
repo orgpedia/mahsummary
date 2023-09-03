@@ -1,63 +1,46 @@
 # General Administration Department
 
-**Date Range**: 21 August 2023 - 26 August 2023
+**Date Range**: 28 August 2023 - 02 September 2023
 
+
+## Funds
+- Regarding sanction of permissible amount to Shauryapadak/Sevapadak holders in Army under Maharashtra Gaurav Puraskar Scheme. Air Marshal Avinash Gopal Kshirsagar, Pune\
+  [202308311503067607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311503067607.pdf)
+
+- Regarding sanction of permissible amount to Shauryapadak/Sevapadak holders in Army under Maharashtra Gaurav Puraskar Scheme. Air Marshal Avinash Gopal Kshirsagar, Pune\
+  [202308311503167407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311503167407.pdf)
 
 ## Miscellaneous
-- Grant Aid to salary vanamati Nagpur\
-  [202308221143484407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308221143484407.pdf)
+- Pension to family members of Martyrs in the Maharashtra-Karnataka Border dispute agitation- Distribution of grant for the month of July to September, 2023 and arrears of November,2022 to March, 2023.\
+  [202308291549451107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308291549451107.pdf)
 
-- Regarding the constitution of a committee for checking the payments in respect of repair of D.V.Vehicles at the district level.\
-  [202308231245019707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308231245019707.pdf)
+- Nomination of Promoted Section Officers for traning session 04.09.2023 to 15.04.2023\
+  [202308311241141107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311241141107.pdf)
 
-- Dr. Punjabrao Deshmukh Vidarbha Administrative and Development Training Prabodhini, Amravati Assistant Grant Year 2023-24 (Compulsory) (First Installment)\
-  [202308231609057307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308231609057307.pdf)
+- To cancel the nomination of promoted Section Officers for traning session 04.09.2023 to 15.09.2023\
+  [202308311241182707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311241182707.pdf)
 
-- Deputation - Shri. Ajit J. Khandare, Deputy Secretary.\
-  [202308241021281607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308241021281607.pdf)
+- With regard to confirmation that caste validity certificate is not required for the candidates appointed to the majority post due to cancellation of ESBC/SEBC reservation.\
+  [202308311304314307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311304314307.pdf)
 
-- Regarding allotment of space to Prahar Jan Shakti Party.\
-  [202308241027071007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308241027071007.pdf)
+- Repatriation from Deputation- Shri. Swapnil Y. Kapadnis, Deputy Secretary\
+  [202308311551276107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311551276107.pdf)
 
-- Release of Grant under major head 2235 pension to freedom fighter, their dependents etc. (2235 0015) for the financial year 2023-24. (for the month of August 2023)\
-  [202308251121566507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308251121566507.pdf)
+- Appointment on Deputation -Shri. Prashant P. Badgeri, Deputy Secretary.\
+  [202308311551302307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311551302307.pdf)
 
-- Regarding the cancellation of appointment of non-official members appointed to the committee to oversee the process of production of a film based on the life work of Mahatma Jyotiba Phule.\
-  [202308251440065507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308251440065507.pdf)
-
-- The Allotment of Government Quarter/bunglow to Honble Leader of Opposition, Maharashtra Legislative Assembly.\
-  [202308251636102307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308251636102307.pdf)
-
-- Post Promotion Training of Desk Officers in the year 2023 under State Training Policy.\
-  [202308251826451207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308251826451207.pdf)
+- To cancel the training of promoted desk officer\
+  [202309011752160707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309011752160707.pdf)
 
 ## Personnel
-- Regarding payment of salary of IAS Officers on waiting through General Administration Department.\
-  [202308211801376907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308211801376907.pdf)
+- Regarding transfer of Group-B cadre officers in Directorate General of Information and Public Relations\
+  [202308281754333707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308281754333707.pdf)
 
-- Stay on Transfer-Shri. A.T. Sasulkar, Deputy Secretary\
-  [202308231347318307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308231347318307.pdf)
+- Repatriation from Deputation- Shri. Vijay K. Powar, Deputy Secretary\
+  [202308311557069107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311557069107.pdf)
 
-- Repatriation from Deputation- Shri. Khalid B. Arab, Joint Secretary.\
-  [202308241016241707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308241016241707.pdf)
-
-- The allotment of government quarter to Honble Minister.\
-  [202308241556398507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308241556398507.pdf)
-
-- Regarding the cancellation of appointment of Major Prashant Aatmaram Chatur as a District Sainik Welfare Officer\
-  [202308251656462007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308251656462007.pdf)
-
-- Change in post-promotion post - Shri. Naresh Vitthal Bhairi, Desk Officer.\
-  [202308251809577207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308251809577207.pdf)
-
-- Promotion order of Desk Officer cadre.\
-  [202308251812283107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308251812283107.pdf)
-
-- Under Secretary Cadre Transfer- Smt. Meghna G. Shinde and Shri. Suhas B. Jadhawar\
-  [202308251818389907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308251818389907.pdf)
-
-- Stay to the transfer order,Shri P.S.Shelar, Desk Officer.\
-  [202308251821558907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308251821558907.pdf)
+- Seniority list of desk officer cadre dated 01-01-2017\
+  [202309011756530207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309011756530207.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

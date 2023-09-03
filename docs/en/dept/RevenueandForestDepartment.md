@@ -1,58 +1,91 @@
 # Revenue and Forest Department
 
-**Date Range**: 21 August 2023 - 26 August 2023
+**Date Range**: 28 August 2023 - 02 September 2023
 
 
 ## Funds
-- Regarding the appointment of 02 candidates in the cadre of Deputy Collector as per the provisions of the Maharashtra Supernumerary Posts Creation and Appointment of Selected Candidates Act, 2022...\
-  [202308211709217619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308211709217619.pdf)
+- State Scheme Year 2023-24 Preliminary Works of the proposed Zoological Museum at Gorewada (4406-3858) regarding disbursement of funds under the scheme.\
+  [202308291124098919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308291124098919.pdf)
 
-- Grant release for Monitoring and Evolution and Social Forestry Scheme (24068622) for the year 2023-24\
-  [202308221241312419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308221241312419.pdf)
+- Establishment of Bamboo Research and Training Center at Chichapalli, Chandrapur District for the year 2023-24 (4415 0192) regarding disbursement of funds\
+  [202309011637199619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309011637199619.pdf)
 
-- Grant release for Bio Diversity management of watersheds, lakes etc. (2406 2295) for the year 2023-24\
-  [202308221722303819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308221722303819.pdf)
-
-- Regarding formation of panel of architect consultancy firm for tourism development work to be done under Maharashtra Nature Tourism Development Board Nagpur.\
-  [202308231523582419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308231523582419.pdf)
-
-- Regarding providing funds of Rs.15,78,145 lakhs to the Department of Animal Husbandry for the purpose of starting Cattle Relief and Fodder Camps for livestock in Goshalas in drought-affected talukas.\
-  [202308231524454319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308231524454319.pdf)
-
-- STATE PLAN YEAR 2023-24 Establishment of Maharashtra State Zoological Museum Authority (2406 A087).\
-  [202308231621141519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308231621141519.pdf)
-
-- Government approval for Proposal regarding Proposal regarding Survey Settlements and demarcation of forests (4406 0053) for the year of 2023-24.\
-  [202308251100104619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308251100104619.pdf)
+- Year 2023-24 Chandrapur Forest Administration, Development and Management to Prabodhini, Chandrapur (2415-1077) regarding disbursement of funds under this scheme.\
+  [202309011638130319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309011638130319.pdf)
 
 ## Miscellaneous
-- Forest Land-Akola Diversion of 0.1660 ha. Forest land under Forest (Conservation) Act, 1980 in favour of M/s Reliance Jio Infocomm Limited, Nagpur for laying of underground Optical Fiber Cable along the Karanja to Akola Road in Akola District in the State of Maharashtra.\
-  [202308211537374919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308211537374919.pdf)
+- Regarding approval of opening of Holding Accounts (Current Accounts) for SNA under Centrally Sponsored Scheme\
+  [202308281509066319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308281509066319.pdf)
 
-- Regarding approval of advertising expenditure for promotion and publicity of the program to celebrate Revenue Week from 1st August Revenue Day in the State through Revenue Department.\
-  [202308221441537019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308221441537019.pdf)
+- To delegate powers under section 50 and 53 of MLRC, 1966 to Deputy Mumbai Surban.\
+  [202308311601176219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311601176219.pdf)
 
-- Mauje Nandur Bhukhand no. 2nd Mauje Khamgaon, Bhukhand no. 4, h. Regarding recovery of 1/4 amount paid as auction for Daund sand block.Mr. Prakash Haribhau Londhe, Mauje Uruli Kanchan, Distt. Pune\
-  [202308221457269819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308221457269819.pdf)
+- Appointment to the post of Principal Chief Conservator of Forests (Head of Forest Force) Maharashtra State\
+  [202308311642517019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311642517019.pdf)
 
-- Mauje Upparpind-2, h. Regarding getting back the amount of unexcavated sand from Shirpur. May Sainath Infotech, Prof. Kiran Chandrakant Maid, Nashik\
-  [202308221516174019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308221516174019.pdf)
+- Regarding the reorganization of the Maharashtra State Wildlife Board.\
+  [202308311738177019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311738177019.pdf)
 
-- Regarding the creation of surplus posts for the probationary training period of candidates in the category of Assistant Conservator of Forests, Group-A (Junior Grade) selected by the Maharashtra Public Service Commission through direct service.\
-  [202308251453195019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308251453195019.pdf)
+- Bamboo Research and Training Centre, Chandrapur Regarding the change in the office bearers of the executive board and the office bearers of the executive committee.\
+  [202309011643241019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309011643241019.pdf)
 
 ## Personnel
-- Forest Land-Pune Diversion of 0.945 ha. Reserved land under section-2 of the Forest (Conservation) Act, 1980 for construction of road joining ODR-69 to Kusgaon BK., at Village Gevhande (Apti), Tal. Maval, Dist. Pune in the State of Maharashtra.\
-  [202308211532563619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308211532563619.pdf)
+- Regarding posting by transfer of officers in the cadre of Additional Collector.\
+  [202308291150451619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308291150451619.pdf)
 
-- Regarding the reconstitution of the Civil Service Board to make recommendations to the competent authorities regarding posting and transfers of officers in Group-A under the Revenue Department....\
-  [202308231325342819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308231325342819.pdf)
+- Regarding posting of officers in the cadre of Additional Collector on deputation\
+  [202308291155143919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308291155143919.pdf)
 
-- Explanation about applying premium charges on Inferior Lands under SRA schemes.\
-  [202308241739532419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308241739532419.pdf)
+- Regarding posting of officers in the cadre of Additional Collector on deputation.\
+  [202308291809302319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308291809302319.pdf)
 
-- Request Transfer of Assistant Conservator of Forests, Group-A (Junior Grade) Cadre.\
-  [202308251440408519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308251440408519.pdf)
+- Posting of Officers in Deputy Collector Cadre by Transfer..\
+  [202308291822188519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308291822188519.pdf)
+
+- Appointed by deputation- Shri. Abhijit Bhande-Patil, Deputy Divisional Officer, Kalyan, Distt. Regarding appointment on deputation to the post of Deputy Collector of Thane and Competent Authority, Zoupra-1, Bandra (City), Mumbai\
+  [202308291827484719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308291827484719.pdf)
+
+- Appointed by deputation Shri. Regarding appointment of Avinash Shinde, Deputy Commissioner, Pune Municipal Corporation to the post of Assistant Commissioner, Pimpri-Chinchwad Municipal Corporation on deputation\
+  [202308291829231119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308291829231119.pdf)
+
+- Appointed by deputation- Shri. Tukaram Hulawle, Deputy Collector (Land Acquisition No.1), Deputy Chief Executive Officer of Dhule, Shri. Saibaba Sansthan, Shirdi regarding appointment on deputation\
+  [202308291833347119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308291833347119.pdf)
+
+- Appointed by deputation Shri. Regarding the appointment of Dyalsingh Thakur, Deputy Collector (awaiting appointment) on deputation to the post of Deputy Collector and Deputy General Manager (New Towns), Maharashtra State Road Development Corporation, Thane...\
+  [202308291833467119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308291833467119.pdf)
+
+- Appointed by deputation Shri. Regarding the appointment of Balasaheb Khandekar, Assistant Commissioner, Pimpri-Chinchwad Municipal Corporation on deputation to the post of Deputy Controller General Registration and Deputy Controller Stamp, Thane...\
+  [202308291838035319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308291838035319.pdf)
+
+- Appointed by deputation- Shri. Regarding the appointment of Bhagwat Doifode, Deputy Collector (Awaiting Appointment) on deputation to the post of Chief Executive Officer, Smart City, Nashik\
+  [202308291838221619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308291838221619.pdf)
+
+- Appointed by deputation Shri. Regarding appointment of Vinay Gosavi, Deputy Collector (awaiting appointment) on deputation to the post of Deputy Collector and Competent Authority, Dharavi Redevelopment Project Slum Rehabilitation Authority, Mumbai\
+  [202308291842050319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308291842050319.pdf)
+
+- Posting of Officers in Deputy Collector Cadre by Transfer\
+  [202308291844139119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308291844139119.pdf)
+
+- Appointed by deputation Shri. Sudhir Rathod, Deputy Collector and Hon. Minister (Forest) V.K.A. His Registrar, Dr. Punjabrao Deshmukh Agricultural University, Akola Regarding appointment on deputation to the post of\
+  [202308291846004519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308291846004519.pdf)
+
+- Posting of Officers in Deputy Collector Cadre by Transfer\
+  [202308291849421319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308291849421319.pdf)
+
+- Appointment by deputation Regarding appointment of Smt. Vijaya Bankar, Deputy Collector (Revenue), Bhandara to the post of General Manager, Nagpur Improvement Pranyas, Nagpur by deputation\
+  [202308291906137019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308291906137019.pdf)
+
+- Regarding to entitlement of travel allowances and Airfare to Indian Forests Services Officer, Maharashtra Cadre.\
+  [202308301335563919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308301335563919.pdf)
+
+- Promotion of Naib Tahsildar on the post of Tahsildr.\
+  [202308301533401319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308301533401319.pdf)
+
+- Regarding the posting of Mr. Prashant Pandharinath Bilolikar, District Superintendent Land Records, Dhule to the post of District Superintendent Land Records, Hingoli\
+  [202308311800170119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311800170119.pdf)
+
+- Appointment on deputation Regarding appointment of Mr. Swapnil Tangde, Deputy Collector, Mumbai Metropolitan Region Development Authority, Mumbai to the post of Competent Authority-4, Slum Rehabilitation Authority, Mumbai on deputation...\
+  [202309011806495219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309011806495219.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

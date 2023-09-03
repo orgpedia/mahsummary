@@ -1,17 +1,20 @@
 # Finance Department
 
-**Date Range**: 21 August 2023 - 26 August 2023
+**Date Range**: 28 August 2023 - 02 September 2023
 
 
-## Miscellaneous
-- Regarding prize structure and procedure of monthly draw of Maharashtra State Lottery Maharashtra Ganesh Lakshmi Dussehra Special.\
-  [202308211718409005.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308211718409005.pdf)
+## Funds
+- About Maharashtra State Lottery Maharashtra Ganapati Grand Draw Prize Structure and Procedure.\
+  [202308281516402005.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308281516402005.pdf)
 
-- To undertake measures for augmentation of overall efficiency and effectivity of audit by bringing in uniformity, coordination and unanimity in working of Directorate of Local Fund Audit and its subordinate field offices.\
-  [202308241040291605.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308241040291605.pdf)
+- Maharashtra State Lotteries Prize structure and procedure of Maharashtra Sahyadri Dhanlaxmi (Monday) to Maharashtra Mohini (Sunday) Weekly Draws.\
+  [202308311523053005.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311523053005.pdf)
 
-- Procedure for granting family pension / In valid pension and death gratuity / retirement gratuity to the employees covered under DCPS / NPS.\
-  [202308241658242305.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308241658242305.pdf)
+- Prize structure and procedure of Tejaswini Monthly Draw.\
+  [202308311530196305.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311530196305.pdf)
+
+- Maharashtra State Lottery - Prize Structure and Procedure of Maharashtra Ganeshlaxmi Bhagyashali, Maharashtra Ganeshlaxmi Shubh , Maharashtra Ganeshlaxmi Vijayee , Maharashtra Ganeshlaxmi Gaurav, Maharashtra Ganeshlaxmi Dhan, Maharashtra Ganeshlaxmi Samrudhi Maharashtra Ganeshlaxmi Vaibhav.\
+  [202308311538144305.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311538144305.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
