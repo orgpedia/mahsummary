@@ -1,31 +1,31 @@
 # Planning Department
 
-**Date Range**: 04 September 2023 - 09 September 2023
+**Date Range**: 11 September 2023 - 16 September 2023
 
 
 ## Funds
-- Fund Distribution for the year 2023-24 under MLALAD Programme.\
-  [202309061542179316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061542179316.pdf)
-
-- Regarding disbursement of funds for the construction of buildings at Nashik, Aurangabad, Latur, Kharghar, Nagpur under Chhatrapati Shahu Maharaj Institute of Research, Training and Human Development (SARATHI), Pune.\
-  [202309061700457816.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061700457816.pdf)
-
-- Regarding implementation of Silk Industry Development Scheme under Mahatma Gandhi National Rural Employment Guarantee Scheme through Agriculture Department and Panchayat Department along with Silk Directorate.\
-  [202309061701487316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061701487316.pdf)
+- Regarding planning to prepare Annual Action Plan for Prosperity Labor Budget 2024-25 from Mahatma Gandhi National Rural Employment Guarantee Scheme\
+  [202309131827092716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309131827092716.pdf)
 
 ## Miscellaneous
-- Regarding extending the period of Governance at your Doorstep campaign from 31st August, 2023 to 31st January, 2024.\
-  [202309051208104316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309051208104316.pdf)
+- Regarding giving approval to lease premises of ECGC Limited at Nirmal Bhawan, 5th Floor, Nariman Point, Mumbai for office of Maharashtra Institution for Transformation - MITRA...\
+  [202309151202356216.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309151202356216.pdf)
 
-- 95 posts created under Human Development Program of Planning Department dt. Regarding getting extension till 28 February 2024...\
-  [202309061517499416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061517499416.pdf)
-
-- Regarding taking action on the report submitted by the Maharashtra Economic Advisory Council.\
-  [202309061745337216.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061745337216.pdf)
+- Revised Agenda of Planning Department (Self) Workshops\
+  [202309151524504416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309151524504416.pdf)
 
 ## Personnel
-- Regarding continuation of temporary posts created at the state level as well as at the Divisional Commissioner, Nagpur level under the special action program for rapid development of Naxal- affected areas\
-  [202309081735131416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309081735131416.pdf)
+- extension to the temporary posts in the offices of Deputy Commissioner (Planning) and District Planning Committee for the period from 1/09/2023 to 29/02/2024\
+  [202309121512507416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309121512507416.pdf)
+
+- Extension to the temporary posts in the offices of Directorate of Economics and Statistics (Headquarter), all Regional offices and all District Statistics Offices for the period from 1/09/2023 to 29/02/2024.\
+  [202309121513542216.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309121513542216.pdf)
+
+- Continuation to the temporary posts in Regional Development Boards from 01.09.2023 to 29.02.2024.\
+  [202309141157062216.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309141157062216.pdf)
+
+- Regarding the permanent and temporary posts as per the revised diagram on the establishment of the Planning Department (Self).\
+  [202309141549101216.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309141549101216.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

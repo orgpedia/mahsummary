@@ -1,29 +1,36 @@
 # Higher and Technical Education Department
 
-**Date Range**: 04 September 2023 - 09 September 2023
+**Date Range**: 11 September 2023 - 16 September 2023
 
 
 ## Miscellaneous
-- Regarding the approval of the Government to start new institutes of Diploma in Pharmacy course on unaided basis in the State from the academic year 2023-24...\
-  [202309061714020908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061714020908.pdf)
+- Regarding the appointment of a panel of auditors to audit all non-agricultural universities, affiliated colleges and autonomous institutions under the Department of Higher and Technical Education....\
+  [202309111534012008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309111534012008.pdf)
 
-- As per the approval of Pharmacy Council of India, New Delhi, from the academic year 2023-24 to start a new Institute of Pharmacy on permanent unaided basis in the State, to start new courses in the existing Institute of Pharmacy and to increase the admission capacity of the existing courses etc. Regarding giving government approval for.\
-  [202309061804389908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061804389908.pdf)
+- Academic year 2023-24 regarding recognition of new colleges under Kavi Kulguru Kalidas Sanskrit Vishwa Vidyalaya, Ramtek.\
+  [202309111807583608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309111807583608.pdf)
 
-- To Declare Drawing and Disbursing Officer for Government College of Engineering, Kolhapur.\
-  [202309061811169708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061811169708.pdf)
+- Probation completion of lecturer in government polytechnic, Maharashtra polytechnic Teachers group A.\
+  [202309131225183008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309131225183008.pdf)
 
-- Regarding the change in the name of the trust of the institution conducting short term vocational degree courses under the jurisdiction of the Maharashtra State Board of Technical Education.\
-  [202309061839021308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061839021308.pdf)
+- Appointment of the Chairman and members of fee fixation committee for Unaided Polytechnics regarding.\
+  [202309131647489808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309131647489808.pdf)
 
-- Regarding approval of the change in the name of Diploma Architecture Course and DTE Code of the Institute as per the approval given by the Council of Architecture, New Delhi.\
-  [202309061839307208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061839307208.pdf)
+- Regarding amending the government order granting final approval to the new college for the academic year 2023-24... (purification sheet)\
+  [202309141316009408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309141316009408.pdf)
 
-- Regarding approval by the All India Council of Technical Education, New Delhi for starting a new institution of degree course on unaided basis in the State from the academic year 2023-24 to Research Development and Evaluation Training, Armored Corps Center and School, Ahmednagar run by the Central Government.\
-  [202309061839361108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061839361108.pdf)
+- Regarding the approval of the Government to start new Institutes of Diploma in Pharmacy on permanent unaided basis from the academic year 2023-24...\
+  [202309151425468508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309151425468508.pdf)
 
-- Probation Completion of lecturer in government polytechnic.\
-  [202309081250478708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309081250478708.pdf)
+- Regarding approval of short-term courses from the year 2023-24 (MSBTE)\
+  [202309151750215508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309151750215508.pdf)
+
+## Personnel
+- Regarding sanctioning purchase of new vehicle in place of old registered vehicle for Government Institute of Science, Nagpur.\
+  [202309111652535508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309111652535508.pdf)
+
+- Change in place of transfer, HOD, Government Polytechnic, Maharashtra Polytechnic Teachers Group A.\
+  [202309131227416308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309131227416308.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

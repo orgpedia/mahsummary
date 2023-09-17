@@ -1,22 +1,27 @@
 # Finance Department
 
-**Date Range**: 04 September 2023 - 09 September 2023
+**Date Range**: 11 September 2023 - 16 September 2023
 
 
 ## Funds
-- About Maharashtra State Lottery Maharashtra Dussehra Grand Draw Prize Structure and Procedure.\
-  [202309061453553605.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061453553605.pdf)
-
-- Government Guarantee for the amount of loan and interest raised by Maharashtra State Electricity Distribution Company Limited (MSEDCL) from various Financial Institutions to cover the financial loss incurred during lockdown period due to the outbreak of Covid-19.\
-  [202309061532428905.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061532428905.pdf)
-
-## Miscellaneous
-- Regarding strict adherence to fiscal discipline while carrying out work related to Personal Deposit Accounts (P. D. A.)...\
-  [202309051622471005.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309051622471005.pdf)
+- Release of grant for the construction of GST Wadala\
+  [202309131719141305.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309131719141305.pdf)
 
 ## Personnel
-- Delegation of powers to the administrative departments for extending continuation to the temporary posts\
-  [202309081425227905.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309081425227905.pdf)
+- Promotion to the post of Junior Technical Officer (Group-B) (Gazetted) in Directorate of Insurance, State of Maharashtra, Mumbai Office.... Selection List 2022-23\
+  [202309141244255205.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309141244255205.pdf)
+
+- Continuation to 1704 temporary posts of main cadre and 585 temporary posts of other cadre at GST\
+  [202309151146077905.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309151146077905.pdf)
+
+- Continuation to 13 temporary posts of Maharashtra sales tax tribunal.\
+  [202309151153249205.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309151153249205.pdf)
+
+- Continuation to 264 temporary posts created for sales tax act under GST\
+  [202309151159246605.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309151159246605.pdf)
+
+- Temporary posts on establishment of Finance Department (Self) and Directorate of State Lotteries dt. 01 September, 2023 to dt. Regarding extension till February 29, 2024.\
+  [202309151226554105.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309151226554105.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

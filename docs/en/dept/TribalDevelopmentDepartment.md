@@ -1,24 +1,34 @@
 # Tribal Development Department
 
-**Date Range**: 04 September 2023 - 09 September 2023
+**Date Range**: 11 September 2023 - 16 September 2023
 
 
 ## Funds
-- To release grant for the scheme of The Skill Acquisition and Knowledge Awareness for Livelihood Project-SANKALP under the TSP in financial year 2023-24. central share (2230 A361) state share (2230 A372)\
-  [202308301544445424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308301544445424.pdf)
+- To release grant for the scheme of national rural health mission Infrastructure Maintenance ,Kind Grant under the TSP in financial year 2023-24. state share(2210 E455).\
+  [202309061756387924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061756387924.pdf)
 
-- To release grant for the scheme of Pradhan Mantri Krushi Sinchan Yojana - Per drop More Crop under the TSP in financial year 2023-24. central share- 2401 A619 state share- 2401 A468\
-  [202309061756206424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061756206424.pdf)
+- To release grant for the scheme of Skill Development Programme for Tribal Youths under the TSP in financial year 2023-24. (CRC 2225 D262)\
+  [202309061756533424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061756533424.pdf)
+
+- To release grant for the scheme of Krishi Unnati Yojana- Parampragat Krishi Vikas Yojna under the TSP in financial year 2023-24. central share- 2401 A762 state share- 2401 A771\
+  [202309061757018824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061757018824.pdf)
+
+- To release grant for the scheme of Information and Publicity for Scheme Implemented under Tribal Sub-Plan through vaius Media under the TSP in financial year 2023-24. CRC 2225 4113\
+  [202309061757095024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061757095024.pdf)
+
+- implementation of schemes of Tribal Development Department through convergence with MGNREGA\
+  [202309151546573624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309151546573624.pdf)
 
 ## Miscellaneous
-- To release grant for the scheme of scheme expenditure under the TSP in financial year 2023-24. (scheme expenditure- BCW)\
-  [202308301544499024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308301544499024.pdf)
+- Regarding Bhagwan Birsa Munda Jodraste Scheme.\
+  [202309131409452924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309131409452924.pdf)
 
-- To release grant for the scheme of committed expenditure under the TSP in financial year 2023-24.\
-  [202308301545066624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308301545066624.pdf)
+## Personnel
+- Regarding approving the implementation of the Government Hostel building maintenance scheme under the tribal component programme from the state level\
+  [202309111116229124.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309111116229124.pdf)
 
-- Format of r application for Shabari Adivasi Gharkul Yojna and necessary documents.\
-  [202309081704481424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309081704481424.pdf)
+- Regarding the implementation of scheme of reimbursement of educational fees for Scheduled Tribe students of professional courses in the State University...\
+  [202309151240072924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309151240072924.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

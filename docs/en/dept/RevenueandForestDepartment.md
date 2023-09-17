@@ -1,97 +1,88 @@
 # Revenue and Forest Department
 
-**Date Range**: 04 September 2023 - 09 September 2023
+**Date Range**: 11 September 2023 - 16 September 2023
 
 
 ## Funds
-- n the rainy season of 2022, c. M. V. Regarding disbursement of funds to help farmers for loss of banana crops in Jalgaon district due to outbreak of disease...\
-  [202309051111403819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309051111403819.pdf)
+- Release of fund under the Scheme Computerization of Forest Department in for the year 2023-24 (2406 8669).\
+  [202309111834272719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309111834272719.pdf)
 
-- Year 2023-24 regarding disbursement of funds under the Scheme (2406 0481) by the Government Agency for Coal Scheme (Firewood and Coal).\
-  [202309061833149619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061833149619.pdf)
+- Regarding providing assistance to the affected people for crop damage due to unseasonal rains in various districts of the state in April and May, 2023 (Unseasonal Rains 2023 Order No.5)\
+  [202309121648282019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309121648282019.pdf)
 
-- State Plan Year 2023-24 Strengthening of State Biodiversity Board (2406 8696). Fund release\
-  [202309081445394019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309081445394019.pdf)
+- STATE PLAN YEAR 2023-24 NATURE CONSERVATION AND WILDLIFE MANAGEMENT (PROGRAMME) (2406 0775).\
+  [202309131141472519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309131141472519.pdf)
 
 - State Plan Year 2023-24 Dr. Regarding disbursement of funds under Shyamaprasad Mukherjee Jan-Forest Development Scheme (2406-8711).\
-  [202309081452483619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309081452483619.pdf)
+  [202309141155229019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309141155229019.pdf)
 
-- State Scheme Year 2023-24 Determining Rights and Privileges- Rehabilitation of Villages in National Parks and Sanctuary Areas (2406-2241) regarding disbursement of funds under the scheme.\
-  [202309081452549419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309081452549419.pdf)
+- State Plan Year 2023-24 Dr. Regarding disbursement of funds under Shyamaprasad Mukherjee Jan-Forest Development Scheme (2406-8711).\
+  [202309141200487319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309141200487319.pdf)
 
-- STATE PLAN YEAR 2023-24 ESTABLISHMENT OF WILDLIFE APANGALAYA (2406 2232). Fund realize.\
-  [202309081459211019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309081459211019.pdf)
+- Regarding disbursement of supplementary demand fund of Rs.180.00 lakhs for Talathi recruitment-2023.\
+  [202309141320380619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309141320380619.pdf)
+
+- Work allocation of kokan mitigation project\
+  [202309141508225819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309141508225819.pdf)
+
+- Regarding the appointment of 11 candidates in the Tehsildar cadre as per the provisions of the Maharashtra Supernumerary Posts Creation and Appointment of Selected Candidates Act, 2022...\
+  [202309151734341319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309151734341319.pdf)
 
 ## Miscellaneous
-- Forest Land- Washim. Diversion of 0.0113 ha. Reserved Forest land under Forest (Conservation) Act, 1980 in favour of M/s Reliance JIO Infocomm Limited, Nagpur for laying of underground Optical Fiber Cable Line along RoW of WashimManglurpir-Karanja road in Washim Forest Division in the State of Maharashtra.\
-  [202309051715165919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309051715165919.pdf)
+- Dr. Selection of 22 villages under Shyama Prasad Mukherjee Jan-Forest Vikas Yojana in Pandharkawada Forest Division.\
+  [202309131140247319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309131140247319.pdf)
 
-- Forest Land- Yavatmal Diversion of 0.07484 ha. Reserve forest land under Forest (Conservation) Act, 1980 in favour of M/s Reliance Jio Infocomm Limited, Nagpur for laying Optical Fiber Cable passing through the existing RoW of along SH-319 (Wani-Zari Jamni Road) SH-315 (Wani By pass Road) from Wani to Nerad, Pandharkawada Forest Division, District-Yavatmal.\
-  [202309051721174319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309051721174319.pdf)
+- Provide disaster management kit for disaster response in rural areas.\
+  [202309131606421219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309131606421219.pdf)
 
-- Diversion of 0.276 ha. Reserved Forest land under Forest (Conservation) Act, 1980 in favour of M/s Dinesh Engineering Limited, Navi Mumbai for laying of underground Optical Fiber Cable Line along the existing SH-124 RoW of Shamgaon to Vagheri road in Dist. Satara in the State of Maharashtra.\
-  [202309051724223019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309051724223019.pdf)
+- Forest Land-Yavatmal Diversion of 0.0847 ha. Reserved Forest land under Forest (Conservation) Act, 1980 for laying of underground electricity Cable 11 KVH along PWD, Road from route MJP premise to Godhani sub-station, Yavatmal District in the State of Maharashtra.\
+  [202309131635002819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309131635002819.pdf)
 
-- Forest Land-Satara. Diversion of 0.551 ha. Reserved Forest land under Section 2 (ii) of Forest (Conservation) Act, 1980 for laying of Underground Optical OFC duct Cable within RoW of existing road passing Village Tathawada, Tal.Phaltan and Village Pangarkhel, tal.Khatav, Dist. Satara in the State of Maharashtra.\
-  [202309051727465619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309051727465619.pdf)
+- Forest Land-Nagpur Diversion of 0.0057 ha. Protected Forest land under Forest (Conservation) Act, 1980 in favour of M/s. Reliance Jio Infocomm Limited, Nagpur for laying of underground Optical Fiber Cable along the existing RoW of SH-324, Sawargaon-Chorkhairi-Narkhed Road in Nagpur District in the State of Maharashtra.\
+  [202309131638428919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309131638428919.pdf)
 
-- Diversion of 0.0335 ha. Reserved Forest land under Forest (Conservation) Act, 1980 in favour of M/s Reliance JIO Infocomm Limited, Nagpur for laying of underground Optical Fiber Cable Line along the existing RoW of Kamargaon to Akhtwada road in Washim Forest Division Dist. Washim in the State of Maharashtra.\
-  [202309051732103019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309051732103019.pdf)
+- Forest Land-Satara Diversion of 0.0979 ha. Forest land under Forest (Conservation) Act, 1980 for laying of Underground Gas Pipeline passing within RoW of NH-48 from city gas station at village Vadgaon, Dist. Kolhapur to village Vele, Dist. Satara in the State of Maharashtra\
+  [202309151649229619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309151649229619.pdf)
 
-- Forest Land-Washim Diversion of 0.0411 ha. Forest land under Forest (Conservation) Act, 1980 in favour of M/s Reliance Jio Infocomm Limited, Nagpur for laying of underground Optical Fiber Cable along the road in RoW of Shirpur to Shelu Kh. MSH-12 road, in Washim District in the State of Maharashtra.\
-  [202309051737035119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309051737035119.pdf)
+- Forest Land-Pune Ahmadnagar Diversion of 0.0675 ha Reserved Forest land in favour of Shri. Chaitanya Shetkari Utkarsha Mandal, Jambhale for Laying of Underground Water Pipieline passing from Forest Land at Village Ambegavhan, Taluka- Junnar Dist. Pune to Village-Jambhale, Tal. Akole, Dist. Ahmednagr in the State of Maharashtra.\
+  [202309151653041319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309151653041319.pdf)
 
-- Diversion of 0.2322 ha. Reserved Forest land under Forest (Conservation) Act, 1980 in favour of M/s Reliance JIO Infocomm Limited, Nagpur for laying of underground Optical Fiber Cable Passing through the existing RoW of SH-290, SH-267 and MDR-51 from Ghatanji to Kelapur road in Yavatmal Dist. in the State of Maharashtra.\
-  [202309061204288819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061204288819.pdf)
+- Forest Land-Pune Diversion of 0.853 ha. Reserved forest Land under section 2 (ii) of the Forest (Conservation) Act, 1980 for laying of BSNL Optical Fibre Cable for 4G saturation project passing through forest area at village Harpud, Varoti BK, Tal. Velhe, Dist. Pune in the State of Maharashtra.\
+  [202309151655419719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309151655419719.pdf)
 
-- Forest Land- Sangli Diversion of 0.08 ha. Forest land under Forest (Conservation) Act, 1980 in favour of M/s Jio digital Fibre Pvt. Ltd. Sangli for laying of underground Optical Fiber Cable duct and cable within RoW of existing road.\
-  [202309061208055519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061208055519.pdf)
+- Forest Land-Satara Re-diversion of 0.2815 ha. Forest land under Forest (Conservation) Act, 1980 in favour of M/s Jio digital Life Ltd., Pune for laying of underground OFC duct and Cable within RoW of existing road from Koregaon, Bhandale, Wathar Station, Adarki to Taradgaon, Dist. Satara in the State of Maharashtra.\
+  [202309151659015619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309151659015619.pdf)
 
-- Forest Land-Wardha Diversion of 0.0491 ha. Zudpi Jungle land under Forest (Conservation) Act, 1980 in favour of M/s Reliance Jio Infocomm Limited, Nagpur for laying of underground Optical Fiber Cable along the road in RoW of SH-322A Devoli-Jamni-Pulgaon road, in Wardha District\
-  [202309061217128019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061217128019.pdf)
-
-- Forest Land-Washim Diversion of 0.2270 ha. Forest land under Forest (Conservation) Act, 1980 in favour of M/s Reliance Jio Infocomm Limited, Nagpur for laying of underground Optical Fiber Cable along the road in RoW of Jambvasu to Donegaon road, in Washim District in the State of Maharashtra.\
-  [202309061232066019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061232066019.pdf)
-
-- Forest Land-Bhandara Diversion of 1.043 ha. Forest land under Forest (Conservation) Act, 1980 in favour of M/s Reliance Jio Infocomm Limited, Nagpur for laying Optical Fiber Cable within RoW of existing Road of SH-337 and SH-356 from Nagpur/Bhadara Border to Chincholi in Bhandara District in the State of Maharashtra.\
-  [202309061236557319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061236557319.pdf)
-
-- Forest Land- Yavatmal. Diversion of 0.0440 ha. Forest land under Forest (Conservation) Act, 1980 for laying of underground Optical Fiber Cable Line under Bharatnet / Mahanet project passing within RoW of existing road.\
-  [202309061239216919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061239216919.pdf)
-
-- Forest Land-Pune. Diversion of 0.3225 ha. Forest land under Forest (Conservation) Act, 1980 in favour of M/s Reliance Jio Infocomm Limited, Pune for laying of underground Optical Fiber Cable Line passing within RoW of existing road in Pune district of Maharashtra.\
-  [202309061242349119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061242349119.pdf)
-
-- Forest Land-Yavatmal Diversion of 0.1837 ha. Forest land under Forest (Conservation) Act, 1980 in favour of M/s. Reliance Jio Infocomm Limited, Nagpur for laying of underground Optical Fiber Cable along Yavatmal to Nandgaon Khandeshwar on MHS 14 Lonara-Malkhed-Ner Road in Yavatmal District in the State of Maharashtra.\
-  [202309061246205519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061246205519.pdf)
-
-- Granting 5 reservation to physically handicapped persons for allotting Government Land in concessional rates.\
-  [202309061641313819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061641313819.pdf)
-
-- Mauje Mauje Mandve Khu for the year 2011-2012. Regarding getting back the unexcavated amount of sand from Parner, District Ahmadnagar.\
-  [202309081410054819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309081410054819.pdf)
-
-- For the year 2011-2012 Mauje Chaumbhut sand deposit no.3, group no. 138 to 142 regarding recovery of unexcavated amount of sand from Sand Group, Parner District, Ahmednagar District.\
-  [202309081417123619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309081417123619.pdf)
+- Forest Land-Gadchiroli Diversion of 1.5256 ha. Forest Land under section 2 (ii) of the Forest (Conservation) Act, 1980 for laying of underground Optical Fibre Cable along the road in RoW of Purada to Korchi, Marartola to Yerkadi, Tekameta to Kotgul, Shirpur to Arotondi, Usegaon to Shivrajpur Chek, Chicholi to Belgaon, Khamtala to Malewada in Armori, Wadsa, Kurkheda, Korchi, Dhanora Tehsil of District Gadchiroli in the State of Maharashtra.\
+  [202309151702204619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309151702204619.pdf)
 
 ## Personnel
-- Posting of Officers in Deputy Collector Cadre by Transfer\
-  [202309041800513919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309041800513919.pdf)
+- Disaster victims affected by natural calamities Regarding the amendment of the Cabinet Sub-Committee formed to take decisions on providing urgent relief.....\
+  [202309121153497219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309121153497219.pdf)
 
-- Posting of Officers in Tehsildar Cadre... (Aurangabad Division)\
-  [202309061433492219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061433492219.pdf)
+- Belated retirement Regarding payment of interest on wages. Mr. S.B. Rathod, Retired Sub Registrar Grade-I\
+  [202309121501534319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309121501534319.pdf)
 
-- Posting of Officers in Tehsildar Cadre (Aurangabad Division)\
-  [202309061441068219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061441068219.pdf)
+- Regarding extension of 1360 temporary posts in Registration and Stamp Department\
+  [202309121631549719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309121631549719.pdf)
 
-- Posting of Officers in Deputy Collector Cadre by Transfer...\
-  [202309061602574619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061602574619.pdf)
+- Forest Land-Pune Diversion of 0.4921 ha. Reserved Forest land under section-2 of Forest (Conservation) Act, 1980 for laying underground drinking water supply scheme at Village-Wadaki, Taluka-Haveli, Dist. Pune in the State of Maharashtra.\
+  [202309131642366919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309131642366919.pdf)
 
-- Regarding the extension of tenure of officers in the cadre of Deputy Collector...\
-  [202309061605551119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309061605551119.pdf)
+- Appointed by deputation Shri. Regarding appointment of Mahesh Sagar, Special Land Acquisition Officer, Aurangabad to the post of Deputy Commissioner, Thane Municipal Corporation on deputation...\
+  [202309141136525919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309141136525919.pdf)
 
-- Appointment by deputation Mr. Regarding the appointment of Manoj Ghode-Patil, Deputy Collector (awaiting appointment) to the post of Deputy Collector, CIDCO, Navi Mumbai on deputation...\
-  [202309081446083819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309081446083819.pdf)
+- Appointment by deputation Regarding appointment of Mrs. Shama Dhok-Pawar, Resident Deputy Collector, Solapur as Deputy Director, Directorate of Tourism, Pune by deputation...\
+  [202309141139224219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309141139224219.pdf)
+
+- Posting of Officers Awaiting Appointment in Deputy Collector Cadre...\
+  [202309141142073319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309141142073319.pdf)
+
+- The temporary posts created for Collector Office and Zonal Office (SOC) at Nandurbar for rehabilitation of Sardar Sarovar project affected persons dt. Regarding getting extension from September 01, 2023 to February 28, 2024.\
+  [202309151127126419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309151127126419.pdf)
+
+- Temporary posts in Garhane Resolution Authority, Sardar Sarovar Project, Nandurbar Office dt. 01 September, 2023 to dt. Regarding extension till 28th February, 2024\
+  [202309151138045619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309151138045619.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
