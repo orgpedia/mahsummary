@@ -1,36 +1,31 @@
 # Higher and Technical Education Department
 
-**Date Range**: 11 September 2023 - 16 September 2023
+**Date Range**: 18 September 2023 - 23 September 2023
 
+
+## Funds
+- Regarding disbursement of Grants (Committed) to Government recognized Public Libraries in the financial year 2023-24.\
+  [202309211859149608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309211859149608.pdf)
+
+- Regarding disbursement of Grants (Committed) to Government recognized Gram Panchayat Libraries in the financial year 2023-24.\
+  [202309211859350108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309211859350108.pdf)
 
 ## Miscellaneous
-- Regarding the appointment of a panel of auditors to audit all non-agricultural universities, affiliated colleges and autonomous institutions under the Department of Higher and Technical Education....\
-  [202309111534012008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309111534012008.pdf)
+- Regarding approval to disburse funds for the remaining construction of the building State Central Library, Plot (CTS No.4094/1), Kalina University Area, Santcruz (East), Mumbai.\
+  [202309181337348708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309181337348708.pdf)
 
-- Academic year 2023-24 regarding recognition of new colleges under Kavi Kulguru Kalidas Sanskrit Vishwa Vidyalaya, Ramtek.\
-  [202309111807583608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309111807583608.pdf)
+- As per the approval of Pharmacy Council of India, New Delhi, Government approval to start a new Masters Degree (M.Pharmacy) course in the existing Institute of Pharmacy in the State from the academic year 2023-24.\
+  [202309201612492008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309201612492008.pdf)
 
-- Probation completion of lecturer in government polytechnic, Maharashtra polytechnic Teachers group A.\
-  [202309131225183008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309131225183008.pdf)
+- With regard to amending the Government order granting approval to new study courses/subjects, new batch, new faculty to the existing colleges under expansion for the academic year 2023-24...(Corigendum)\
+  [202309201645412508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309201645412508.pdf)
 
-- Appointment of the Chairman and members of fee fixation committee for Unaided Polytechnics regarding.\
-  [202309131647489808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309131647489808.pdf)
-
-- Regarding amending the government order granting final approval to the new college for the academic year 2023-24... (purification sheet)\
-  [202309141316009408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309141316009408.pdf)
-
-- Regarding the approval of the Government to start new Institutes of Diploma in Pharmacy on permanent unaided basis from the academic year 2023-24...\
-  [202309151425468508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309151425468508.pdf)
-
-- Regarding approval of short-term courses from the year 2023-24 (MSBTE)\
-  [202309151750215508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309151750215508.pdf)
+- Regarding the formation of a committee to establish a Marathi language university.\
+  [202309221747154908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309221747154908.pdf)
 
 ## Personnel
-- Regarding sanctioning purchase of new vehicle in place of old registered vehicle for Government Institute of Science, Nagpur.\
-  [202309111652535508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309111652535508.pdf)
-
-- Change in place of transfer, HOD, Government Polytechnic, Maharashtra Polytechnic Teachers Group A.\
-  [202309131227416308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309131227416308.pdf)
+- Continuation of temporary posts under Establishment (Proper) in Higher And Technical Education Department\
+  [202309201628566008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309201628566008.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

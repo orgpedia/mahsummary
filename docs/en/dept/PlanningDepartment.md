@@ -1,31 +1,27 @@
 # Planning Department
 
-**Date Range**: 11 September 2023 - 16 September 2023
+**Date Range**: 18 September 2023 - 23 September 2023
 
-
-## Funds
-- Regarding planning to prepare Annual Action Plan for Prosperity Labor Budget 2024-25 from Mahatma Gandhi National Rural Employment Guarantee Scheme\
-  [202309131827092716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309131827092716.pdf)
 
 ## Miscellaneous
-- Regarding giving approval to lease premises of ECGC Limited at Nirmal Bhawan, 5th Floor, Nariman Point, Mumbai for office of Maharashtra Institution for Transformation - MITRA...\
-  [202309151202356216.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309151202356216.pdf)
+- 95 posts created under Human Development Program of Planning Department dt. Regarding getting extension till 29 February 2024\
+  [202309181751211016.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309181751211016.pdf)
 
-- Revised Agenda of Planning Department (Self) Workshops\
-  [202309151524504416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309151524504416.pdf)
+- Regarding appointment of additional Gram Rozgar Sevaks at Gram Panchayat level on pilot basis.\
+  [202309181814268316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309181814268316.pdf)
 
 ## Personnel
-- extension to the temporary posts in the offices of Deputy Commissioner (Planning) and District Planning Committee for the period from 1/09/2023 to 29/02/2024\
-  [202309121512507416.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309121512507416.pdf)
+- Central Right to Information Act, 2005 Regarding designation of Assistant Public Information officer, Public Information officer as well as First Appellate Authority in Planning Department (Self).\
+  [202309211308029716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309211308029716.pdf)
 
-- Extension to the temporary posts in the offices of Directorate of Economics and Statistics (Headquarter), all Regional offices and all District Statistics Offices for the period from 1/09/2023 to 29/02/2024.\
-  [202309121513542216.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309121513542216.pdf)
+- Request transfers of Reasearch Officer / Statistcal Officer, Class-B (Gazetted) on the establishment of Directorate of Economics and Statistics, Mumbai\
+  [202309211714036316.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309211714036316.pdf)
 
-- Continuation to the temporary posts in Regional Development Boards from 01.09.2023 to 29.02.2024.\
-  [202309141157062216.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309141157062216.pdf)
+- Continuation of temporary post of MGNREGS of Maharashtra Nagpur Commissionarate., Div. Comm., Collector Office, Zilha Parishad, Tahsil Office. Dt. 01.09.2023 to 29.02.2024\
+  [202309221146095916.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309221146095916.pdf)
 
-- Regarding the permanent and temporary posts as per the revised diagram on the establishment of the Planning Department (Self).\
-  [202309141549101216.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309141549101216.pdf)
+- Regarding the continuation 36 temporary posts on the establishment of Planning Department (Self).\
+  [202309221810555716.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309221810555716.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

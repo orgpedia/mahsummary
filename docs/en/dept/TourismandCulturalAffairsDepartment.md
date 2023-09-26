@@ -1,46 +1,31 @@
 # Tourism and Cultural Affairs Department
 
-**Date Range**: 11 September 2023 - 16 September 2023
+**Date Range**: 18 September 2023 - 23 September 2023
 
 
 ## Funds
-- Regarding sanction of Subsidiary Grant to 6th Annabhau Sathe International Film Festival, Pune.\
-  [202308251120597723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308251120597723.pdf)
+- Regarding formation of Mumbai Mahotsav Foundation for the continuity of public participation in organizing Mumbai Mahotsav.\
+  [202309181752368523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309181752368523.pdf)
 
-- Regarding granting administrative sanction of Rs.30 lakh for the gazetteers Marathwada Mukti Sangram, Vande Mataram Movement published by Darshanika Department on the occasion of Marathwada Mukti Sangram Amrit Mahotsav.\
-  [202309141504233723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309141504233723.pdf)
-
-- Sanction of grand for Jalkalash Rathyatra on the occasion of 350th coronation ceremony year of Chatrapati Shivaji Maharaj.\
-  [202309151353246323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309151353246323.pdf)
+- Grant of funds for microfilming project by archives directorate under one umbrella scheme of swatantracha amrut mohotsav.\
+  [202309201554197423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309201554197423.pdf)
 
 ## Miscellaneous
 - Regarding allowing further action in respect of administratively approved works in the year 2021-22 under the Regional Tourism Development Plan and disbursing funds by allowing further action in respect of administratively approved works in the year 2022-23.\
-  [202309111055397423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309111055397423.pdf)
+  [202309181444533023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309181444533023.pdf)
 
-- Under Regional Tourism Development Scheme Year 2022-23 Change in name of Manjur village rectification sheet\
-  [202309111812173923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309111812173923.pdf)
+- Grant of scholarship under the Bharat Ratna Pandit Bhimsen Joshi scholarship scheme.\
+  [202309201318106223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309201318106223.pdf)
 
-- Regarding allowing further action in respect of administratively approved works in the year 2021-22 under the Regional Tourism Development Plan and disbursing funds by allowing further action in respect of administratively approved works in the year 2022-23.\
-  [202309121144518823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309121144518823.pdf)
+- Grant of 13 historical school for development to school of sports department under swatantryacha amrut mohotsav.\
+  [202309201318392123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309201318392123.pdf)
 
-- Sanction of grant for the 61th Maharashtra state drama competition and 19th Maharashtra state child drama competition divisional award distribution ceremony.\
-  [202309121553365323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309121553365323.pdf)
-
-- Sanction of grant for meeting organised and publicity on the occasion of Chatrapati Shivaji Maharaj 350th coronation ceremony.\
-  [202309131124581423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309131124581423.pdf)
-
-- Sanction of grant for post ticket and cover printing and committee formed for selection of design of post tickets on the occasion of 75th marathwada mukti sangram.\
-  [202309141302557823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309141302557823.pdf)
-
-- Sanction grant for performance performed by Maharashtra state hindi sahitya academy.\
-  [202309151550049423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309151550049423.pdf)
+- Regarding receiving financial approval for program planning expenses of Maharashtra State Sindhi Sahitya Acadamy.\
+  [202309211444469723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309211444469723.pdf)
 
 ## Personnel
-- Promotion order for the post of assistant director (Grade B) of cultural affairs Directorate, Mumbai.\
-  [202309121554128023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309121554128023.pdf)
-
-- P.L. Deshpande, regarding the continuation of temporary posts at the establishment of Maharashtra Kala, Akademi, Mumbai...\
-  [202309131714130523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309131714130523.pdf)
+- Regarding extension of temporary posts in the office of the Director, Directorate of Cultural Affairs from 1st September, 2023 to 29th February, 2024.\
+  [202309211438540523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309211438540523.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,31 +1,28 @@
 # Water Resources Department
 
-**Date Range**: 11 September 2023 - 16 September 2023
+**Date Range**: 18 September 2023 - 23 September 2023
 
 
 ## Funds
-- Administrative approval under special repairs to Shahnur Medium Project tal. Achalpur dist. Amravati.\
-  [202309121711387727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309121711387727.pdf)
-
-- Administrative approval under special repairs to Purna Medium Project tal. Chandurbazar dis. Amaravati\
-  [202309121715043027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309121715043027.pdf)
+- Second Revised Administrative Approval to the Padoshi MI Tank, Tal.Akole, Dist.Ahmednagar having the estimated cost of Rs.32.07 crore.\
+  [202309201427312927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309201427312927.pdf)
 
 ## Miscellaneous
-- Precautions to be taken by Field Offices of Water Resources Department regarding proposals to be submitted to higher office or Government\
-  [202309121046401327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309121046401327.pdf)
-
-- accord administrative approval to the flood protection wall on warna river at mauje Karungali, Tal. Shirala, dist. Sangli\
-  [202309131731147027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309131731147027.pdf)
+- Policy and Procedures for Restoration of Carrying Capacity of Notified Rivers Adjacent to Civil and Urban Areas in Maharashtra State\
+  [202309211722434927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309211722434927.pdf)
 
 ## Personnel
-- Extension to the transfer of Executive Engineer (Civil) of Water Resources Department.\
-  [202309111645527927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309111645527927.pdf)
+- Regarding extension of 157 temporary posts on establishment of Water Resources Department (Self) till February 29, 2024.\
+  [202309181711045127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309181711045127.pdf)
 
-- Posting on transfer of Executive Engineer (Civil) of Water Resources Department.\
-  [202309111646210927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309111646210927.pdf)
+- Interim seniority list of Junior Engineer (Civil) cadre in Water Resources Department dated 01/01/2023 (for the period from 01.01.2017 to 31/12/2022).\
+  [202309211635122027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309211635122027.pdf)
 
-- Regarding declaring 10 Executive Engineers under Godavari Marathwada Irrigation Development Corporation, Aurangabad, as Disbursing Officers for implementing P.L.A. attached to BEAMS system.\
-  [202309141706310927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309141706310927.pdf)
+- Administrative Approval to Renovation work of Shahabaj Kharland Scheme, Tal. Alibaug, Dist- Raigad\
+  [202309211713014327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309211713014327.pdf)
+
+- Regarding extension of appointment on the post of majority.....\
+  [202309221730598727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309221730598727.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
