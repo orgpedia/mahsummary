@@ -1,91 +1,76 @@
 # Home Department
 
-**Date Range**: 18 September 2023 - 23 September 2023
+**Date Range**: 25 September 2023 - 30 September 2023
 
 
 ## Funds
-- Regarding disbursement of funds for the twenty-third quarter (Quarter-23) installment for Mumbai City CCTV Project.\
-  [202309211707117129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309211707117129.pdf)
+- Regarding approval of fund expenditure of Rs 10 Crore Under the Dog Squad component of Mumbai City Women Safety Initiative Scheme (Nirbhaya).\
+  [202309251243257929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251243257929.pdf)
+
+- Regarding the approval of restructuring of fund expenditure of Rs. 8.00 crore under Mumbai City Women Safety Initiative Scheme (Nirbhaya) for Sensitization Training and Capacity Building component.\
+  [202309251247050729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251247050729.pdf)
+
+- Regarding administrative approval of 20 percent of the CAPEX payment for the work under Mantralaya Security Project to the implementing company M/s.Secutech Automation India Pvt. Ltd.\
+  [202309271218018229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271218018229.pdf)
+
+- Regarding the administrative approval of the 16 Quarters expenditure regarding Facility Management Service, Annual Maintenance Contract (OPEX Quarterly payment) for the work under Mantralaya Security Project to the implementing company. M/s.Secutech Automation India Pvt. Ltd\
+  [202309271316575229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271316575229.pdf)
+
+- An administrative approval for the implementation of Cyber Security Projects in the state\
+  [202309271515430929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271515430929.pdf)
 
 ## Miscellaneous
-- Regarding Administrative Approval to organise Training Program under Mission Karmayogi Initative for Police Officers/Amaldars on establishment of Commissioner of police, Brihanmumbai\
-  [202309181836366629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309181836366629.pdf)
+- Regarding strict action against fraudsters by creating illegal Indian passports.\
+  [202309251121206829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251121206829.pdf)
 
-- Regarding the opening of accounts for capital expenditure under the Special Assistance Scheme for Capital Investment by the Central Government to the States\
-  [202309221452059529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309221452059529.pdf)
+- Regarding posting-on-promotion to posts in the grade of Additional Director General of Police.\
+  [202309251219088829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251219088829.pdf)
 
-- Regarding approving disbursement of demand-side incentives under Maharashtra Electric Vehicle Policy-2021.\
-  [202309221456075729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309221456075729.pdf)
+- Revised guidelines for Mantralaya Security.\
+  [202309261411259029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261411259029.pdf)
 
-- Regarding payment of work done for the period from April 2023 to May 2023 to PWC company appointed as CCTNS Project Consultant..\
-  [202309221726321229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309221726321229.pdf)
-
-- Regarding payment of work done for the period from April 2023 to July 2023 to PWC company appointed as Pune and Pimpri-chinchwad City CCTV Project Consultant.\
-  [202309221730396429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309221730396429.pdf)
-
-- Regarding omitting name from Regular Select List 2021-22 (Part-2) of officers in the cadre of Police Inspector (Unarmed), prepared for promotion to posts in the cadre of Deputy Superintendent of Police/Asst. Commissioner of Police (Unarmed).\
-  [202309221801401329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309221801401329.pdf)
+- In order to speed up the completion of the railway project in Maharashtra and to solve the problems in the project quickly, Regarding the formation of a High Level Committee under the Chairmanship of the Honorable Chief Secretary of Maharashtra.\
+  [202309261718582929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261718582929.pdf)
 
 ## Personnel
-- Regarding extension of temporary posts in various categories on the establishment of Director, Directorate of Public Prosecution, Maharashtra, Mumbai. In the period 01 September, 2023 to 28 February, 2024\
-  [202309201614319229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309201614319229.pdf)
+- Continuation to the total 132 temporary post on the establishment of Police General Surgeon, J.J. Post-Mortem Cente,Mumbai.\
+  [202309251553296429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251553296429.pdf)
 
-- Continuation of 115 temporary posts of Additional Director General of Police/ Superintendent of Police/Deputy Commissioner of Police and DySP/ACP\
-  [202309211702162429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309211702162429.pdf)
+- Extention of time for the two MACT and temporary posts in MACT Nagpur.\
+  [202309251636027629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251636027629.pdf)
 
-- Continuation of 335 temporary posts on the establishment of Commissioner of Police,Nagpur\
-  [202309211730534629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309211730534629.pdf)
+- Extention of time for the 24 temepary posts in MACT Nagpur.\
+  [202309251640216629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251640216629.pdf)
 
-- Continuation of 633 temporary posts on the establishment of SP, Pune (Rural)\
-  [202309211733495329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309211733495329.pdf)
+- Extention of time for the 16 temepary posts in MACT Mumbai.\
+  [202309251644566829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251644566829.pdf)
 
-- Continuation of 2633 temporary posts on the establishment of Commissioner of Police, Pimpari-Chinchwad.\
-  [202309211738000029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309211738000029.pdf)
+- Regarding transfers/postings of officers of Deputy Superintendent of Police/Asst. Commissioner of Police, Police Communication and Information Technology cadre.\
+  [202309251828179529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251828179529.pdf)
 
-- Continuation of 17109 temporary posts on the establishment of Commissioner of Police, Mumbai\
-  [202309211740592329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309211740592329.pdf)
+- Regarding transfers/postings of Police officers.\
+  [202309251840073429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251840073429.pdf)
 
-- Continuation to the post of Staff Officer of Additional Director General of Police (Special Task), Maharashtra, Mumbai.\
-  [202309211743268629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309211743268629.pdf)
+- Regarding transfers/postings of officers of Deputy Superintendent of Police/Asst. Commissioner of Police cadre.\
+  [202309251854536129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251854536129.pdf)
 
-- Continuation to the post of Superintendent of Police, on the establishment of Director General of police ,Maharashtra, Mumbai.\
-  [202309211747196929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309211747196929.pdf)
+- Regarding extension of 2144 temporary posts allotted various Transport Branches of Maharashtra Police.\
+  [202309261449474929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261449474929.pdf)
 
-- Continuation to the post of Additional Director General, Civil Rights Protection on the establishment of Director General of Police, Maharashtra, Mumbai.\
-  [202309211749383929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309211749383929.pdf)
+- Regarding the extension 1330 temporary posts in various offices under the Director General of Police, Maharashtra State, Mumbai.\
+  [202309261509172029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261509172029.pdf)
 
-- Continuation to the post of Financial Advisor and Account Officer in Director, Maharashtra Police Academy , Nashik.\
-  [202309211752064229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309211752064229.pdf)
+- Regarding extension of 4 temporary posts on the establishment of Motor Accident Claims Tribunal, Pune.\
+  [202309261517326829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261517326829.pdf)
 
-- continuation of newly created temporary 100 posts for 02 Armed Police Help Centers 1) Nender and 2) Yelchil at Surjagad in Gadchiroli district.\
-  [202309211753242829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309211753242829.pdf)
+- Continuation of 1 temporary post at S.T.A.T. Mumbai.\
+  [202309261526074229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261526074229.pdf)
 
-- Regarding Extension to Temporary Posts of Various Establishment of Police Department\
-  [202309221125452229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309221125452229.pdf)
+- Regarding Completion of Probationary Period of Assistant Government Prosecutor, Group A.\
+  [202309261630207329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261630207329.pdf)
 
-- Regarding Extension to Temporary Posts of Various Establishment of Police Department\
-  [202309221129257029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309221129257029.pdf)
-
-- Continuation to the total 1222 temporary post on the establishment of Police Commissioner, Mumbai and to the total 116 temporary post on the establishment of Motor Transport Department\
-  [202309221541170229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309221541170229.pdf)
-
-- Continuation to the total 505 temporary post on the establishment of Director General of Police, Mumbai\
-  [202309221548544329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309221548544329.pdf)
-
-- continuation to the total 10 temporary post on the establishment of Additional Director General of Police (State Crime Detection Dept.),Pune\
-  [202309221555173629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309221555173629.pdf)
-
-- Continuation to the total 62 temporary post on the establishment of Inspector General of Motor Transport Department, Pune.\
-  [202309221600094829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309221600094829.pdf)
-
-- Continuation to the total 20 temporary post on the establishment of Director General of Anti Corruption Beuro, Mumbai.\
-  [202309221604142029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309221604142029.pdf)
-
-- Continuation of 77 temporary posts on the establishment of Special Inspector General ,Cyber, Mumbai.\
-  [202309221717492229.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309221717492229.pdf)
-
-- Regarding publication of provisional seniority list of officers in the cadre of Deputy Superintendent, Central Jails/ Superintendent, District Jails Class-2 dated 01.01.2022 and 01.01.2023.\
-  [202309221723254129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309221723254129.pdf)
+- Regarding extension of temporary posts in State Excise Department from 01.09.2023 to 29.02.2024.....\
+  [202309271736587829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271736587829.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

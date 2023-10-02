@@ -1,18 +1,24 @@
 # Water Supply and Sanitation Department
 
-**Date Range**: 18 September 2023 - 23 September 2023
+**Date Range**: 25 September 2023 - 30 September 2023
 
 
 ## Funds
-- Grant Release head 22151881\
-  [202309211518270228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309211518270228.pdf)
+- Grant-in-aid to Maharashtra Jeevan Pradhikarn for payment of Salary and other allowances Budget Head 2215A041.\
+  [202309251012123328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251012123328.pdf)
 
-## Personnel
-- Regarding fixation of permanent posts of Rural water supply department in Zilla Parishads.\
-  [202309201643528928.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309201643528928.pdf)
+## Miscellaneous
+- Regarding constitution of State Level Administrative Department Purchase Committee and appointment of Purchase Officers for purchases made from the State level under Swachh Bharat Mission (Graa) Phase-II.\
+  [202309201128464428.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309201128464428.pdf)
 
-- Post continuation of Zilla Parishads Rural Water Supply Department\
-  [202309221429168728.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309221429168728.pdf)
+- Guidelines for declaration and verification of villages as Hagandari Mukt Plus (ODF Plus) under Swachh Bharat Abhiyan (GRA) Phase-II.\
+  [202309251152105228.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251152105228.pdf)
+
+- Guidelines on village selection criteria and general office procedure for solid waste and sewage management at individual as well as public level under Swachh Bharat Abhiyan (Gra) Phase-II.\
+  [202309251152280828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251152280828.pdf)
+
+- Budget Grant 2023-2024 Demand No. Y-03, 2235, Social Security and Welfare (Non-Plan) (2235 2421)\
+  [202309261012291828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261012291828.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

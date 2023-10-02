@@ -1,11 +1,15 @@
 # Persons with Disabilities Welfare Department
 
-**Date Range**: 18 September 2023 - 23 September 2023
+**Date Range**: 25 September 2023 - 30 September 2023
 
+
+## Funds
+- Regarding provision of Environment friendly Mobile shop running on green energy (Mobile Shop on Vehicle) for disabled persons to become self-reliant\
+  [202309271559401235.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271559401235.pdf)
 
 ## Miscellaneous
-- Regarding the appointment of a Cabinet Sub-Committee to take up the various demands of the Deaf Divyang in the state.\
-  [202309181403136535.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309181403136535.pdf)
+- Regarding changes in the Board of Directors of the Maharashtra State Disability Finance and Development Corporation.\
+  [202309271604233435.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271604233435.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

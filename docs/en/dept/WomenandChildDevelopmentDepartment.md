@@ -1,18 +1,18 @@
 # Women and Child Development Department
 
-**Date Range**: 18 September 2023 - 23 September 2023
+**Date Range**: 25 September 2023 - 30 September 2023
 
 
 ## Funds
-- Regarding implementation of Chief Minister Women Empowerment Campaign in the state.\
-  [202309201413554830.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309201413554830.pdf)
+- Grant release for Mazi Kanya Bhagyashree scheme for 2023-24\
+  [202309261006447430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261006447430.pdf)
 
-- Release of funds for Committed Expenses of Women and Child Development Department for financial year 2023-24\
-  [202309201605284830.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309201605284830.pdf)
+- Regarding disbursement of funds for year 2023-24 under scheme of Bhikshekari gruh (2235-2878)\
+  [202309271203372630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271203372630.pdf)
 
 ## Miscellaneous
-- Regarding implementation of Chief Minister Women Empowerment Campaign in the state.\
-  [202309211354234430.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309211354234430.pdf)
+- Regarding approval for implementation of the centrally sponsored program Poshan Abhiyan in the state. As per the guidelines given by the Central Government under Poshan 2.0 as well as the revised ratio of Center and State 60: 40.\
+  [202309261006062930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261006062930.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

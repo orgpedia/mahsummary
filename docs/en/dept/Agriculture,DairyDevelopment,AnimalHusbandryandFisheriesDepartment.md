@@ -1,43 +1,61 @@
 # Agriculture, Dairy Development, Animal Husbandry and Fisheries Department
 
-**Date Range**: 18 September 2023 - 23 September 2023
+**Date Range**: 25 September 2023 - 30 September 2023
 
 
 ## Funds
-- Approval to release fund Rs.2.5 Crore under Cropsap scheme 2023-24\
-  [202309201756362601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309201756362601.pdf)
+- Release of Rs.38.33333 Lakhs of the first installment of the Dry Area Development (RAD) Program under RKVY-RAFTAR in the year 2023-24 to Scheduled Castes.\
+  [202309251431147601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251431147601.pdf)
 
-- Regarding project wise disbursement for scheduled caste for the year 2023-24 under Rashtriya Krishi Vikas Yojana-Cafeteria.\
-  [202309221704297901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309221704297901.pdf)
+- Release of Rs.31.66666 Lakhs of the first installment of the Dry Area Development (RAD) Program under RKVY-RAFTAR to Scheduled Tribes in the year 2023-24.\
+  [202309261258471701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261258471701.pdf)
 
-- Disbursement of the first installment of funds for the Scheduled Caste category to be implemented in the year 2023-24 under Paramparagt Krishi Vikas Yojana (PKVY) under Rashtriy Krishi Vikas Yojana (RKVY).\
-  [202309221802085101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309221802085101.pdf)
+- In the year 2023-24 under Agricultural Mechanization Sub Mission for Scheduled Tribe Category the first installment is Rs. 4.05 crore regarding disbursement of funds.\
+  [202309261300441201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261300441201.pdf)
 
-- Disbursement of the first installment of funds for the Scheduled Tribes category to be implemented in the year 2023-24 under Paramparagt Krishi Vikas Yojana (PKVY) under Rashtriy Krishi Vikas Yojana (RKVY).\
-  [202309221810142501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309221810142501.pdf)
+- Regarding disbursement of grant under 31-Subsidiary Grant (Non-Salary) to Vasantrao Naik Marathwada Agricultural University, Parbhani in the financial year 2023-24 (mandatory)...\
+  [202309261504245001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261504245001.pdf)
+
+- Approval to release Rs. 25,55,49,022/- for the remaining state share subsidy towards crop insurance premium to be paid to insurance companies Under Pradhan Mantri Pik Bima Yojana for Rabbi season 2022-23\
+  [202309261553547101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261553547101.pdf)
+
+- Release of first installment of General category for the implementation of MIDH Scheme in 2023-24.\
+  [202309271555314901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271555314901.pdf)
+
+- Regarding the provision of funds of Rs.240.00 lakh under the Scheme of Vasantrao Naik State Agricultural Management Institute Establishment (Programme) 31, Subsidiary Grants (Non-Salary) (2401 2649) for the construction of new hostel of Rameti Khopoli Sanstha in the year 2023-24\
+  [202309271747580901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271747580901.pdf)
+
+- Regarding disbursement of grant under 31-Subsidiary Grant (Non-Salary) to Vasantrao Naik Marathwada Agricultural University, Parbhani in the financial year 2023-24 (Programme)...\
+  [202309271834099001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271834099001.pdf)
+
+- Regarding disbursement of grant to Dr. Balasaheb Sawant Kokan Agricultural University, Dapoli for the financial year 2023-24 for 31- Subsidiary Grants (Non-salary)... (Programme)\
+  [202309271838404501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271838404501.pdf)
 
 ## Miscellaneous
-- Approval to release Rs. 61,52,35,981/- for the remaining state share subsidy towards crop insurance premium to be paid to insurance companies Under Pradhan Mantri Pik Bima Yojana for Kharif season 2022\
-  [202309181836191901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309181836191901.pdf)
-
-- Regarding determining the level of presentation of topics in the workshop.\
-  [202309201145461901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309201145461901.pdf)
-
-- Regarding the approval of the change proposed to implement the Bhausaheb Fundkar Orchard Plantation Scheme from the year 2023-24\
-  [202309211617421901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309211617421901.pdf)
-
-- Land utilization under Reservoir / Tank Bed in drought conditions only for taking fodder crops.\
-  [202309211718179801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309211718179801.pdf)
+- Regarding the registration of names of students of agricultural universities and their affiliated colleges in the voter list for the elections in the graduate and teacher constituencies of the Maharashtra Legislative Council.\
+  [202309271842372601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271842372601.pdf)
 
 ## Personnel
-- Regarding promotion of Maharashtra Agricultural Service, Group-B (Junior) cadre officers to Maharashtra Agricultural Service Group-B cadre (partial change).....\
-  [202309211122338001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309211122338001.pdf)
+- Regarding continuation of temporary posts in the scheme of Soil Survey and Investigation and Soil Analysis Chemistry Laboratory from 01/09/2023 to 29/02/2024.\
+  [202309251525433601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251525433601.pdf)
 
-- Agriculture department taluka seed farm policy extension of 248 temporary post from 01/09/2023 to 29/02/2024.\
-  [202309211504058901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309211504058901.pdf)
+- Regarding continuation of temporary posts in the scheme of Seed, Chemical Fertilizer, Pesticide Testing, Pesticide Residue Testing and Biological Pest Control Laboratory from 01/09/2023 to 29/02/2024.\
+  [202309251530262201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251530262201.pdf)
 
-- Under Rule 4 of the Prevention of Delay in Discharge of Government Duties Act, 2013 prescribing three tiers of powers for presentation of cases for final decision on matters relating to the office.\
-  [202309221741537701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309221741537701.pdf)
+- Office order for delaying and delegation\
+  [202309251701535601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251701535601.pdf)
+
+- Office order for delaying and delegation\
+  [202309251707092501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251707092501.pdf)
+
+- Regarding transfer of officer in Group-A cadre to Joint Director of Agriculture.\
+  [202309251842003101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251842003101.pdf)
+
+- Regarding posting, In the cadre of Livestock Development Officer under Maharashtra Animal Husbandry Service (Group-A) advertisement no. 11/2022 (Backlog Special Recruitment)\
+  [202309261115478001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261115478001.pdf)
+
+- Agricultural Officer (Zilla Parishad) Group-B (Junior) Cadre Officers Premature/Request transfers 2023 Request transfers\
+  [202309271849277301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271849277301.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

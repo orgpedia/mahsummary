@@ -1,21 +1,43 @@
 # Public Health Department
 
-**Date Range**: 18 September 2023 - 23 September 2023
+**Date Range**: 25 September 2023 - 30 September 2023
 
 
 ## Funds
-- 70 grant released to Emergency Medical Services (August 2023)\
-  [202308231728315317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308231728315317.pdf)
+- Regarding the disbursement of state share grant amounting to Rs.1137.78 lakh for Infrastructure and Maintenance and Kind Grant of 40 percent state share from the budget provision of the year 2023-24 from the budget provision of the year 2023-24 under the Centrally Sponsored National Health Mission\
+  [202308311753252017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311753252017.pdf)
 
-- Regarding obtaining revised administrative approval for implementing the tender process for starting Mechanized Cleaning Services through Outsourcing in Health Institutions of the State.\
-  [202308311753193817.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311753193817.pdf)
+- Rs.3859.65 lakhs for Infrastructure and Maintenance and Rs.567.91 lakhs for Kind Grant under account head 2210G609 and Rs.567.91 lakhs for Kind Grant in the financial year 2022-23 for the Social Special Component (SCSP) in the financial year 2023-24 for the programs under the Centrally Sponsored National Rural Health Mission. Regarding disbursement of funds amounting to Rs.4432.84 lakhs for Rs.5.28 lakhs.\
+  [202308311753308317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308311753308317.pdf)
+
+## Miscellaneous
+- Regarding termination of probationary period of Medical Officer Group-A in the Maharashtra Medical and Health Service cadre\
+  [202309141507297717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309141507297717.pdf)
+
+- Regarding termination of probationary period of Medical Officer Group-A in the Maharashtra Medical and Health Service cadre\
+  [202309141507348017.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309141507348017.pdf)
+
+- Regarding termination of probationary period of Medical Officer Group-A in the Maharashtra Medical and Health Service cadre\
+  [202309141507408717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309141507408717.pdf)
+
+- Regarding approval of new Primary Health Center at Mauje Fardapur, Soigaon, District Chhatrapati Sambhajinagar.\
+  [202309151127148217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309151127148217.pdf)
+
+- Regarding termination of probationary period of Medical Officer Group-A in the Maharashtra Medical and Health Service cadre\
+  [202309151127350717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309151127350717.pdf)
+
+- Regarding acceptance of resignation of Medical Officer Group-A in the Maharashtra Medical and Health Service cadre (Pay scale S- 20 - Rs.56100-Rs.1,77,500)\
+  [202309261052025217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261052025217.pdf)
+
+- Rural Hospital, Mohol Dist.Solapur regarding upgradation of 30-bed rural hospital to 50-bed sub-district hospital as a special matter.\
+  [202309271243573317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271243573317.pdf)
 
 ## Personnel
-- Regarding continuation of 20 temporary posts in Sub-District Hospital, Brahmpuri, Dist.Chandrapur\
-  [202308231728244617.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202308231728244617.pdf)
+- Regarding posting by transfer of officers in the cadre of District Health Officers Dr. Sai Dhuri\
+  [202309251342318117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251342318117.pdf)
 
-- Regarding the continuation of approved 29 temporary posts on the establishment of Commissioner under State Labor Insurance Scheme, State Labor Insurance Scheme, Mumbai from 01.09.2023 to 29.02.2024....\
-  [202309201205367717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309201205367717.pdf)
+- Regarding posting by transfer of officers in the cadre of District Health Officers Dr. Ashok Katare\
+  [202309251342417917.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251342417917.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

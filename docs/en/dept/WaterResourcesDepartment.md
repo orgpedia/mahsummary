@@ -1,28 +1,23 @@
 # Water Resources Department
 
-**Date Range**: 18 September 2023 - 23 September 2023
+**Date Range**: 25 September 2023 - 30 September 2023
 
-
-## Funds
-- Second Revised Administrative Approval to the Padoshi MI Tank, Tal.Akole, Dist.Ahmednagar having the estimated cost of Rs.32.07 crore.\
-  [202309201427312927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309201427312927.pdf)
-
-## Miscellaneous
-- Policy and Procedures for Restoration of Carrying Capacity of Notified Rivers Adjacent to Civil and Urban Areas in Maharashtra State\
-  [202309211722434927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309211722434927.pdf)
 
 ## Personnel
-- Regarding extension of 157 temporary posts on establishment of Water Resources Department (Self) till February 29, 2024.\
-  [202309181711045127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309181711045127.pdf)
+- Temporary posts under the office of Chief Engineer (Architectural), Hydro Power Projects and Quality Control, Pune dt. 01.09.2023 to dt. 29.02.2024 regarding extension of time for this period.\
+  [202309271635095827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271635095827.pdf)
 
-- Interim seniority list of Junior Engineer (Civil) cadre in Water Resources Department dated 01/01/2023 (for the period from 01.01.2017 to 31/12/2022).\
-  [202309211635122027.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309211635122027.pdf)
+- Superintending Engineer, Water Resources e-Administration Four under the authority of Mandal, Pune Fixed Temporary in Divisional Office 01/09/2023 to the posts on establishment They d. Extension till 29/02/2024 Regarding giving.\
+  [202309271639353927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271639353927.pdf)
 
-- Administrative Approval to Renovation work of Shahabaj Kharland Scheme, Tal. Alibaug, Dist- Raigad\
-  [202309211713014327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309211713014327.pdf)
+- Superintending Engineer, Quality Control Board, Aurangabad and 2 Divisions under his control, 261 posts on fixed temporary establishment in 08 sub-divisions and 01 post on converted temporary establishment from 01.09.2023 to dt. 29.02.2024 regarding extension of time for this period.\
+  [202309271646358627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271646358627.pdf)
 
-- Regarding extension of appointment on the post of majority.....\
-  [202309221730598727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309221730598727.pdf)
+- Superintending Engineer, Quality Control Board, Nagpur and 5 Divisions, 18 sub-divisions under his control 603 posts on fixed temporary establishment and 07 posts on converted temporary establishment dt. 01.09.2023 to dt. Regarding extension for the period 29.02.2024.\
+  [202309271655481727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271655481727.pdf)
+
+- 456 posts on designated temporary establishment and 13 posts on converted temporary establishment in the office of Superintending Engineer, Quality Control Board, Pune and 4 divisions, 14 sub-divisions under his authority. 01.09.2023 to dt. Regarding extension for the period 29.02.2024.\
+  [202309271702252227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271702252227.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
