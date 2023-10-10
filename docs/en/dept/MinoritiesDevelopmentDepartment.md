@@ -1,21 +1,18 @@
 # Minorities Development Department
 
-**Date Range**: 11 September 2023 - 16 September 2023
+**Date Range**: 02 October 2023 - 07 October 2023
 
 
 ## Funds
-- Grand relies for the helpline scheme.\
-  [202309111520216314.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309111520216314.pdf)
+- Regarding disbursement of grant-in-aid for compulsory expenditure for the financial year 2023-24 to the Maharashtra State Urdu Sahitya Academy.\
+  [202310041703169714.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310041703169714.pdf)
+
+- Grant release for minority girls Hostel\
+  [202310061626496114.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310061626496114.pdf)
 
 ## Miscellaneous
-- Grand relies for second shift in Polytacnic.\
-  [202309111156441114.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309111156441114.pdf)
-
-- Grand relies for second and third shift in ITI.\
-  [202309111157363114.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309111157363114.pdf)
-
-- Grand relies for Girls Hostel.\
-  [202309111208508014.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309111208508014.pdf)
+- Distribution of funds under dr. zakir hussain madrassa modernization scheme for the madrassas of the year 2022-23 in 2023-24 financial year.\
+  [202310031434370414.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310031434370414.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

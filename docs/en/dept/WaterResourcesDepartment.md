@@ -19,5 +19,8 @@
 - 456 posts on designated temporary establishment and 13 posts on converted temporary establishment in the office of Superintending Engineer, Quality Control Board, Pune and 4 divisions, 14 sub-divisions under his authority. 01.09.2023 to dt. Regarding extension for the period 29.02.2024.\
   [202309271702252227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271702252227.pdf)
 
+- Seniority List of Executive Engineer (Electrical Mechanical) as on dated 01.01.2023\
+  [202310031227358427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310031227358427.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

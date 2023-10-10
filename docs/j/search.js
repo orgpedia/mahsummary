@@ -64,7 +64,6 @@ function getLunrSearchQuery(query) {
 function getSearchResults(query) {
     return searchIndex.search(query).flatMap((hit) => {
         if (hit.ref == "undefined") return [];
-	console.log('getsearchresults ' + hit.ref)
         let pageMatch = pagesIndex.filter((page) => page.idx === hit.ref)[0];
         pageMatch.score = hit.score;
         return [pageMatch];
@@ -92,7 +91,8 @@ function handleSearchQuery(event) {
     }
     const results = searchSite(query);
     if (!results.length) {
-        displayErrorMessage(query + " -- No results found");
+        //displayErrorMessage(query + " -- No results found");
+        displayErrorMessage2(query);	
         return;
     }
     renderSearchResults(query, results);
@@ -174,6 +174,11 @@ function showSearchResults() {
     );
     //document.querySelector(".search-results").classList.remove("hide-element");
     document.querySelector(".search-results").classList.remove("hidden");
+    //TODO CHECK
+    const results = document.getElementById("search-cells");
+    if (results){
+	results.classList.remove("hidden");
+    }
 }
 
 function hideSearchResults() {
@@ -202,6 +207,34 @@ function displayErrorMessage(message) {
     document.getElementById("search").value = message;
     
 }
+
+function displayErrorMessage2(message) {
+    console.log("INSIDE displayErrorMessage2: " + message);
+    clearSearchResults();
+    displayErrorStr(message);
+
+
+    document.querySelectorAll(".primary").forEach(
+	//        (ar) => (ar.classList.add("hide-element"))
+        (ar) => (ar.classList.add("hidden"))	
+    );
+    document.querySelector(".search-results").classList.remove("hidden");
+    
+    console.log("INSIDE displayErrorMessage2 before: " + message);
+    const results = document.getElementById("search-cells");
+    if (results){
+	results.classList.add("hidden");
+    }
+    console.log("INSIDE displayErrorMessage2 after: " + message);        
+    
+    //showSearchResults();
+}
+
+function displayErrorStr(message){
+    document.getElementById("query").innerHTML = "Search Terms: \"" + message + "\" not found, please change the query.";
+}
+
+
 
 function removeAnimation() {
     this.classList.remove("fade");
@@ -233,7 +266,8 @@ function handleMobileSearch(event)
     }
     const results = searchSite(query);
     if (!results.length) {
-        displayErrorMessage(query + " -- No results found");
+        //displayErrorMessage(query + " -- No results found");
+        displayErrorMessage2(query);	
         return;
     }
     renderSearchResults(query, results);

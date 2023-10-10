@@ -45,5 +45,8 @@
 - Regarding payment of salary of IAS Officers on waiting through General Administration Department.\
   [202309271153594207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271153594207.pdf)
 
+- As per State Training Policy-2011 regarding revision of residential training fee rates of Yashda, Pune (Appointment Institute) as well as training institutes declared at Divisional and District level.\
+  [202310031458184607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310031458184607.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

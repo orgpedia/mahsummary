@@ -32,6 +32,9 @@
 - Rural Hospital, Mohol Dist.Solapur regarding upgradation of 30-bed rural hospital to 50-bed sub-district hospital as a special matter.\
   [202309271243573317.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271243573317.pdf)
 
+- Regarding approval of 100 bedded womens hospital as a special matter at Kinwat, Dist.Nanded.\
+  [202309151127198217.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309151127198217.pdf)
+
 ## Personnel
 - Regarding posting by transfer of officers in the cadre of District Health Officers Dr. Sai Dhuri\
   [202309251342318117.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251342318117.pdf)

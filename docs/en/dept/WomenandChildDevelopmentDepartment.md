@@ -14,5 +14,8 @@
 - Regarding approval for implementation of the centrally sponsored program Poshan Abhiyan in the state. As per the guidelines given by the Central Government under Poshan 2.0 as well as the revised ratio of Center and State 60: 40.\
   [202309261006062930.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261006062930.pdf)
 
+- release grants of women and child development dept under Demand Code X-2 and Major Head (2251 0875)\
+  [202310031718523630.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310031718523630.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

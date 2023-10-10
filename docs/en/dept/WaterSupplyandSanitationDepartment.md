@@ -20,5 +20,9 @@
 - Budget Grant 2023-2024 Demand No. Y-03, 2235, Social Security and Welfare (Non-Plan) (2235 2421)\
   [202309261012291828.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261012291828.pdf)
 
+## Personnel
+- Preparation of prospective Water Scarcity Action Plan for the year 2023-24 for further planning to address future water scarcity in the state.\
+  [202309261234293328.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261234293328.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

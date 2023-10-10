@@ -62,6 +62,9 @@
 - Regarding the creation of a new head of account for the maintenance and repair of administratively approved roads and bridges under the Road Connectivity Project on Left Wing Extremism Affected Area (RCPLWEA) under the Pradhan Mantri Gram Sadak Yojana\
   [202309271554542720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271554542720.pdf)
 
+- Fund release to Maharashtra State Rural Livelihood Mission (NRLM) for Scheduled Castes (SCP) for the year 2023-24.\
+  [202309271734543120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271734543120.pdf)
+
 ## Personnel
 - Regarding the continuation of temporary posts of Deputy Commissioners and Assistant Commissioners and Additional Chief Executive Officers created to strengthen the development cell in the Office of the Commissioner.\
   [202309251058080220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251058080220.pdf)
