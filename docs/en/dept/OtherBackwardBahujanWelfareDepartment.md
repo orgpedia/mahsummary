@@ -1,15 +1,14 @@
 # Other Backward Bahujan Welfare Department
 
-**Date Range**: 25 September 2023 - 30 September 2023
+**Date Range**: 09 October 2023 - 14 October 2023
 
-
-## Funds
-- Regarding implementation of Modi Awas Gharkul Scheme for Other Backward Classes and Special Backward Classes beneficiaries in the state.\
-  [202309271528146134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271528146134.pdf)
 
 ## Miscellaneous
-- Regarding mapping of 261 courses of ITI for students belonging to VJNT, OBC and SBC class on MahaDBT system for reimbursement of training fees.\
-  [202309271532066134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271532066134.pdf)
+- Administrative and financial approval for the advertisement and Publicity of Schemes implemented by Other Backward Bahujan Welfare Department\
+  [202310091801122734.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310091801122734.pdf)
+
+- Vasantrao Naik Vimukta Jati Nomadic Tribes Development Corporation Deciding the number of members of the Board of Directors.\
+  [202310121427202234.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310121427202234.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

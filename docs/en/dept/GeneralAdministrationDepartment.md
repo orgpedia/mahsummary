@@ -1,52 +1,42 @@
 # General Administration Department
 
-**Date Range**: 25 September 2023 - 30 September 2023
+**Date Range**: 09 October 2023 - 14 October 2023
 
-
-## Funds
-- Regarding disbursement of grant to Maharashtra Airport Development Company for development of Mihan project.\
-  [202309251434237407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251434237407.pdf)
-
-- Regarding disbursement of funds to Maharashtra Airport Development Company for Kolhapur, Amravati and RCS for development of airports in the state.\
-  [202309251438039207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251438039207.pdf)
-
-- Regarding disbursement of funds to Maharashtra Airport Development Company under account head (3053 0146) for the development of these airports/runways in the State.\
-  [202309251438555607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251438555607.pdf)
 
 ## Miscellaneous
-- Guidelines for CPTP 8A Batch\
-  [202309261132278307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261132278307.pdf)
+- Regarding the affixing of identity card on the face of all officers/employees of the State Govt.\
+  [202310101640143507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310101640143507.pdf)
 
-- Deputation Order Smt.Madhuri Sonawane, Desk officer.\
-  [202309261737036507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261737036507.pdf)
+- Regarding the provision of manpower to the committee formed in accordance with the demands for giving Kunbi caste certificate to the Maratha community.\
+  [202310111748313907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310111748313907.pdf)
 
-- Regarding repatriation of Smt.Pradnya P.Mule, Desk Officer.\
-  [202309261741029707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261741029707.pdf)
+- Administrative Arrangement while relieving for one week In-Service Training to IAS Officers.\
+  [202310121103423807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310121103423807.pdf)
 
-- Deputation Order. Smt.Priya A Deshpande, Desk officer.\
-  [202309261743528407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261743528407.pdf)
+- Regarding extension of deputation of Smt S.D.Dadmal, Assistant Section Officer.\
+  [202310121308235507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310121308235507.pdf)
 
-- Regarding extension of time to deputation. Smt.Ranjana Gavari, Desk Officer.\
-  [202309261747412507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261747412507.pdf)
+- Regarding acceptance of mails from citizens as well as field offices to the administrative departments of the Ministry only at the central postal center near the main entrance of the Ministry.\
+  [202310121540220807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310121540220807.pdf)
 
-- Training in the year 2023-24 under the State Training Policy. Post Promotion Training of Under Secretary (Group-A).\
-  [202309271717243207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271717243207.pdf)
+- Regarding the increase in the amount given to journalists from the Shankarao Chavan Golden Jubilee Journalist Welfare Fund....\
+  [202310121754283007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310121754283007.pdf)
 
-- Training in the year 2023-24 under the State Training Policy. Cancelation of names from Post Promotion Training of Under Secretary (Group-A).\
-  [202309271720545007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271720545007.pdf)
+- Regarding acquisition of vehicles for the winter session of the Maharashtra Legislature to be held at Nagpur in the year 2023.\
+  [202310131538208107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310131538208107.pdf)
+
+- Regarding the use of government vehicles by office-bearers/officers/employees during the Nagpur Session of the Legislature.\
+  [202310131539283307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310131539283307.pdf)
+
+- Regarding approval of list and rate of selected organizations as per prescribed procedure for digitally printing/inserting/removal of messages on hoardings and banners on flex- Year 2023.\
+  [202310131655003407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310131655003407.pdf)
 
 ## Personnel
-- Extension to employees on supernumerary post.\
-  [202309261249588507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261249588507.pdf)
+- Regarding extension of 8 temporary posts of Dr. Panjabrao Deshmukh Vidarbha Administrative and Development Training Prabodhini, Amravati (period dt.01.09.2023 to d.28.02.2024)\
+  [202310091518182607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310091518182607.pdf)
 
-- Regarding extension of 8 temporary posts of Officers/Employees in Backward Class Cell under Divisional Commissioners.\
-  [202309261624367407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261624367407.pdf)
-
-- Regarding payment of salary of IAS Officers on waiting through General Administration Department.\
-  [202309271153594207.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271153594207.pdf)
-
-- As per State Training Policy-2011 regarding revision of residential training fee rates of Yashda, Pune (Appointment Institute) as well as training institutes declared at Divisional and District level.\
-  [202310031458184607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310031458184607.pdf)
+- CPTP-8 A (Supernumerator) Joining Order Temporary posting Desk Officer cadre smt. Shradha Magar.\
+  [202310131625057107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310131625057107.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

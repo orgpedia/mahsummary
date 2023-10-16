@@ -1,40 +1,42 @@
 # Higher and Technical Education Department
 
-**Date Range**: 25 September 2023 - 30 September 2023
+**Date Range**: 09 October 2023 - 14 October 2023
 
-
-## Funds
-- Regarding disbursement of funds under the head 31-Subsidiary Grants (Non-Salary) for Subsidiary Grants Scheme (2202 K 802) to Government and Non-Government Colleges under Paris Sparsh Yojana and declaring Controller and Drawing and Disbursing Officer for the same.\
-  [202309271752548508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271752548508.pdf)
 
 ## Miscellaneous
-- About free hostel facilities to the students admitted in SIAC Mumbai.\
-  [202309251243238008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251243238008.pdf)
+- Regarding disbursement of funds required for the demolition of the Nuclear and Radiation Laboratory building in Mumbai premises, a science institute under Dr. Homi Bhabha State University, Mumbai\
+  [202310091507447308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310091507447308.pdf)
 
-- Regarding formation of departmental promotion committee.\
-  [202309261244196908.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261244196908.pdf)
+- With regard to amending the Government order granting approval to new study courses/subjects, new batch, new faculty to the existing colleges under expansion for the academic year 2023-24...(Corrigendum)\
+  [202310091629161308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310091629161308.pdf)
 
-- Probation complation of HOD in government polytechnic\
-  [202309271305256108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271305256108.pdf)
+- Creation of the post of Director for the Laxmi Narayan Technical Institute, Nagpur (Post Facto Sanction)\
+  [202310101658545208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310101658545208.pdf)
 
-- University added colleges NPS/DCPS procedure\
-  [202309271726485208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271726485208.pdf)
+- Probation completion of HOD in Government Polytechnic.\
+  [202310101726569408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310101726569408.pdf)
+
+- Regarding disbursement of funds for digitization of rare books and manuscripts held by the Asiatic Society, Mumbai.\
+  [202310101803244508.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310101803244508.pdf)
+
+- Complete closure of Institution from Academic year 2022-23 as per the approval of AICTE, New Delhi\
+  [202310131701166708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310131701166708.pdf)
+
+- Regarding appropriation of the balance of deposit with non-agricultural universities and affiliated colleges\
+  [202310131843535108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310131843535108.pdf)
 
 ## Personnel
-- Delegation of financial powers at the level of Joint/Deputy Secretary as provided in financial powers rule-1978, Part-Firt, Subsection-two\
-  [202309261626093008.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261626093008.pdf)
+- Regarding appointment by nomination- Assistant Professor, Computer Engineering, Govt Engineering Colleges, Maharashtra Engineering College Teachers Service, Group A\
+  [202310091715021808.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310091715021808.pdf)
 
-- To continue temporary posts under the Directorate of Technical Education, Maharashtra State, Mumbai from dated 01.09.2023 to 29.02.2024.\
-  [202309261803211708.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261803211708.pdf)
+- Provisional Seniority List of Maharashtra State Library Service Group-B Cadre Officers in Directorate of Libraries and its Subordinate Offices as on 01.01.2023\
+  [202310091755131408.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310091755131408.pdf)
 
-- Periodic Transfers, 2023-Assistant Professor, Government College of Engineering, Maharashtra Engineering Teachers Service, Group-Apass\
-  [202309271301348308.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271301348308.pdf)
+- Regarding granting scholarships for the academic year 2023-24 to meritorious boys and girls for pursuing higher education abroad...\
+  [202310131100027108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310131100027108.pdf)
 
-- Regarding requests for transfers of officers in the cadre of Assistant Library Director/ District Library Officer (Gazetted Group-B) under the Directorate of Libraries..\
-  [202309271630526108.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271630526108.pdf)
-
-- Regarding continuation of temporary posts in Directorate of Libraries, Mumbai and offices under the Directorate.\
-  [202309271633079608.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271633079608.pdf)
+- Change in Place of Posting, Lecturers, Government Polytechnic Teachers Services Group-A.\
+  [202310131506216208.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310131506216208.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

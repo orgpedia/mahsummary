@@ -1,27 +1,28 @@
 # Social Justice and Special Assistance Department
 
-**Date Range**: 25 September 2023 - 30 September 2023
+**Date Range**: 09 October 2023 - 14 October 2023
 
+
+## Funds
+- Regarding the disbursement of funds for Scheduled Castes under the Centrally Sponsored State Agricultural Extension Programs for Improvements (Atma) Scheme in the financial year 2023-24. Central share (heading 2401B301)State Share (Account Head 2401B312)\
+  [202310131220558622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310131220558622.pdf)
 
 ## Miscellaneous
-- Regarding the grant of ex-gratia assistance to the families of employees who die of infection with the Covid-19 virus while on duty related to Covid-19. Late. Maroti Ganpatrao Gawle, Assistant Teacher\
-  [202309251711068222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251711068222.pdf)
+- Regarding giving admission under Khasbab in Government Hostel in Social Justice Department..\
+  [202310121131273022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310121131273022.pdf)
 
-- Regarding the grant of ex-gratia assistance to the families of employees who die of infection with the Covid-19 virus while on duty related to Covid-19. Late Lata Gautam Waghmare, Junior Clerk\
-  [202309251716473722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251716473722.pdf)
+- Regarding the renewal of appointment of retired officers on contract basis to handle the work of departmental inquiries in the Department of Social Justice and Special Assistance...\
+  [202310121511155522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310121511155522.pdf)
 
-- Regarding giving admission under Khasbab in Government Hostel in Social Justice Department...\
-  [202309261824092822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261824092822.pdf)
+- Regarding giving administrative approval to the budget for building construction of Sant Bhagwan Baba Childrens Government Hostel, Shirur Kasar District, Beed.\
+  [202310131500445222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310131500445222.pdf)
 
 ## Personnel
-- Celebrating 1st October as World Senior Citizens Day...\
-  [202309261649173222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261649173222.pdf)
+- Regarding the transfer of Social Welfare Officers, Group-B cadre officers on the establishment of Social Welfare Commissionerate.\
+  [202310131522149822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310131522149822.pdf)
 
-- Regarding extension of tenure of temporary posts on Maharashtra State Scheduled Castes trie Commission\
-  [202309261712014322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261712014322.pdf)
-
-- Regarding transfer of Deputy Commissioner, Social Welfare and similar, Group-A cadre officers.\
-  [202309261755411722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261755411722.pdf)
+- Regarding the transfer of Deputy Commissioner, Social Welfare Group-A, Assistant Commissioner, Social Welfare and similar Group-A cadre on establishment of Social Welfare Commissionerate.\
+  [202310131526417922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310131526417922.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

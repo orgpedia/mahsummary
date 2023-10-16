@@ -1,40 +1,37 @@
 # Urban Development Department
 
-**Date Range**: 25 September 2023 - 30 September 2023
+**Date Range**: 09 October 2023 - 14 October 2023
 
 
 ## Funds
-- Maharashtra Suvarna Jayanti Nagarothan Mahabhiyan - Administrative Approval for Dhule Road Development Project.\
-  [202309251753584825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251753584825.pdf)
+- Approval to the guarantee of the State Government for taking a bridge loan of Rs.1000 Crore for the Mumbai Metro Line-3 project and approval to the formation of a High-Powered Committee to take a decision on granting a government guarantee for taking bridge loans only for metro projects in the state on a temporary basis.\
+  [202310091257387125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310091257387125.pdf)
 
-- Maharashtra Suvarna Jayanti Nagarothan Mahabhiyan - Administrative Approval for Jamner Road Development Project.\
-  [202309261426166925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261426166925.pdf)
+- Administrative Approval to Water Supply Project of Chandrapur Municipal Corporation Under AMRUT 2.0 (270.13 Cr)\
+  [202310091831255425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310091831255425.pdf)
 
-- Maharashtra Suvarna Jayanti Nagarothan Mahabhiyan - Administrative Approval for Khamgaon Road Development Project.\
-  [202309261624282325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261624282325.pdf)
+- Regarding disbursement of first installment funds under Part-I of the Central Governments scheme Special Assistance to States for Capital Investment 2023-24.\
+  [202310101035539525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310101035539525.pdf)
 
-- Maharashtra Suvarna Jayanti Nagarothan Mahabhiyan - Administrative Approval for Katol Road Development Project.\
-  [202309261624359325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261624359325.pdf)
+- Regarding disbursement of financial assistance received from AIIB Bank for Mumbai Urban Transport Project-3 (MUTP-3) to Mumbai Railway Development Corporation (Year 2023-24)\
+  [202310101141484525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310101141484525.pdf)
 
-- Release of Asian Development Bank Loan to Mumbai Metropolitan Region Development Authority for Mumbai Metro Line 2A, 2B and 7 Projects (FY 2023-24)\
-  [202309271626087725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309271626087725.pdf)
+- Regarding disbursement of loan amount received from Asian Development Bank to Mumbai Metropolitan Region Development Authority for Mumbai Metro 2-A, 2-B, and 7 projects (Year 2023-24)\
+  [202310131421023925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310131421023925.pdf)
+
+- Release of New Development Bank Loan to Mumbai Metropolitan Region Development Authority for Mumbai Metro Line 2A, 2B and 7 Projects (FY 2023-24)\
+  [202310131421188425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310131421188425.pdf)
 
 ## Miscellaneous
-- Approval under Section 51(4) of the Maharashtra Municipal Corporation Act, 1949 to create a total of 5 posts of Chief Pharmaceutical Officer (Class-2) 1 post and Senior Pharmaceutical Officer (Class-3) 4 posts at the establishment of Mira-Bhainder Municipal Corporation about giving.\
-  [202309261601431325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261601431325.pdf)
+- Regarding the formation of a coordination committee for the multi-purpose land transport system (Multi Model Tunnel) project for ease of travel in the city of Mumbai...\
+  [202310121125057625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310121125057625.pdf)
 
-- In Mira-Bhainder Municipal Corporation Revised Services (Entry to Service and Classification of Services) Rules, 2019, regarding the approval of the qualification and mode of appointment prescribed for entry into service to the posts of Chief Pharmaceutical Officer (Class-2) and Senior Pharmaceutical Officer (Class-3).\
-  [202309261610337925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261610337925.pdf)
+- Absorbtion and regularisation of service on vacant posts of solapur municipal corporation of 23 junior engineers appointed through servant selection committee on remuneration basis.\
+  [202310121847546825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310121847546825.pdf)
 
 ## Personnel
-- Temporary Promotion and posting from Chief Officer, Group-A/ Assistant Commissioner,Group-A to Chief Officer, Group-A(selection grade)/ Deputy Commissioner,Group-A.\
-  [202309251520511725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309251520511725.pdf)
-
-- Dharavi Redevelopment Project regarding exemption from property tax for residential flats/transition camps/open land and construction in progress.\
-  [202309261222334925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261222334925.pdf)
-
-- Regarding giving the building of Dharamshala owned by Tuljapur Municipal Council built under Tuljapur Development Authority to Sri Tuljabhavani Mandir Sansthan on long term rental basis for starting Super Multispeciality Hospital.\
-  [202309261659183525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202309261659183525.pdf)
+- Regarding extension of temporary post in Urban Land Ceiling Zonal Offices...From 01.09.2023 to 29.02.2024\
+  [202310121419217725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310121419217725.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
