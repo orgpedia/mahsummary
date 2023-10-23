@@ -1,37 +1,55 @@
 # Urban Development Department
 
-**Date Range**: 09 October 2023 - 14 October 2023
+**Date Range**: 16 October 2023 - 21 October 2023
 
 
 ## Funds
-- Approval to the guarantee of the State Government for taking a bridge loan of Rs.1000 Crore for the Mumbai Metro Line-3 project and approval to the formation of a High-Powered Committee to take a decision on granting a government guarantee for taking bridge loans only for metro projects in the state on a temporary basis.\
-  [202310091257387125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310091257387125.pdf)
+- Regarding transfer of brick kiln owners located at Mauja Bharatwada and Mauja-Punapur and making the said land available to Nagpur Smart Sustainable City Development Corporation Limited (NSSCDCL).\
+  [202310161208443925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310161208443925.pdf)
 
-- Administrative Approval to Water Supply Project of Chandrapur Municipal Corporation Under AMRUT 2.0 (270.13 Cr)\
-  [202310091831255425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310091831255425.pdf)
+- Approval to the transfer of 174.01 hectare land at Survey No. 30 in Mauje Mogharpada free of cost to Mumbai Metropolitan Region Development Authority for integrated car shed depot of Mumbai Metro Lines-4, 4A, 10 and 11-Reg.\
+  [202310161818318025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310161818318025.pdf)
 
 - Regarding disbursement of first installment funds under Part-I of the Central Governments scheme Special Assistance to States for Capital Investment 2023-24.\
-  [202310101035539525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310101035539525.pdf)
+  [202310171251514225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310171251514225.pdf)
 
-- Regarding disbursement of financial assistance received from AIIB Bank for Mumbai Urban Transport Project-3 (MUTP-3) to Mumbai Railway Development Corporation (Year 2023-24)\
-  [202310101141484525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310101141484525.pdf)
+- Maharashtra Suvarna Jayanti Nagarothan Mahabhiyan - Administrative Approval for Dindori Road Development Project.\
+  [202310171748133325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310171748133325.pdf)
 
-- Regarding disbursement of loan amount received from Asian Development Bank to Mumbai Metropolitan Region Development Authority for Mumbai Metro 2-A, 2-B, and 7 projects (Year 2023-24)\
-  [202310131421023925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310131421023925.pdf)
+- Administrative Approval to Sewerage Project of Dhule Municipal Council Under AMRUT 2.0 (714.51 Cr)\
+  [202310171748236125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310171748236125.pdf)
 
-- Release of New Development Bank Loan to Mumbai Metropolitan Region Development Authority for Mumbai Metro Line 2A, 2B and 7 Projects (FY 2023-24)\
-  [202310131421188425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310131421188425.pdf)
+- Administrative Approval to Water Supply Project of Dhule Municipal Corporation Under AMRUT 2.0 (142.76 Cr)\
+  [202310171748453425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310171748453425.pdf)
+
+- Administrative Approval to Water Supply Project of Shrivardhan Municipal Council Under AMRUT 2.0 (2.78 Cr)\
+  [202310181651401425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310181651401425.pdf)
+
+- Administrative Approval for Bhuwanale lake Rejuvenation Project of Shrivardhan Municipal Council Under AMRUT (0.55 Cr)\
+  [202310181651463025.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310181651463025.pdf)
+
+- Maharashtra Suvarna Jayanti Nagarothan Mahabhiyan - Administrative Approval for Sangola Sewerage Project.\
+  [202310191726410925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310191726410925.pdf)
 
 ## Miscellaneous
-- Regarding the formation of a coordination committee for the multi-purpose land transport system (Multi Model Tunnel) project for ease of travel in the city of Mumbai...\
-  [202310121125057625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310121125057625.pdf)
+- Namo city beautification campaign under NAMO 11-point program is very important in Rajdhani Urban Local Self-Government.\
+  [202310171056139825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310171056139825.pdf)
 
-- Absorbtion and regularisation of service on vacant posts of solapur municipal corporation of 23 junior engineers appointed through servant selection committee on remuneration basis.\
-  [202310121847546825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310121847546825.pdf)
+- Guidelines for Implementation of Projects under Centrally Sponsored Swachh Maharashtra Abhiyan (Civil) - 2.0.\
+  [202310201811153425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310201811153425.pdf)
 
 ## Personnel
-- Regarding extension of temporary post in Urban Land Ceiling Zonal Offices...From 01.09.2023 to 29.02.2024\
-  [202310121419217725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310121419217725.pdf)
+- Approval to Gratuitous Transfer of 8.00 Ha. land out of 13.37 ha of Plot No.83 of Sindhudurgnagari Newtown Development Authority, Sindhudurg to the Development Commissioner (MSME), Government of India, through the Director, Office of MSME Development and Facilitation, Ministry of Micro, Small and Medium Enterprises (MSME), Government of India, Mumbai, for setting up of Technology Centre.\
+  [202310171731298125.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310171731298125.pdf)
+
+- Regarding getting permission to lease out the commercial complex constructed by Wadwani Nagar Panchayat (District Beed) for a long term of 30 years.\
+  [202310181726002625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310181726002625.pdf)
+
+- Grant of deemed date of promotion to Cheif Officers of Group-A (Selection Grade) in Maharashtra Urban Administrative Service.\
+  [202310201606254225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310201606254225.pdf)
+
+- Regarding appointment and posting by direct recruitment to the post of Deputy Director, Town Planning, Maharashtra Town Planning and Valuation Service, Group-A.\
+  [202310201757412625.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310201757412625.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

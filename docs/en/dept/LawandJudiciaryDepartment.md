@@ -1,25 +1,20 @@
 # Law and Judiciary Department
 
-**Date Range**: 09 October 2023 - 14 October 2023
+**Date Range**: 16 October 2023 - 21 October 2023
 
-
-## Funds
-- Regarding establishment of 5 additional family courts at Nagpur and creation of necessary posts for the courts.\
-  [202310111259126812.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310111259126812.pdf)
 
 ## Miscellaneous
-- To accord administrative approval to the electric and civil work to be done to establish Scanning and Digitization Centre at CTO, Fort.\
-  [202310111451560012.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310111451560012.pdf)
+- Regarding cancellation of recovery of two advance increments granted to 88 employees of District and Sessions Court, Ahmednagar, Pune, Kolhapur and Sangli\
+  [202310171713395212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310171713395212.pdf)
 
-- Regarding the declaration of the officers in the Non-Judicial Administrative Office under the Law and Justice Department as Heads of Departments, Heads of Offices....\
-  [202310121653545512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310121653545512.pdf)
+- Hon. Regarding giving administrative approval to the proposal of Rs.42,25,500/- for purchase of new 90 laser printers in replacement of 90 multifunctional laser printers purchased in the year 2018 for High Court, Home Branch, Mumbai.\
+  [202310181202053412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310181202053412.pdf)
 
-- Constitution of Review Committee for review of service after 50/55 years of age or 30 years of qualifying service of Group B (Non Gazetted), C and D employees in the Office of Registrar of Partnership Firms, Maharashtra State.\
-  [202310131721433212.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310131721433212.pdf)
+- Regarding giving administrative approval to the proposal amounting to Rs.11,62,500/- for the purchase of computer equipment for the office of the Mayor (Sheriff).\
+  [202310181205492412.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310181205492412.pdf)
 
-## Personnel
-- Temporary Promotion to the post of Personal Assistant, Group-B (Gazetted) in the office of the Charity Commissioner, Maharashtra State, Mumbai (Selection List 2022-23)\
-  [202310131716418612.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310131716418612.pdf)
+- Regarding giving administrative approval to the proposal amounting to Rs.26,99,559/- for purchase of new computer equipment for Civil Court, Senior Level, Mangaon Court.\
+  [202310181208534112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310181208534112.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,55 +1,51 @@
 # Agriculture, Dairy Development, Animal Husbandry and Fisheries Department
 
-**Date Range**: 09 October 2023 - 14 October 2023
+**Date Range**: 16 October 2023 - 21 October 2023
 
 
 ## Funds
-- Release fund of Scheduled Caste category for implementation of National Horticulture Mission in the year 2023-24 under Krishi Unnati Yojana-Integrated Horticulture Development Mission (MIDH)- (First Installment)\
-  [202310091306208801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310091306208801.pdf)
+- Under the National Agricultural Extension and Technology Mission (NMAET) Agricultural Extension sub-mission, under the Assistance for Improvements in Agricultural Extension Programs of the State (Atma) scheme for the year 2023-24, the second tranche of funds for Scheduled Castes totals Central share of Rs.74.50592 lakh and State share of Rs.49.67061 lakh. Rs. 124.17653 regarding approval of disbursement of funds for the current year\
+  [202310161628266101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310161628266101.pdf)
 
-- Regarding giving administrative approval to the budget.Vegetable nurseries, fruit nurseries and local emergence (compulsory) (2401 1722) under item 27 subordinate constructions, (a) Taluka Seed Multiplication Center Narkhed Ta. Narkhed Distt. Nagpur. (B) Taluka Fruit Nursery Lonere Ta. Mangaon Dist. Raigad (C) Taluka Fruit Nursery Repoli Tt. Mangaon Dist. A total of Rs. 3,22,80,917/-\
-  [202310091647233701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310091647233701.pdf)
+- Under the National Agricultural Extension and Technology Mission (NMAET) Agricultural Extension sub-mission, Central share of second tranche of funds for Scheduled Tribes to implement Assistance for Improvements in State Agricultural Extension Programs (ATMA) Scheme 2023-24 is Rs. 78.505 lakhs and State share Rs. 52.33667 lakhs in total amount of Rs.130.84167 lakhs to be distributed in the current year.\
+  [202310161632195501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310161632195501.pdf)
 
-- Release of funds Rs.1720 crore under Namo Shetkari Mahasanman Nidhi Yojana for the first installment.\
-  [202310101155261801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310101155261801.pdf)
+- Release of fund for the implementation of Hon. Balasaheb Thackeray (Haridra) Research and Training Centre in Hingoli District in 2023-24- Corrigendum\
+  [202310161824194701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310161824194701.pdf)
 
-- Release fund of Scheduled Tribes for Implementation of Centrally Sponsored Scheme-Green Revolution-Krishi Unnati Yojana-Mission for integrated Development Horticulture (MIDH) Horticulture Mission in the year 2023-24. (First Installment)\
-  [202310101205320901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310101205320901.pdf)
+- Release of balance fund of first installment of SC category under PMFME for 2023-24.\
+  [202310181738516901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310181738516901.pdf)
 
-- Disbursement of Rs.12.05 crores to Scheduled Caste under the Rashtriya Krishi Vikas Yojana- Per Drop More Crop for the year 2023-24.\
-  [202310121750062201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310121750062201.pdf)
+- Regarding approving the media plan for the promotion and publicity of the Department of Agriculture.\
+  [202310201216190201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310201216190201.pdf)
 
-- Regarding establishment of new Government College of Agriculture at Nanded under Vasantrao Naik Marathwada Agricultural University, Parbhani\
-  [202310131117108101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310131117108101.pdf)
-
-- About establishment of Government Agriculture College at Mauje Jirewadi, Parli Vaijnath, District Beed under Vasantrao Naik Marathwada Agricultural University, Parbhani...\
-  [202310131900495401.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310131900495401.pdf)
-
-- About establishment of Agricultural Business Management College at Mauje Jirewadi, Parli Vaijnath, District Beed under Vasantrao Naik Marathwada Agricultural University, Parbhani...\
-  [202310131904256301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310131904256301.pdf)
-
-- Vasantrao Naik Marathwada Agricultural University, Parbhani under Mauje Jirewadi, Parli Vaijnath Dist. Beed regarding establishment of Soybean Research, Training and Processing Sub-Centre...\
-  [202310131907438901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310131907438901.pdf)
-
-- Regarding disbursement of funds of Rs.15.6960 crore for Nanaji Deshmukh Krishi Sanjeevani Project for the year 2023-24. Similarly, regarding the post-action sanction of Rs.1.92 crore fund under the objective 01-Salaries.\
-  [202310131912471501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310131912471501.pdf)
+- Regarding disbursement of grant to Mahatma Phule Krishi Vidyapeeth, Rahuri in the financial year 2023-24 for the matter of 35, grant for creation of capital stock.... (Program Expenditure)\
+  [202310201716020201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310201716020201.pdf)
 
 ## Miscellaneous
-- Estalishment of cattle breeding farm for conservation and multiplication of Red Kandhari and Deoni cattle breeds at Village Sakud, Tq. Ambejogai Dist. Beed\
-  [202310111144554601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310111144554601.pdf)
+- Release Of State Share (Mrug Bahar) For Restructured Weather Based Crop insurance Scheme (RWBCIS) 2021\
+  [202310161651598901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310161651598901.pdf)
 
-- Regarding establishment of new Category-1 Veterinary Hospital at Mauje Mankhed, Ahmedpur, Dist. At Latur and creation of 03 new posts in various cadres\
-  [202310121215093701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310121215093701.pdf)
+- In the committee formed to amend the Maharashtra Fisheries Act 1960, Regarding the inclusion of Mr.Bandu Mengaji Hazare as a member....\
+  [202310181147511201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310181147511201.pdf)
 
-- Taluka Seed Multiplication Centre, Chandurbazar, District Chandurbazar, District Amravati regarding getting approval to convert the area into Government Orchard.\
-  [202310131556581901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310131556581901.pdf)
+- Regarding naming the Magel Tyala Orchards / Drip / Frost Irrigation / Fields / Field Lining / Shednet / Greenhouse / Modern Planter (BBF) / Cotton Shredder extended scheme as Chhatrapati Shivaji Maharaj Krishi Yojana announced for the financial year 2023-24.\
+  [202310181214035701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310181214035701.pdf)
 
-## Personnel
-- Livestock Development Officer (Group-A)- Posting order (Waiting list Candidate)\
-  [202310121221089301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310121221089301.pdf)
+- Regarding appointment of Chairman to State Agricultural Price Commission\
+  [202310181518035501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310181518035501.pdf)
 
-- Agricultural Officer (Zilla Parishad) Group-B (Junior) Cadre Officers Premature/Request transfers 2023 Request transfers\
-  [202310131743551001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310131743551001.pdf)
+- To promote fodder production through Feed and Fodder Development Program under District Annual Plan (General Component)\
+  [202310181623298601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310181623298601.pdf)
+
+- Regarding Administratively approval pending payment of Rs.1,90,448/- under heading 24011722 under the item (21) Materials and supplies on Taluka Orchard in the year 2019-2020\
+  [202310201137202001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310201137202001.pdf)
+
+- Regarding giving administrative approval to the annual action plan to implement the Traditional Agriculture Development Scheme (PKVY) for 850 groups in the current financial year 2023-24 under the National Agricultural Development Scheme (RKVY).\
+  [202310201620339301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310201620339301.pdf)
+
+- Release of State Share to Insurance Company For Mrug Bahar 2022\
+  [202310201633305501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310201633305501.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

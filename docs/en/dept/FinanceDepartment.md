@@ -1,20 +1,23 @@
 # Finance Department
 
-**Date Range**: 09 October 2023 - 14 October 2023
+**Date Range**: 16 October 2023 - 21 October 2023
 
 
 ## Miscellaneous
-- approval for furniture and electrical works of Goods and Services Tax Bhavan building at Amravati\
-  [202310111209077605.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310111209077605.pdf)
+- Procedure regarding expenditure of unspent balance.\
+  [202310161835003205.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310161835003205.pdf)
 
-- Budget Estimates 2024-25 and Revised Estimates 2023-24\
-  [202310111812522805.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310111812522805.pdf)
+- Regarding implementation of New Sevaarth System Instructions to all Drawing and Disbursing Officers to update the Current Data available in the Sevaarth Application to New Sevaarth Application ...\
+  [202310171058338305.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310171058338305.pdf)
 
-- Regarding giving administrative approval to the work proposal for providing and fixing Doors Ventilators to Electric Room at GST Bhavan Bldg, Mazgaon, Mumbai.\
-  [202310121634469005.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310121634469005.pdf)
+- Regarding revision of the list of District Central Co-operative Banks for authorizing to open the bank account of the Drawing and Disbursement Officer as well as the personal bank account of the pensioner to provide salaries and allowances to the government employees .....\
+  [202310171116584805.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310171116584805.pdf)
 
-- List of Maharashtra State Government Sponsored Lottery schemes Period dt.16/10/2023. to dt.22/10/2023.\
-  [202310131415227205.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310131415227205.pdf)
+- Regarding sanction of advances for purchase of motor cars to Gazetted State Government Officers\
+  [202310171234430905.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310171234430905.pdf)
+
+- List of Lottery Schemes Sponsored by Maharashtra Govt.\
+  [202310201127188905.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310201127188905.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
