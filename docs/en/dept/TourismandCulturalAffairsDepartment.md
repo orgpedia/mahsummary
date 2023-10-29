@@ -1,28 +1,24 @@
 # Tourism and Cultural Affairs Department
 
-**Date Range**: 16 October 2023 - 21 October 2023
+**Date Range**: 23 October 2023 - 28 October 2023
 
 
 ## Funds
-- On the occasion of Marathwada Muktisangram Amrit Mahotsavuri Varsha regarding the administrative and financial approval of the expenses incurred for the performance of the drama Hyderabad Independence War in 76 taluks of eight districts of Marathwada\
-  [202310181236141623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310181236141623.pdf)
-
-- Regarding sanction of financial assistance for quality Marathi film production.\
-  [202310201231417723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310201231417723.pdf)
+- Regarding cancellation of administrative approval of administratively approved works under Regional Tourism Development Scheme 2022-23 and giving administrative approval to new works instead.\
+  [202310261835223823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310261835223823.pdf)
 
 ## Miscellaneous
-- Regarding financial approval of 350th Shiv Rajyabhishek Sohla expenditure.\
-  [202310181236203523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310181236203523.pdf)
+- Approval to empanelment of Architects for the works under directorate of Archaeology and Museums.\
+  [202310261611074823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310261611074823.pdf)
 
-- Regarding extending the time limit for the joint committee and activities for the campaign Chala januya nadila under the Swatantyacha Amrut Mahotsav.\
-  [202310191522118223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310191522118223.pdf)
+- Regarding disbursement of funds to Darshanika Department under the umbrella scheme for Swatantracha Amrut Mahotsav.\
+  [202310261638390123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310261638390123.pdf)
 
-- 61st Maharashtra State Drama Competition, 19th Maharashtra State Childrens Drama Competition, 4th Divyang Childrens Drama Competition and 33rd Marathi Professional Drama Competitions State Level Prize Distribution Ceremony and First Prize Festival\
-  [202310201220018223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310201220018223.pdf)
+- Regarding receiving financial approval for the cost of organizing awards and programs of the Maharashtra State Hindi and Sindhi Sahitya Acadamy under Swatantrya Amrit Mahotsav.\
+  [202310271537138223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310271537138223.pdf)
 
-## Personnel
-- Approval to revised Adopt the monument scheme :-\
-  [202310171245260623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310171245260623.pdf)
+- Namo 11 Point program namo Tirthsthal Abhiyan 73 Conservation of Historical and Religious Monuments.\
+  [202310271818591623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310271818591623.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

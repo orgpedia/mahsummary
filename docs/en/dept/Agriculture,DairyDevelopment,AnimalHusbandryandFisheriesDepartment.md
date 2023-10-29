@@ -1,51 +1,28 @@
 # Agriculture, Dairy Development, Animal Husbandry and Fisheries Department
 
-**Date Range**: 16 October 2023 - 21 October 2023
+**Date Range**: 23 October 2023 - 28 October 2023
 
 
 ## Funds
-- Under the National Agricultural Extension and Technology Mission (NMAET) Agricultural Extension sub-mission, under the Assistance for Improvements in Agricultural Extension Programs of the State (Atma) scheme for the year 2023-24, the second tranche of funds for Scheduled Castes totals Central share of Rs.74.50592 lakh and State share of Rs.49.67061 lakh. Rs. 124.17653 regarding approval of disbursement of funds for the current year\
-  [202310161628266101.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310161628266101.pdf)
+- Regarding payment of the difference to the non-productive farmers if the minimum support price (MSP) announced by the government is more than the base price of the agricultural produce market committee during the prescribed period.\
+  [202310251352101901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310251352101901.pdf)
 
-- Under the National Agricultural Extension and Technology Mission (NMAET) Agricultural Extension sub-mission, Central share of second tranche of funds for Scheduled Tribes to implement Assistance for Improvements in State Agricultural Extension Programs (ATMA) Scheme 2023-24 is Rs. 78.505 lakhs and State share Rs. 52.33667 lakhs in total amount of Rs.130.84167 lakhs to be distributed in the current year.\
-  [202310161632195501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310161632195501.pdf)
-
-- Release of fund for the implementation of Hon. Balasaheb Thackeray (Haridra) Research and Training Centre in Hingoli District in 2023-24- Corrigendum\
-  [202310161824194701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310161824194701.pdf)
-
-- Release of balance fund of first installment of SC category under PMFME for 2023-24.\
-  [202310181738516901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310181738516901.pdf)
-
-- Regarding approving the media plan for the promotion and publicity of the Department of Agriculture.\
-  [202310201216190201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310201216190201.pdf)
-
-- Regarding disbursement of grant to Mahatma Phule Krishi Vidyapeeth, Rahuri in the financial year 2023-24 for the matter of 35, grant for creation of capital stock.... (Program Expenditure)\
-  [202310201716020201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310201716020201.pdf)
+- State share amount under Coconut Development Scheme sponsored by Coconut Development Board, Kochi for the year 2021-22 is Rs. 4.00 lakh and for the year 2022-23 Rs. 8.00 lakhs totaling Rs. 12.00 lakhs to be disbursed from the budgetary provision for the year 2023-24... (2401 A942)\
+  [202310271133486001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310271133486001.pdf)
 
 ## Miscellaneous
-- Release Of State Share (Mrug Bahar) For Restructured Weather Based Crop insurance Scheme (RWBCIS) 2021\
-  [202310161651598901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310161651598901.pdf)
+- Divisional Agriculture Officer, Khamgaon for the period 2020-21 Taluka Seed Multiplication Sector and Agriculture under the office of District Buldhana 2401 0261 account heading of Hospital, Shegaon, District Buldhana Under (21-Materials and Supplies) the following pending Rs.68,553/- Regarding obtaining administrative sanction for payment.\
+  [202310271448003901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310271448003901.pdf)
 
-- In the committee formed to amend the Maharashtra Fisheries Act 1960, Regarding the inclusion of Mr.Bandu Mengaji Hazare as a member....\
-  [202310181147511201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310181147511201.pdf)
+- Sub Divisional Agriculture Officer, Khamgaon for the period 2020-21 Taluka Orchard under the office of District Buldhana, Taluka 2401 0261 on the field of Seed Multiplication Field, Pimpalgaon Raja, Dist.Buldhana The following is pending under head (21-Materials and supplies) Rs.70,420/- regarding obtaining administrative sanction for payment.\
+  [202310271448299001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310271448299001.pdf)
 
-- Regarding naming the Magel Tyala Orchards / Drip / Frost Irrigation / Fields / Field Lining / Shednet / Greenhouse / Modern Planter (BBF) / Cotton Shredder extended scheme as Chhatrapati Shivaji Maharaj Krishi Yojana announced for the financial year 2023-24.\
-  [202310181214035701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310181214035701.pdf)
+## Personnel
+- Promotion-Supervisor Group-C to Maharashtra Agriculture Services Group-B (Junior)\
+  [202310271108506301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310271108506301.pdf)
 
-- Regarding appointment of Chairman to State Agricultural Price Commission\
-  [202310181518035501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310181518035501.pdf)
-
-- To promote fodder production through Feed and Fodder Development Program under District Annual Plan (General Component)\
-  [202310181623298601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310181623298601.pdf)
-
-- Regarding Administratively approval pending payment of Rs.1,90,448/- under heading 24011722 under the item (21) Materials and supplies on Taluka Orchard in the year 2019-2020\
-  [202310201137202001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310201137202001.pdf)
-
-- Regarding giving administrative approval to the annual action plan to implement the Traditional Agriculture Development Scheme (PKVY) for 850 groups in the current financial year 2023-24 under the National Agricultural Development Scheme (RKVY).\
-  [202310201620339301.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310201620339301.pdf)
-
-- Release of State Share to Insurance Company For Mrug Bahar 2022\
-  [202310201633305501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310201633305501.pdf)
+- Dr.Panjabrao Deshmukh University of Agriculture, Akola Undergraduate College of Agriculture, Mauje Lendra at Nagpur, Distt.Nagpur, Distt.6980 sq.mtrs in B.No.217, City Land Survey No.1261, Sheet No.61 of Nagpur. Regarding transfer of space for Nagpur Metro Rail Phase-II.\
+  [202310271756478201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310271756478201.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,21 +1,26 @@
 # Co-operation, Textiles and Marketing Department
 
-**Date Range**: 16 October 2023 - 21 October 2023
+**Date Range**: 23 October 2023 - 28 October 2023
 
 
-## Miscellaneous
-- For the year 2023-2024 disbursement of funds under State Cooperative Election Authority under Account Head 20700882, Item 28- Professional Services.\
-  [202310171205147602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310171205147602.pdf)
+## Funds
+- Co. Shiromani Vasantrao Kale Sahakari Sugar Factory Ltd., Chandrabhaganagar, P.O. Bhalwani, Pandharpur, Dist. Regarding approval of providing term loan from Maharashtra State Co-operative Bank to the factory in Solapur on Government guarantee.\
+  [202310231703194102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310231703194102.pdf)
 
-- The Vidarbha Premier Co-operative Housing Society Ltd. The election program of this organization.\
-  [202310191807105602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310191807105602.pdf)
+- Mr. Chhatrapati Sahakari Sugar Factory Ltd., Bhawaninagar, Tel. Regarding approving the availability of term loan from Maharashtra State Co-operative Bank to Sugar Factory of Indapur, District Pune on Government Guarantee.\
+  [202310231708244702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310231708244702.pdf)
 
-## Personnel
-- Regarding recruitment to the post of Assistant Director (Silk), Maharashtra Silk Services, Group-A through direct service\
-  [202310161206397902.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310161206397902.pdf)
+- Jaibhavani Cooperative Sugar Factory Ltd. Shivajinagar, Gevrai, Dist. Regarding approval to provide term loan to Beed Sugar Factory from Maharashtra State Cooperative Bank under Government Guarantee\
+  [202310231712112502.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310231712112502.pdf)
 
-- Centrally Sponsored Primary Agricultural Credit Cooperatives Computerization Schemes of Institutions Public Financial Management System (PFMS)Regarding implementation through this computer system.\
-  [202310201132031702.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310201132031702.pdf)
+- Bhaurao Chavan Cooperative Sugar Factory Ltd., Lakshminagar, Degaon-Yelegaon, Tel. Ardhapur, Dist. Regarding approving the availability of term loan from Maharashtra State Co-operative Bank to Nanded sugar factory under government guarantee.\
+  [202310231715397002.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310231715397002.pdf)
+
+- Shree Sant Kurmadas Cooperative Sugar Factory Ltd., Padsali, Madha, Distt. Regarding approval to provide term loan to Solapur Sugar Factory from Maharashtra State Co-operative Bank under Government Guarantee.\
+  [202310231719374202.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310231719374202.pdf)
+
+- Regarding sanction of government share capital to the co-operative spinning mills set up during the twelfth five year plan period... Shri Swami Samarth Scheduled Caste Womens Co-operative Spinning Mill Marya., Igatpuri, Distt. Nashik.\
+  [202310271822309602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310271822309602.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

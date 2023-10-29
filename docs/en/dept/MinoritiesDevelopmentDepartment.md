@@ -1,11 +1,15 @@
 # Minorities Development Department
 
-**Date Range**: 16 October 2023 - 21 October 2023
+**Date Range**: 23 October 2023 - 28 October 2023
 
+
+## Funds
+- Disbursement of grant to the Maharashtra State Haj Committee for financial year 2023-2024.\
+  [202310231220573514.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310231220573514.pdf)
 
 ## Miscellaneous
-- Regarding constituting a committee to make recommendations to the government regarding the entry of Waqf properties in the property sheet and allocation of land settlement amount.\
-  [202310171606124514.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310171606124514.pdf)
+- Disbursement of grant to the Maharashtra State Haj Committee for financial year 2023-2024.\
+  [202310231223561614.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310231223561614.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
