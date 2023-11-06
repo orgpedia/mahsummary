@@ -1,27 +1,43 @@
 # Rural Development Department
 
-**Date Range**: 23 October 2023 - 28 October 2023
+**Date Range**: 30 October 2023 - 04 November 2023
 
 
 ## Funds
-- Birthplace of Shree santh Gadgebaba, Shendgaon, Tt. Anjangaon Surji Dist. Regarding the disbursement of funds for works under the development plans of the pilgrimage site of Amravati\
-  [202310231225248020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310231225248020.pdf)
+- Revised Administrative Approval for Construction of Digras Panchayat Samitee New Administrative Building (Dist. Yavatmal).\
+  [202311011400145920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311011400145920.pdf)
 
-- Shree Narsi Namdev Sansthan, Tal. Dist. Regarding the disbursement of funds for the work in the development plans of the pilgrimage site of Hingoli.\
-  [202310231225361420.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310231225361420.pdf)
+## Miscellaneous
+- Mukhyamantri Gram Sadak Yojana Phase II Administrative Approval for Upgradation of roads in Gondia district under State Fund\
+  [202310311254247520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310311254247520.pdf)
 
-- Administrative Approval for Construction of Koregaon Panchayat Samiti New Administrative Building (Dist. Satara)\
-  [202310251148116020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310251148116020.pdf)
+- Mukhyamantri Gram Sadak Yojana Phase II Administrative Approval to Upgradation of Roads under Research and Development in Thane district.\
+  [202310311254314020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310311254314020.pdf)
 
-- Implementation of Namo Gramsachivalay Mission Under Namo 11 Points Programme\
-  [202310261123463920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310261123463920.pdf)
+- Mukhyamantri Gram Sadak Yojana Phase II Administrative Approval to Upgradation of Roads under Research and Development in Satara district.\
+  [202310311254385020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310311254385020.pdf)
+
+- Mukhyamantri Gram Sadak Yojana Phase II Administrative Approval to Upgradation of Roads under Research and Development in Palghar district.\
+  [202310311254449120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310311254449120.pdf)
+
+- Mukhyamantri Gram Sadak Yojana Phase II Administrative Approval to Upgradation of Roads under Research and Development in Sangali district.\
+  [202310311254528320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310311254528320.pdf)
+
+- Mukhyamantri Gram Sadak Yojana Phase II Administrative Approval for Upgradation of 1 road in Chandrapur district under State Fund\
+  [202310311254585020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310311254585020.pdf)
+
+- Mukhyamantri Gram Sadak Yojana Phase II Administrative Approval for Upgradation of roads in Gondia district under State Fund\
+  [202310311255098520.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310311255098520.pdf)
+
+- Mukhyamantri Gram Sadak Yojana Phase II Administrative Approval to Upgradation of Roads under Research and Development in Dharashiv district.\
+  [202310311255156720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310311255156720.pdf)
+
+- Regarding the Detailed Recommendation and formation of a committee to erect a Shivsmarak, a memorial of Shivaji Maharaj at Girnanagar, Ta.Nandagaon, Dist.Nashik\
+  [202310311423031020.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310311423031020.pdf)
 
 ## Personnel
-- Provisional Seniority List of Assistant Livestock Development Officer in District Technical Service, Class-3 (Animal Husbandry) Cadre in Zilla Parishad as on 01.01.2023.\
-  [202310251523135320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310251523135320.pdf)
-
-- Consolidated Final Seniority List Dated 01/01/2022 and Dated 01/01/2023 of Junior Engineers in District Technical Service, Class-3 (Construction) Cadre in Zilla Parishad\
-  [202310271228469920.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310271228469920.pdf)
+- Partial change in the posting of Assistant Block Development officers, Group-B cadre in Maharashtra Development Services\
+  [202311011040154220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311011040154220.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

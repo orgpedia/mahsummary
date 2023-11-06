@@ -18,6 +18,63 @@ function getJSON(url) {
     });
 }
 
+function getJSON_GZ(url) {
+  return new Promise((resolve, reject) => {
+    // Step 1: Create a new XHR object
+    const xhr = new XMLHttpRequest();
+
+    // Step 2: Configure the request
+    xhr.open('GET', url, true);
+    xhr.responseType = 'arraybuffer'; // Set the response type to arraybuffer
+
+    // Step 3: Define an event handler for when the request is complete
+    xhr.onload = () => {
+      if (xhr.status === 200) {
+        // Step 4: Check if the response is gzipped
+        const isGzipped = xhr.getResponseHeader('Content-Encoding') === 'gzip';
+
+          // If the response is gzipped, we need to unzip it
+	  // HARDCODING AS CONTENT-TYPE IS NOT CORRECTLY SESTUP
+        if (true) {
+          // Create a new Uint8Array from the response data
+          const responseArray = new Uint8Array(xhr.response);
+
+          // Step 5: Use pako.js (a popular JavaScript library for handling zlib/gzip data) to unzip the data
+          try {
+            const inflated = pako.inflate(responseArray, { to: 'string' });
+            const json = JSON.parse(inflated);
+
+            // Step 6: Resolve the promise with the JSON data
+            resolve(json);
+          } catch (error) {
+            reject(error);
+          }
+        } else {
+	    console.log('CONTENT: ' + xhr.getResponseHeader('Content-Encoding'));
+          // If the response is not gzipped, we can proceed directly
+          const text = new TextDecoder('utf-8').decode(xhr.response);
+          const json = JSON.parse(text);
+
+          // Step 6: Resolve the promise with the JSON data
+          resolve(json);
+        }
+      } else {
+        // Step 7: Handle any errors
+        reject(new Error(`Request failed with status: ${xhr.status}`));
+      }
+    };
+
+    // Step 8: Handle network errors
+    xhr.onerror = () => {
+      reject(new Error('Network error'));
+    };
+
+    // Step 9: Send the request
+    xhr.send();
+  });
+}
+
+
 function initSearchIndex() {
     console.log("INSIDE initSearchIndex. ENTER");
     
@@ -35,13 +92,13 @@ function initSearchIndex() {
 
     console.log("INSIDE initSearchIndex.");
     
-    getJSON(stub + "lunr.idx.json").then(function(data) {
+    getJSON_GZ(stub + "lunr.idx.json.gz").then(function(data) {
         searchIndex = lunr.Index.load(data);
     }, function(status) {
         console.log("Unable to load the search index.");
     });
 
-    getJSON(stub + "docs.json").then(function(data) {
+    getJSON_GZ(stub + "docs.json.gz").then(function(data) {
         pagesIndex = data;
     }, function(status) { //error detection....
         console.log("Unable to load docs.");
@@ -151,7 +208,12 @@ function updateSearchResults(query, results) {
 			    <div class="px-2">
 				<span title="${hit.idx}.pdf">${hit.short_idx}.pdf</span>			      
 			      <div class="text-gray-500 text-sm">
-				  Pages: ${hit.num_pages} | Date: ${hit.date}
+				  Text: <a class="text-blue-500" target="_blank" href="https://raw.githubusercontent.com/orgpedia/mahGRs/main/GRs/${hit.dept.replace(/ /g,'_')}/${hit.idx}.pdf.en.txt">English</a></div>
+
+			      <div class="text-gray-500 text-sm">
+				  Pages: ${hit.num_pages}</div>
+			      <div class="text-gray-500 text-sm">
+                                     Date: ${hit.date}
 				</div>
 			    </div>
 			  </div>

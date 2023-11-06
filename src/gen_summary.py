@@ -253,6 +253,7 @@ class DocInfo:
 
         self.lang = lang
         self.site_info = site_info
+        self.en_dept = self.dept.replace(' ', '_')
 
         if lang != 'en':
             self.text = self.mr_text
@@ -371,6 +372,7 @@ def gen_dept_summary_html(output_dir, dept_name, doc_infos, lang, stub, jinja_en
 
     site_info.set_date(doc_infos[0]['date'], lang)
     site_info.title = f'{site_info.weekly_summary}: {getattr(site_info, dept_name)}'
+    
     site_info.doc_type = 'department'
     site_info.item_name = getattr(site_info, dept_name)
     site_info.list_id = DeptListIDs[dept_name]
@@ -516,17 +518,72 @@ def write_search_index(output_dir, new_doc_infos):
     docs_file.write_text(json.dumps(search_dicts, separators=(',', ':')))
 
 
+# This creates a minfied index and docs file, but also additional work on frontend to
+# convert all the numbers pto string, better savings can be obtained by
+# compressing as even after afer minifying the 10MB files goes to 6 MB
+# lnur.idx.json file is pretty verbose, need to trim that as well.
 
-def write_search_index2(output_dir, search_doc_dicts):
+"""
+Before mnifying but compressing
+(build-DJwq3dbw-py3.7) ~/orgpedia/mahsummary/docs:$ls -lh *.gz
+-rw-r--r--  1 mukund  staff   993K Nov  3 16:44 docs.json.gz
+-rw-r--r--  1 mukund  staff   2.5M Nov  3 14:57 lunr.idx.json.gz
+
+After mnifying and compressing
+(build-DJwq3dbw-py3.7) ~/orgpedia/mahsummary/docs:$ls -lh *.gz
+-rw-r--r--  1 mukund  staff   877K Nov  3 17:12 docs.json.gz
+-rw-r--r--  1 mukund  staff   1.6M Nov  3 17:12 lunr.idx.json.gz
+
+# NOT MUCH SAVINGS
+"""
+
+def write_search_index_minify(output_dir, new_doc_infos):
+    def get_searchdoc_dict(doc_info, doc_idx):
+        doc = {}
+        doc["idx"] = doc_idx
+        doc["code"] = doc_info['code']
+        doc["text"] = doc_info['text']
+
+        districts = doc_info.get('districts', '').strip('., ').split(',')
+        district_nums = [districts_dict[d.strip().replace(' ', '_')] for d in districts if d]
+
+        doc["districts"] = district_nums
+        doc["num_pages"] = doc_info['num_pages']
+        doc["doc_type"] = doc_type_dict[doc_info.get('doc_type', 'Unknown')]
+        doc["funds_amount"] = doc_info['funds_amount'] if doc_info.get('funds_amount', None) else ''
+        doc["dept_num"] = dept_dict[doc_info['dept']]
+        doc["dept"] = doc_info['dept']
+        return doc
+
     from lunr import lunr
+    docs_file = output_dir / "docs.json"
 
-    lunrIdx = lunr(ref="idx", fields=["text", "dept"], documents=search_doc_dicts)
+    doc_type_dict = { 'Funds': 0, 'Personnel': 1, 'Miscellaneous': 2, 'Unknown': 3 }
+    dept_dict = dict( (d, idx) for (idx, d) in enumerate(DeptListIDs.keys()) )
+    districts_dict = dict( (d, idx) for (idx, d) in enumerate(DistrictNames))
+    districts_dict['Mumbai'] = len(districts_dict)
+
+    if docs_file.exists():
+        old_dicts = json.loads(docs_file.read_text())
+
+        old_codes = set(d['code'] for d in old_dicts)
+        new_doc_infos = [ i for i in new_doc_infos if i['code'] not in old_codes]
+
+        s_idx = len(old_dicts)
+        new_dicts = [get_searchdoc_dict(i, idx+s_idx) for idx, i in enumerate(new_doc_infos)]
+
+        search_dicts = old_dicts + new_dicts
+    else:
+        search_dicts = [ get_searchdoc_dict(i, idx) for idx, i in enumerate(new_doc_infos) ]
+
+    lunrIdx = lunr(ref="idx", fields=["text", "dept"], documents=search_dicts)
 
     search_index_file = output_dir / "lunr.idx.json"
     search_index_file.write_text(json.dumps(lunrIdx.serialize(), separators=(',', ':')))
 
     docs_file = output_dir / "docs.json"
-    docs_file.write_text(json.dumps(search_doc_dicts, separators=(',', ':')))
+    [d.pop('dept') for d in search_dicts]
+    docs_file.write_text(json.dumps(search_dicts, separators=(',', ':')))
 
 def write_html(week_doc_infos, lang, output_dir, stub, dept_names, district_names):
     dept_doc_infos_dict = build_dept_summary(week_doc_infos)

@@ -1,22 +1,37 @@
 # Urban Development Department
 
-**Date Range**: 23 October 2023 - 28 October 2023
+**Date Range**: 30 October 2023 - 04 November 2023
 
 
 ## Funds
-- Regarding disbursement of funds to the implementing agencies of the ambitious urban transport projects of Mumbai Metro Rail from the amount deposited against one percent additional stamp duty surcharge as per the provisions of the Mumbai Municipal Corporation Act-1888 and the Maharashtra Municipal Corporation Act-1949.\
-  [202310231224476725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310231224476725.pdf)
+- Reimbursement of expenses incurred by Mumbai Metropolitan Region Development Authority for construction of late Shri. Balasaheb Thackeray National Memorial. (FY-2023-24)\
+  [202310301749350225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310301749350225.pdf)
 
-- Maharashtra Suvarna Jayanti Nagarothan Mahabhiyan - Administrative Approval for Mehkar Road Development Project.\
-  [202310261506551925.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310261506551925.pdf)
+- Release of surcharge on stamp duty to Mumbai Metro Rail Project to the implementing agencies of the Vital Urban Transport Project of Mumbai, Nagpur and Pune Metro Railway from the amount deposited against 1 stamp duty surcharge as per the provisions of the Mumbai Municipal Corporation Act-1888 and the Maharashtra Municipal Corporation Act-1949. (FY 2023-24)\
+  [202311011425587725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311011425587725.pdf)
 
 ## Miscellaneous
-- Regarding approving the amendment in the Latur City Municipal Services (Service Access and Classification of Services), 2019 Rules.\
-  [202310251808350525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310251808350525.pdf)
+- Regarding the appointment of a study group of experts in the department for Business Process Re-engeering of the notified services under the Urban Development Department.\
+  [202310301545492725.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310301545492725.pdf)
+
+- In the Mira-Bhainder Municipal Corporation Revised Services (Entry to Service and Classification of Services) Rules, 2019, approving partial modification in the qualification prescribed for entry into service of the posts of Multi-Purpose Health Worker (Hivatap) (Class-3).\
+  [202311021451046325.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311021451046325.pdf)
+
+- Regarding giving administrative approval to Brihanmumbai Municipal Corporations proposals for construction of community toilets under Swachh Maharashtra Abhiyan (No.) 2.0.\
+  [202311021651398825.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311021651398825.pdf)
+
+- Regarding giving administrative approval to solid waste management project of Kalyan Dombivli Municipal Corporation under Swachh Maharashtra Mission (No.) 2.0.\
+  [202311021656082425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311021656082425.pdf)
+
+- Regarding giving administrative approval to proposals for construction of aspirational toilets by the Urban Local Self-Government bodies of the State under Swachh Maharashtra Abhiyan (No.) 2.0.\
+  [202311021700561525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311021700561525.pdf)
+
+- From 15th September to 15th December, 2023, Mukhyamantri Saksham City Competition - 2023 as well as Chief Minister Saksham Ward Competition - 2023.\
+  [202311021705329225.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311021705329225.pdf)
 
 ## Personnel
-- Maharashtra Urban Administrative Service Joint Commissioner, Deputy Commissioner / Chief Officer, Group-A (Selection Category), Assistant Commissioner, Group-A / Chief Officer, Group-A, Assistant Commissioner, Group-B / Chief Officer, Group-B Cadre (d.01.01.2021 to 31.12.2021) Interim Supplementary Seniority List as on 01.01.2022.\
-  [202310271302410425.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310271302410425.pdf)
+- Regarding regularization of appointment of 34 employees in the cadre of Multi-Purpose Health Worker (Hivatap) in the establishment of Mira-Bhainder Municipal Corporation, by creating surplus posts equal to the number of said employees, and giving them permanent appointment to the said post.\
+  [202311021451077525.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311021451077525.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
