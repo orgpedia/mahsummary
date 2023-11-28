@@ -15,7 +15,7 @@ LoginStr = os.environ.get('LISTMONK_LOGIN') # user_name:password
 
 def get_lists():
     cmd =  ["curl", "-s", "-u", f"{LoginStr}"]
-    cmd += ["-X", "GET", f"{ListmonkURL}/api/lists?page=1?per_page=100"]
+    cmd += ["-X", "GET", f"{ListmonkURL}/api/lists?page=1&per_page=100"]
     
     output = subprocess.check_output(cmd)
     list_json = json.loads(output)
