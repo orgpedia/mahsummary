@@ -1,40 +1,37 @@
 # Agriculture, Dairy Development, Animal Husbandry and Fisheries Department
 
-**Date Range**: 30 October 2023 - 04 November 2023
+**Date Range**: 20 November 2023 - 25 November 2023
 
 
 ## Funds
-- Regarding disbursement of grant for house construction advance to employees of agricultural universities during the financial year 2023-24 (mandatory).\
-  [202310311716049201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310311716049201.pdf)
+- Regarding disbursement of grant under Rajarshi Chhatrapati Shahu Maharaj Education Fee Scholarship Scheme and Panjabrao Deshmukh Hostel Subsistence Allowance Scheme. In the financial year 2023-24 (under program)\
+  [202311201707569701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311201707569701.pdf)
 
-- giving administrative approval to the Annual Action Plan for the year 2023-24 for the Village Seed Production Program component of the Food and Nutrition Security Mission under Krishi Unnati Yojana\
-  [202311021220385201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311021220385201.pdf)
+- Regarding disbursement of an amount of Rs.4.90 crore under 36 Subsidiary Grants (Salaries) under head (2401 4436) required for the salary of regular officers and employees of Atma, for the financial year 2023-24.\
+  [202311221619107901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311221619107901.pdf)
 
-- Giving administrative approval for implementation of Soil Health Scheme and Fertility Scheme (SHC) for Scheduled Castes and Scheduled Tribes in the year 2023-24 under Rashtriy Krushi Vikas Yojana (RKVY).\
-  [202311021225591001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311021225591001.pdf)
+- Regarding the disbursement of funds of Rs.16.26 lakh for the payment period from July, 2023 to October, 2023 under the Shetkari Monthly Magazine scheme.\
+  [202311241601126501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311241601126501.pdf)
+
+- arding approving the disbursement of funds of Rs.316.35 lakh for the seed capital component for the general category for the implementation of Central Government Assisted Pradhan Mantri Micro Food Processing Industry Scheme (PMFME) in the year 2023-24....\
+  [202311241853528201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311241853528201.pdf)
 
 ## Miscellaneous
-- Divisional Agriculture Officer, Khamgaon for the period 2020-21Taluka fruit nursery, seed multiplication under the office of District Buldhana And Agricultural Hospital, Asalgaon, Jalgaon District, Buldhana District 2401 0261 regarding obtaining administrative approval for the following pending payment of Rs.72,880/- under account head (21-Materials and Supplies).\
-  [202310301650487901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310301650487901.pdf)
+- Constitution of State Level Task Force in order to increase in fodder cultivation area and fodder production, quality of fodder and value addition of fodder in the state.\
+  [202311201545047901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311201545047901.pdf)
 
-- Divisional Agriculture Officer, Khamgaon for the period 2020-21 Taluka Seed Multiplication Sector and Agriculture under the office of District Buldhana 2401 0261 on the premises of Hospital, Warvat Khanderao, District Buldhana The following is pending under head (21-Materials and supplies) Rs.17,050/- regarding obtaining administrative approval for payment\
-  [202310301655018501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310301655018501.pdf)
+- Giving Ministerial Status to Chairman, State Agricultural Cost Commission.\
+  [202311211130301601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311211130301601.pdf)
 
-- Regarding Establishment of Six Embryo transplant Laboratories, one in each Revenue Divisions of the State to increase the productivity of indigenous Cows, BuffaloesCorrection in the Budget Head.\
-  [202310311449362201.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310311449362201.pdf)
+- Vegetable nurseries, fruit nurseries and local emergence (compulsory) (2401 1722) under the item 27 subordinate constructions under the item (a) Taluka Government Fruit Nursery Narkhed District Narkhed, District Nagpur (b) Taluka Fruit Nursery Lonere Dist. Mangaon District Raigad (C) Taluka Fruit Nursery Repoli Tt. Mangaon District A total of Rs. 3,22,80,917/- regarding giving administrative approval to the budget.\
+  [202311221207346501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311221207346501.pdf)
 
-- Restructured Weather Based Crop Insurance Bananas come in Yojana Ambia Bahar 2023-24 Online insurance for farmers for fruit crops Extension of application deadline till 03.11.2023\
-  [202311021814018001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311021814018001.pdf)
+- Establishment of Sri Food Excellence Center at Agriculture Development Trust (ADT) Baramati..\
+  [202311241816188001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311241816188001.pdf)
 
 ## Personnel
-- Regarding posting of officers in Maharashtra Agricultural Service, Group-A Cadre.\
-  [202311021256286901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311021256286901.pdf)
-
-- Regarding the temporary promotion of Maharashtra Krishi Seva, Group-B (Technical Officer) cadre to Maharashtra Krishi Seva Group-A (Deputy Director of Agriculture) cadre...........\
-  [202311021301434701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311021301434701.pdf)
-
-- Maharashtra Agricultural Service, Premature/Requested Transfers of Officers in Group-B Cadre...\
-  [202311031804341001.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311031804341001.pdf)
+- Seniority List of Maharashtra Agriculture Services, Group B (Junior)\
+  [202311241744413501.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311241744413501.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

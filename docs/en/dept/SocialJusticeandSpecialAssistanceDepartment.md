@@ -1,27 +1,69 @@
 # Social Justice and Special Assistance Department
 
-**Date Range**: 23 October 2023 - 28 October 2023
+**Date Range**: 20 November 2023 - 25 November 2023
 
 
 ## Funds
-- Regarding Disbursement of Long Term Loans to Backward Class Cooperative Spinning Mills... Sanctioning of Loans to Spinning Mills in the Financial Year 2023-24.\
-  [202310251555412922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310251555412922.pdf)
+- Financial Assistance to Scheduled Caste Co-operative Societies regarding sanction of financial assistance under this scheme. Abhyudaya Backward Class Industrial Producers Cooperative Society Marya., CIDCO, Aurangabad\
+  [202311221921128622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311221921128622.pdf)
 
-- Grants to Zilla Parishads for Maintenance of Hostels under Section 182 of the Maharashtra State Zilla Parishad and Panchayat Samiti Act, 1961 (Account Head 2225 0539) 31, Subsidiary Grants Non-Salary Regarding distribution of provision under this scheme....\
-  [202310261728531322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310261728531322.pdf)
+- Financial Assistance to Scheduled Caste Co-operative Societies regarding sanction of financial assistance under this scheme. SAIKAMAL BACKWARD CLASS INDUSTRIAL PRODUCERS COOPERATIVE SOCIETY MARYA., SHERODI, ST. Phulumbri, Distt. Aurangabad.\
+  [202311221931338422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311221931338422.pdf)
 
-- Grants to Zilla Parishads for Maintenance of Hostels under Section 182 of the Maharashtra State Zilla Parishad and Panchayat Samiti Act, 1961 (Account Head 2225 0889) 31, Subsidiary Grants Non-salary Provisions under this scheme....\
-  [202310261733374922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310261733374922.pdf)
+- Financial Assistance to Scheduled Caste Co-operative Societies Regarding granting financial assistance under this scheme. Kalamanuri, District Hingoli.\
+  [202311221934212622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311221934212622.pdf)
 
-## Personnel
-- Regarding the promotion of Office Superintendent and Senior Social Welfare Inspector, Group-C to Social Welfare Officer, Group-B cadre on a temporary basis from the regular selection list at the establishment of Social Welfare Commissionerate....\
-  [202310231807552122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310231807552122.pdf)
+- Financial Assistance to Scheduled Caste Co-operative Societies regarding sanction of financial assistance under this scheme. Anusaya Women Backward Class Industrial Co-operative Society Marya., Aurangabad\
+  [202311221938490022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311221938490022.pdf)
 
-- Regarding the posting of Mrs. Jyotsna Vidyasagar Hiramukhe (Padiyar) Chairman, District Caste Certificate Verification Committee, Ratnagiri to Chairman District Caste Certificate Verification Committee, Raigad..\
-  [202310251210096222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310251210096222.pdf)
+- Financial Assistance to Scheduled Caste Co-operative Societies regarding sanction of financial assistance under this scheme. Bhima Ramai Backward Class Industrial Producers Cooperative Society Marya., Jaisingpura, Distt. Aurangabad\
+  [202311221942550322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311221942550322.pdf)
 
-- Regarding implementation of National Pension System (NPS) to teachers and non-teaching staff of 100 per cent aided ashram schools for Scheduled Caste boys and girls under States Defined Contribution Pension Scheme (DCPS)...\
-  [202310271117443322.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310271117443322.pdf)
+- Financial Assistance to Scheduled Caste Co-operative Societies regarding approval of financial assistance under the scheme Anand Backward Class Industrial Producers Co-operative Society Marya., Ganori, Tt. Phulumbri, Dist. Aurangabad.\
+  [202311221946146122.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311221946146122.pdf)
+
+- Financial Assistance to Scheduled Caste Co-operative Societies regarding sanction of financial assistance under this scheme. Sara Vaibhav Backward Class Industrial Producers Cooperative Society Marya., Panchshil Nagar, Jalna Road, Distt. Aurangabad.\
+  [202311221949366622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311221949366622.pdf)
+
+- Financial Assistance to Scheduled Caste Co-operative Societies regarding sanction of financial assistance under this scheme. Lokmitra Backward Class Industrial Producers Cooperative Society Marya., Pawan Nagar, Hadko, Distt. Aurangabad.\
+  [202311221953578722.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311221953578722.pdf)
+
+- Financial Assistance to Scheduled Caste Co-operative Societies Regarding granting financial assistance under this scheme. Aurangabad.\
+  [202311221956386022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311221956386022.pdf)
+
+- Financial Assistance to Scheduled Caste Co-operative Societies regarding sanction of financial assistance under this scheme. Invitation Backward Class Industrial Producers Co-operative Society Marya., Akar Deulgaon, Distt. Jalna\
+  [202311222000116022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311222000116022.pdf)
+
+- Financial Assistance to Scheduled Caste Co-operative Societies regarding approval of financial assistance under this scheme. Aurangabad\
+  [202311222003285522.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311222003285522.pdf)
+
+- Financial Assistance to Scheduled Caste Co-operative Societies regarding sanction of financial assistance under this scheme. Pragya, Shil, Karuna Backward Class Industrial Producers Co-operative Society Marya., Jalna, Tt. Dist. Jalna\
+  [202311222007185922.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311222007185922.pdf)
+
+- Financial Assistance to Scheduled Caste Co-operative Societies regarding sanction of financial assistance under this scheme. Shashank Backward Class Industrial Producers Cooperative Society Marya, Khadaknarala, Gangapur, Dist. Aurangabad\
+  [202311222010566422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311222010566422.pdf)
+
+- Financial Assistance to Scheduled Caste Co-operative Societies regarding sanction of financial assistance under this scheme. Sant Kabir Backward Class Industrial Producers Cooperative Society Marya., Sanjay Nagar, Mukundwadi, Distt. Aurangabad\
+  [202311222013484422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311222013484422.pdf)
+
+- Financial Assistance to Scheduled Caste Co-operative Societies regarding sanction of financial assistance under this scheme. Sanjeevani Backward Class Industrial Producers Cooperative Society Marya., Kotwalpura, Tt. Dist. Aurangabad\
+  [202311222017026222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311222017026222.pdf)
+
+- Financial Assistance to Scheduled Caste Co-operative Societies regarding sanction of financial assistance under this scheme.Abhinav Backward Class Industrial Co-operative Society Marya., Jaisingpura, Distt. Aurangabad\
+  [202311222020206022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311222020206022.pdf)
+
+- Financial Assistance to Scheduled Caste Co-operative Societies regarding sanction of financial assistance under this scheme. Alok Backward Class Industrial Producers Cooperative Society Marya., Kranti Nagar, Adalat Road, Distt. Aurangabad\
+  [202311222023273222.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311222023273222.pdf)
+
+## Miscellaneous
+- Regarding the transfer of the additional charge of the Chairmanship of District Caste Certificate Verification Committee, Dhule to another officer..\
+  [202311211903444022.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311211903444022.pdf)
+
+- Bharat Ratna Dr. Regarding expenditure of unspent funds from the funds distributed for the year 2021-22 under Babasaheb Ambedkar Social Development Yojana.\
+  [202311222026554422.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311222026554422.pdf)
+
+- Regarding the reading of the Preamble of the Constitution for awareness of the fundamental duties of citizens in the Constitution of India.\
+  [202311241806251822.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311241806251822.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

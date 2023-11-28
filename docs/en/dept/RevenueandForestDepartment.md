@@ -1,73 +1,55 @@
 # Revenue and Forest Department
 
-**Date Range**: 30 October 2023 - 04 November 2023
+**Date Range**: 20 November 2023 - 25 November 2023
 
 
 ## Funds
-- Development of nature tourism site for the year 2023-24 (2406-2295) regarding the distribution of funds for the development works under the scheme of creating a botanical garden at Visapur on the Chandrapur Ballarpur Marg in Chandrapur district on the lines of Bangalore.\
-  [202310301520138719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310301520138719.pdf)
+- Mauje Patharwala Budruk, T. Ambad, Dist. Regarding refund of amount paid in auction of impounded sand stock at Jalna.- Mr. Somnath Ramnath Sagade\
+  [202311221449217719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311221449217719.pdf)
 
-- Grant release for Van Mahotsav (24068551) for the year 2022-23\
-  [202310301811048619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310301811048619.pdf)
+- Regarding disbursement of funds under the Scheduled Caste Sub-Plan component under the Centrally Sponsored Scheme Year 2023-24 Tiger and Elephant Project.\
+  [202311221624515619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311221624515619.pdf)
 
-- (4415 0192) regarding disbursement of funds for establishment of Bamboo Research and Training Center at Chichapalli, Chandrapur District for the year 2023-24.\
-  [202311021322493119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311021322493119.pdf)
+- Conservator of Forests, Nashik Division of Forests, West Division, regarding granting administrative approval to the budget for setting up a vulture conservation and breeding center at Mauje Anjaneri in Nashik Forest Division.\
+  [202311221630494719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311221630494719.pdf)
 
-- Government approval for Proposal regarding Proposal regarding Survey Settlements and demarcation of forests (4406 0053) for the year of 2023-24.\
-  [202311021443426719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311021443426719.pdf)
+- Regarding making the Collector to withdraw the amount from the treasury on the minus authority letter to provide relief in the case of farmers suicide\
+  [202311241643265419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311241643265419.pdf)
 
-- Regarding grant of administrative approval 6 budget estimate for civil facility work of internal roads (CC roads), Samajmandir and drain construction in rehabilitation of affected village of Taluka Hadgaon District Naded\
-  [202311021628105619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311021628105619.pdf)
-
-- Regarding the refund of sand amount Mauje Dhivari Pipri for 2021-2022, hrs. Hinganghat, Dist. Come to Wardha - Mr. Kiran Mahadevarao Thamekar Prof. M.Mahalakshmi Traders, Res. Ward No.19, Ramnagar Wardha, Distt. Wardha\
-  [202311021637034719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311021637034719.pdf)
-
-- Regarding the refund of sand amount Mauje Savangi Reeth for 2021-2022 Hinganghat, Dist. Come to Wardha - Mr. Sheikh Shaheed Sheikh Ilai Maladhari Prof. M. Shaheed Building Material Supplier, Res. LIC Colony, Nagpur Road, Wardha\
-  [202311021637108319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311021637108319.pdf)
-
-- Returning a amount of sand Ghat Year 2021-2022 Kart Mauje Salphal, p. Arvi, Dist. Wardhas - Mr. Salman Khan Naseem Khan Prof. Nur Traders, Res. Subhash Ward, Ballarpur,Thl Ballarpur, Dist. Chandrapur\
-  [202311021638489719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311021638489719.pdf)
-
-- Corrigendum for GR regarding Government approval for Proposal regarding Proposal regarding Survey Settlements and demarcation of forests (4406 0053) for the year of 2023-24.\
-  [202311031833322019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311031833322019.pdf)
+- A new vehicle instead of a delisted vehicle Regarding approval to purchase\
+  [202311241716364119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311241716364119.pdf)
 
 ## Miscellaneous
-- Appointment of Directors on the Board of FDCM Gorewada Zoo Ltd. (FGZ).\
-  [202310301540112719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310301540112719.pdf)
+- Administrative approval for construction of New Building of Sub- Registrar Office Grade-2, Udgir, Tal. Udgir, Dist. Latur.\
+  [202311211244287419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311211244287419.pdf)
 
-- Regarding Creation of new expenditure head for Comprehensive policy of the Govt. Regarding extraction Storing and Sale of sand by online method.\
-  [202310301711388119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310301711388119.pdf)
+- Regarding the Payment of enhanced compensation as per the Honble High Court, Bench Aurangabad as per dated 4.10.2019 in First Appeal No.1089/2011 and 57/2015 in land acquisition for Administrative Building of Zilla Parishad, Latur. (Corrigendum)\
+  [202311211724492719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311211724492719.pdf)
 
-- Forest Land-Nanded Diversion of 4.90 ha. of forest land in favour of Public Works Departments, Bhokar, Nanded for various works under Shrikshetra Mahurgad Vikas Yojana, Mahur in Nanded District in the state of Maharashtra.\
-  [202310301726246119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310301726246119.pdf)
+- Formation of a committee for recommendations regarding creation of new revenue offices and changes in revenues laws as per requirement (Addendum)\
+  [202311221443275619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311221443275619.pdf)
 
-- Forest Land-Mumbai City Diversion of 0.985 ha. of Reserve Forest land in favour of Mumbai Metropolitan Region Development Authority (MMRDA) for construction of the Metro piers and Bhakti Park Station for Mumbai Metro line 4 at Village- Sewri (Salt Pan), Mumbai City District in the State of Maharashtra.\
-  [202311011502261919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311011502261919.pdf)
+- Regarding refund of penalty paid for transportation of minor mineral without licence.- Mr. Dorab Peshottan Dubash\
+  [202311221454185519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311221454185519.pdf)
 
-- Forest Land-Nagpur Diversion of 0.0057 ha. Protected Forest land under Forest (Conservation) Act, 1980 in favour of M/s. Reliance Jio Infocomm Limited, Nagpur for laying of underground Optical Fiber Cable along the existing RoW of SH-324, Sawargaon-Chorkhairi-Narkhed Road in Nagpur District in the State of Maharashtra.\
-  [202311011504008919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311011504008919.pdf)
+- Regarding the reorganization of the Cabinet Sub-Committee formed to take decisions on providing immediate relief to the victims of natural calamities...\
+  [202311221606574419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311221606574419.pdf)
 
-- Reqarding establishment of Additional Tehsil office at Loni Kalbhor Tq. Haveli, Dist.Pune\
-  [202311021455167619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311021455167619.pdf)
+- Regarding the creation of surplus posts for 13 probationary candidates in the category of Deputy Superintendent, Land Records, Group-B.\
+  [202311221824565919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311221824565919.pdf)
 
-- On Sustainable Bamboo Management in Gadchiroli District.\
-  [202311031254546819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311031254546819.pdf)
+- Allocation of funds for civic amenities works in the resettled villages Diggi, Khadkad Kh. and Shenodi (Ta. Kalamnuri, Dist. Hingoli) under the Upper Painganga Project\
+  [202311241648014819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311241648014819.pdf)
+
+- Allocation of funds for civic amenities works in the resettled villages in Kalamnuri taluka of Hingoli district under the Upper Painganga Project\
+  [202311241652112419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311241652112419.pdf)
 
 ## Personnel
-- Mr. Hemant Patil, Naib Tehsildar (Revenue), Tehsil Office Khamgaon, Distt. Regarding posting of Buldana from Amravati Division to Nashik Division on deputation.\
-  [202311021712237919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311021712237919.pdf)
+- Regarding posting of officers in the category of Assistant Conservator of Forests, Group-A\
+  [202311211822333819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311211822333819.pdf)
 
-- Mr. S.N. Bhagwat, Resident Deputy Tehsildar, Tehsil Office Balapur, Distt. Regarding posting of Akola from Amravati Division to Nashik Division on deputation.\
-  [202311021716018219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311021716018219.pdf)
-
-- Regarding the posting of officers in the cadre of Additional Collector Shri. Ankush Pinate, Additional Collector\
-  [202311031532046419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311031532046419.pdf)
-
-- Regarding the posting of officers in the cadre of Additional Collector Shri. Pravin Chudaman Mahajan\
-  [202311031536139419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311031536139419.pdf)
-
-- Regarding posting of officers in the cadre of Additional Collector by transfer\
-  [202311031814000819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311031814000819.pdf)
+- Regarding non-conduct of oral examination for appointment of Kotwals to posts in Group-D (Class-4)..\
+  [202311221915536019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311221915536019.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

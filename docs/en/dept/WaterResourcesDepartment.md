@@ -1,34 +1,27 @@
 # Water Resources Department
 
-**Date Range**: 30 October 2023 - 04 November 2023
+**Date Range**: 20 November 2023 - 25 November 2023
 
 
 ## Funds
-- Adminstrative approval under Special Repairs to Canal Cross Section repairs of Paithan Left Bank canal Km 47 to 48.\
-  [202310301552322127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310301552322127.pdf)
+- Second Revised administrative approval of Rs.117.45 crores to the Pimpalgaon Khand Storage Tank, Tal.Akole Dist.Ahmednagar.\
+  [202311201633241627.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311201633241627.pdf)
 
-- Administrative Approval to Extension Improvement estimate comprising of Construction of Guide Wall on Right Bank of EDA Portion of spillway, extended NOF wall, Eathwork and Remedial measures to Sliding Portion of Hill on downstream side of saddle dam of Ghatprabha Medium Project Tal. Chandgad Dist. Kolhapur\
-  [202310301603502127.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310301603502127.pdf)
+- Delight Blocks Pvt. Ltd., Mauje Pimprisekam, Sub-district Bhusawal, District Jalgaon has reserved Bulk Water Entitlement for non-irrigation water from Tapi river for industrial use.\
+  [202311231252491227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311231252491227.pdf)
 
-- Jayakwadi Project Phase-II, h. Majalgaon, Dist. Beed project Rs. 536.61 crore regarding approval of the additional comment.\
-  [202311021527285827.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311021527285827.pdf)
+- Sumix Club and Resorts Pvt. Ltd., Mauje Mandvi B., Aglambe Khadakwadi, Haveli and Katwadi, Mulshi, Distt. Bulk Water Entitlement for non-irrigation water for drinking and commercial water use to the organization Pune.\
+  [202311241614003227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311241614003227.pdf)
 
-## Miscellaneous
-- Accord administrative approval to Flood Protection wall near Kadavi river, Mauje Perid, Ta. Shahuwadi, Dist. Kolhapur.\
-  [202310301618132427.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310301618132427.pdf)
+- M. Kolte Patil Integrated Township Ltd. Non-irrigation water rights from Pavana Project for the purpose of Special Urban Settlement to this organization at Mauje Jambe, Nere and Marunji, T.Mulshi, D.Pune. (Bulk Water Entitlement).\
+  [202311241618121727.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311241618121727.pdf)
 
-- Regarding grant of administrative approval for removal of silt and islands at Jagbudi River, Tal. Khed, Dist. Ratnagiri.\
-  [202310301623509927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310301623509927.pdf)
+- Badamikar Realities Pvt. Ltd., Mauje Bhugaon, T. Mulshi, Dist. Pune, Bhugaon L.P. for housing project. Bulk Water Entitlement for non-irrigation water from ponds.\
+  [202311241621331327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311241621331327.pdf)
 
 ## Personnel
-- Proposal for increased Bulk Water Entitlement of 3.342 Mcum for Nagar Parishad Mangarulpir Water Supply Scheme Tal, Mangarulpir Dist. Nagpur from Sonal medium project .\
-  [202310301733336327.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310301733336327.pdf)
-
-- Superintending Engineer, Amravati Irrigation Project Board, Amravati Subordinate Executive Engineer, Amravati Project Construction Department NO. 1, regarding the extension of the posts on Fixed Temporary and Converted Temporary Establishments in three Sub-Divisional Offices under Amravati from 01/09/2023 to 29/02/2024.\
-  [202310311620239227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310311620239227.pdf)
-
-- Administrative approval for formation of water user association taking election and handing over area in command of paithan left bank canal km 0 to 122 and distributory no 1 to 46\
-  [202311011159382927.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311011159382927.pdf)
+- Regarding Seniority List of Superintending Engineer (Civil) Cadre dated 01.01.2016...\
+  [202311231800414227.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311231800414227.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

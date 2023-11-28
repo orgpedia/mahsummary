@@ -1,27 +1,18 @@
 # Medical Education and Drugs Department
 
-**Date Range**: 30 October 2023 - 04 November 2023
+**Date Range**: 20 November 2023 - 25 November 2023
 
+
+## Funds
+- Regarding taking on the panel of the Government as a Public Enterprise Company under the Central Government for construction of Government Medical / Dental / Ayurveda Colleges and Hospitals under the control of the Department at a budget cost of Rs. 25.00 crores and above.\
+  [202311231100463513.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311231100463513.pdf)
 
 ## Miscellaneous
-- Administrative approval for installation of new centralized medical gas pipeline system for 500 beds on 1st, 2nd and 3rd floors of Grant Government Medical College, Mumbai\
-  [202310301658268713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310301658268713.pdf)
+- Administrative Approval for Cardiac Cathlab Machinary from Sanction grant for Punyashlok Ahilyadevi Holkar Government Medical College Hospital Baramati\
+  [202311211502105713.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311211502105713.pdf)
 
-- Administrative approval for the purchase of equipment from the State Scheme for Sir J.G.Group Hospital, Mumbai.\
-  [202310301658387013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310301658387013.pdf)
-
-- Administrative approval for installation of new centralized medical gas pipeline system for 500 beds on 4th, 5th and 6th floors of Grant Government Medical College, Mumbai.\
-  [202310301658510413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310301658510413.pdf)
-
-- Administrative approval for the purchase of machinery and equipment from the state scheme at Swami Ramanand Tirtha Government Medical College and Hospital, Ambajogai\
-  [202310301659071213.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310301659071213.pdf)
-
-## Personnel
-- Administrative approval for purchase of CT simulator machine to Government Medical College and Cancer Hospital, Aurangabad.\
-  [202310301658326013.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310301658326013.pdf)
-
-- Administrative approval for purchase of Cobalt-60 HDR Brachytherapy Machine to Government Medical College and Cancer Hospital, Aurangabad\
-  [202310301658443413.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310301658443413.pdf)
+- Administrative approval to the proposal for a Liver Transplant Unit at St. Georges Hospital, Mumbai\
+  [202311211502199913.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311211502199913.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

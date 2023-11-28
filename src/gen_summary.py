@@ -648,6 +648,7 @@ def main():
         # this gets the last week_num from document infos
         week_doc_infos, year, week_num = get_week_document_infos(gr_dir, yr, wk)
         if not week_doc_infos:
+            print(f'Weeknum: {year}-{wk}: No documents found')
             continue
 
         week_doc_infos = annotate_doc_infos(gr_dir, week_doc_infos)

@@ -1,31 +1,37 @@
 # Industries, Energy and Labour Department
 
-**Date Range**: 30 October 2023 - 04 November 2023
+**Date Range**: 20 November 2023 - 25 November 2023
 
 
 ## Funds
-- Subsidy Disbursement Demand No.T-5 (Head of Account 28015614) in the year 2023-24 for concession in electricity tariff to Scheduled Tribe Agricultural Pump Consumer Beneficiaries under Special Component Program of Tribal Development Department.\
-  [202310301556441410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310301556441410.pdf)
+- Financial assistance (with adjustment) to be given to Maharashtra State Vidyut Vitratan Co. Ltd. for the year 2023-24 (Account Head -28015572) due to concession in electricity tariff to agricultural pump customers in the state.\
+  [202311231744104810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311231744104810.pdf)
+
+- Financial assistance (with adjustment) to be given to Maharashtra State Vidyut Vitratan Co. Ltd. for the year 2023-24 (account head 28015581) due to concession in electricity tariff to the electricity consumers in the state.\
+  [202311231748452610.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311231748452610.pdf)
+
+- Financial assistance (adjusted) to be given to Maharashtra State Vidyut Vitratan Co. Ltd. for the year 2023-24 (account head 28015599) due to concession in electricity tariff to textile industry consumers in the state.\
+  [202311231752000510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311231752000510.pdf)
+
+- Financial assistance (with adjustment) to be given to Maharashtra State Vidyut Vitratan Co. Ltd. for the year 2023-24 (Account Head-28015605) due to concession in electricity tariff to industrial consumers in the State.\
+  [202311231755395910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311231755395910.pdf)
 
 ## Miscellaneous
-- To Cancel the G.R. Dated 06.09.2023 regarding empanelment of Agencies for providing Manpower.\
-  [202310311700022310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310311700022310.pdf)
+- Ka. Narayan Meghaji Lokhande Regarding making the approved provision available on BDS for the year 2023-24 under the Maharashtra Labour Science Institute Strengthening Scheme and getting the administrative approval for the said expenditure - Item Head (00) (12) Maharashtra Labour Science Institute Strengthening (Program) 22305801-53 Major constructions.\
+  [202311201319299310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311201319299310.pdf)
 
-- Regarding giving leave to vote on the day of polling for the Assembly General Election 2023 in the States of Madhya Pradesh, Chhattisgarh and Telangana on November 07, November 17 and November 17 and November 30, 2023.\
-  [202311021747434210.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311021747434210.pdf)
-
-- Regarding the formation of a study group to prepare a new industrial policy for the state of Maharashtra\
-  [202311031643513310.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311031643513310.pdf)
+- Regarding the establishment of a committee to make recommendations regarding formulation of Maharashtra Biofuel Production Policy.\
+  [202311221046445110.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311221046445110.pdf)
 
 ## Personnel
-- Regarding extension of appointments to the majority posts in the Electricity Inspectorate under the Department of Energy\
-  [202310301758040510.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202310301758040510.pdf)
+- Professor (Labour Economics), N. M. Lokhande Maharashtra Institute of Labor Science, Mumbai regarding temporary promotion to the post of Group - A.\
+  [202311201310291910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311201310291910.pdf)
 
-- Regarding publication of provisional seniority list dated 01.01.2023 of the cadre Industrial Officer (Administration) Group-B\
-  [202311011804477910.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311011804477910.pdf)
+- Regarding temporary promotion to the post of Industrial Officer (Technical), Group-B (Grade Pay S-15, Rs.41800-132300).\
+  [202311211726322810.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311211726322810.pdf)
 
-- Regarding posting on promotion to the post of Electrical Inspector, Group-A (Gazetted) from the cadre of Assistant Electrical Inspector, Group-A (Gazetted).\
-  [202311031431565410.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311031431565410.pdf)
+- Regarding temporary promotion to the post of Superintendent Industries Officer, Group-A (Pay Scale S-23, Rs.67700-208700)\
+  [202311211730299710.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311211730299710.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
