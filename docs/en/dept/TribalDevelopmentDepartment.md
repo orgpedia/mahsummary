@@ -1,27 +1,36 @@
 # Tribal Development Department
 
-**Date Range**: 20 November 2023 - 25 November 2023
+**Date Range**: 27 November 2023 - 02 December 2023
 
 
 ## Funds
-- To release grant for the scheme of mahatma Jyotirao Fule Jan Arogya Yojna under the TSP in financial year 2023-24. (CRC- 2210 G289)\
-  [202311161407539424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311161407539424.pdf)
+- To release grant for the scheme of Shabari Tribal Housing Scheme under the TSP in financial year 2023-24. CRC- 2225 D271\
+  [202311161408199624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311161408199624.pdf)
 
-- To release grant for the scheme of centrally sponsored scheme of Pradhan Mantri Jan Arogya Yojana under the TSP in financial year 2023-24. state share- 2210 G494\
-  [202311161408009524.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311161408009524.pdf)
+- To release grant for the scheme of Pradhan Mantri Krishi Sinchan Yojana-Integrated Watershed Managment Programme Land Development through Soil Conservation under the TSP in financial year 2023-24. central share CRC 4402 2618 state share CRC 4402 2627\
+  [202311161408319924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311161408319924.pdf)
 
-- Regarding the acquisition of land of 5 hectares 11 R by Parbhani Krishi Go-Samvardhan Limited, a secondary company of Marathwada Vikas Mahamandal Limited, for the construction of a government hostel for tribal boys and girls in Parbhani town.\
-  [202311221050175124.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311221050175124.pdf)
+- To release grant for the scheme of centrally sponsored scheme Pradhan Mantri Matru Vandana Yojana under the TSP in financial year 2023-24. state share CRC- 2211 1441.\
+  [202311161408377224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311161408377224.pdf)
 
-- Regarding the approval of the guidelines of the scheme Supply of Goat Units to Women SHGs (10 Female 1 Male) under the Special Central Assistance Scheme.\
-  [202311221640128324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311221640128324.pdf)
+- To release grant for the scheme of Assistance to Division for Tribal Student in Military School under the TSP in financial year 2023-24. CRC (2202 H973)\
+  [202311301136256924.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311301136256924.pdf)
+
+- To release grant for the grant for the scheme of Grants-in-aid to Voluntary Agencies for running Ashramshla and Post Basic Ashramsha under the TSP in financial year 2023-24. (CRC 2225 F129)\
+  [202311301136369824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311301136369824.pdf)
+
+- To release grant for the scheme of centrally sponsored scheme of Integrated Development of Wildlife Habitats under the TSP in financial year 2023-24. central share- 2406A784 state share- 2406A793\
+  [202311301136431324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311301136431324.pdf)
 
 ## Miscellaneous
-- Regarding re-admission of girl students studying in Government Ashram Schools / Subsidized Ashram Schools / Eklavya Model Residential School under Tribal Development Department\
-  [202311211832404024.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311211832404024.pdf)
+- To release grant for the scheme of scheme expenditure under the TSP in financial year 2023-24. (Scheme expenditure-BCW)\
+  [202311161408067224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311161408067224.pdf)
 
-- Vegetables, mutton, chicken, eggs, bananas etc. for the students of government ashram schools working under tribal development department. Regarding implementation of e-tendering process for procurement of as well as food contracts for government hostels.\
-  [202311241135520324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311241135520324.pdf)
+- To release grant for the scheme of committed expenditure under the TSP in financial year 2023-24.\
+  [202311161408140224.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311161408140224.pdf)
+
+- Cancellation of names of Adivasi sevak Purskar for the year 2021-22\
+  [202311281548188324.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311281548188324.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

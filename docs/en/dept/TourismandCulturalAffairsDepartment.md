@@ -1,42 +1,45 @@
 # Tourism and Cultural Affairs Department
 
-**Date Range**: 20 November 2023 - 25 November 2023
+**Date Range**: 27 November 2023 - 02 December 2023
 
 
 ## Funds
-- Regarding sanction of grant for the 100th All India Marathi Theater Conference to be held in the year 2023.\
-  [202311221613526923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311221613526923.pdf)
+- Contribution of share capital to Kolhapur Chitranagari Corporation, regarding grant of administrative approval under section 54-Investment.\
+  [202311281017246023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311281017246023.pdf)
 
-- Regarding disbursement of funds to the Directorate of Archeology and Museums under the umbrella scheme for Nectar Festival of Freedom.\
-  [202311231213120023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311231213120023.pdf)
+- Approval to tenders and revised administrative approval to conservation work of murlidhar mandir and sangameshwar mandir akam.\
+  [202311291031168523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311291031168523.pdf)
 
-- Regarding disbursement of funds to the Directorate of Archeology and Museums under the umbrella scheme for Nectar Festival of Freedom.\
-  [202311231213531423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311231213531423.pdf)
+- Approval to tender of revised administrative approval to photogrammetric and lidar serve of control area of state protected monuments in museum pune.\
+  [202311291040567423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311291040567423.pdf)
 
-- Financial approval to expenditure on micro filming of records at directorate of archives.\
-  [202311231540102023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311231540102023.pdf)
+- Approval to tender of revised administrative approval for conservation of archaeological site inamgaon dist. pune.\
+  [202311291046513623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311291046513623.pdf)
+
+- Approval of tender and revised administrative approval to photogrammetric and lidar survey of control area of state protected monuments in ratnagiri division.\
+  [202311291101259923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311291101259923.pdf)
+
+- Regarding approval of expenditure incurred for outsourcing services to the establishment of Maharashtra State Hindi, Sindhi, Gujarati Sahitya Akademi, Mumbai\
+  [202311291122590123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311291122590123.pdf)
+
+- Regarding setting up of multi-purpose complex in Mauritius with the financial support of the State Government.\
+  [202312011138555123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312011138555123.pdf)
+
+- Regarding giving administrative approval to the expenses incurred for conducting online quizzes based on gazetteers published by Darshanika Department under the umbrella scheme Nectar Festival of Freedom.\
+  [202312011553208523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312011553208523.pdf)
 
 ## Miscellaneous
-- Regarding the approval of expenses incurred for seeking admission through online mode of Maharashtra State Drama Competition, 2023-24\
-  [202311211721234123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311211721234123.pdf)
+- Approval for appointment of consultant to prepare gadmandir ramtek dist. Nagpur.\
+  [202311291035531023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311291035531023.pdf)
 
-- Regarding giving administrative sanction to the expenses incurred for sending the art troupe to Shilpgram Utsav, Udaipur.\
-  [202311221659404223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311221659404223.pdf)
+- Approval to tender and released funds for appointment of consultant to prepare UNESCO proposal for ganesh utsav in Maharashtra.\
+  [202311291051063523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311291051063523.pdf)
 
-- Regarding giving administrative approval to the expenditure of the concluding cultural program on the occasion of the birth centenary year of Padmashri Shahir Sable.\
-  [202311231213583623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311231213583623.pdf)
+- Approval to tender and released funds for appointment of consultant to prepare UNESCO proposal for Pandharpur wari in Maharashtra.\
+  [202311291056340023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311291056340023.pdf)
 
-- Regarding approval of small scale programs of the Directorate of Cultural Affairs for the financial year 2023-24\
-  [202311231214032423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311231214032423.pdf)
-
-- Diwali dawn in Delhi on the occasion of Diwali Regarding getting administrative and financial approval for the planning of this cultural program\
-  [202311231214084423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311231214084423.pdf)
-
-- Regarding the financial approval of the remaining amount of Chitrarath production and exhibition expenses on the occasion of Rajarshi Chhatrapati Shahu Maharaj Commemoration Centenary.\
-  [202311231214132323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311231214132323.pdf)
-
-- Revised designation of the post of Project Director as Director in P. L. Deshpande Maharashtra Kala Academy\
-  [202311231412333823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311231412333823.pdf)
+- Regarding approving the book publication grant names and expenses for the year 2022-23 of the Maharashtra State Gujarati Sahitya Akademi.\
+  [202311291136268823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311291136268823.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
