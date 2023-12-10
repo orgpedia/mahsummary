@@ -1,20 +1,21 @@
 # Finance Department
 
-**Date Range**: 27 November 2023 - 02 December 2023
+**Date Range**: 04 December 2023 - 09 December 2023
 
 
 ## Miscellaneous
-- Administrative approval to rapairing of underground R.C.C. water tank at GST Bhavan, Mazgaon\
-  [202311301619324105.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311301619324105.pdf)
+- Maharashtra Group-c services main exam -2021 recommended by Maharashtra Public service commission, Regarding Cancellation of allotment of waitlisted candidates to the post of Technical Assistant Group-c Directorate of Insurance\
+  [202312041521409105.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041521409105.pdf)
 
-- Regarding the implementation of the new service system... regarding the extension of time for the withdrawal and disbursement officer to update the available data in the service system in the new service system.\
-  [202311301728010805.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311301728010805.pdf)
+- List of Maharashtra State Government Sponsored Lottery schemes Period dt.04/12/2023. to dt.10/12/2023.\
+  [202312071205202505.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312071205202505.pdf)
 
-- List of Lottery Schemes Sponsored by Maharashtra Govt\
-  [202312011113174005.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312011113174005.pdf)
+## Personnel
+- To ensure that the funds disbursed by the Central Government in respect of Centrally Sponsored Schemes are credited to the Consolidated Fund of the State\
+  [202312051825416605.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051825416605.pdf)
 
-- Regarding the revision of the list of District Central Co-operative Banks for the year 2023-24 to authorize the opening of Bank Accounts of Drawing and Disbursing Officers and Personal Bank Accounts of Pensioners for disbursement of salaries and allowances to Government employees.....\
-  [202312011538196605.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312011538196605.pdf)
+- Maharashtra Appropriation Act, 2023 Fund Distribution Centrally Sponsored Scheme\
+  [202312081246357605.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312081246357605.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

@@ -1,18 +1,17 @@
 # Law and Judiciary Department
 
-**Date Range**: 27 November 2023 - 02 December 2023
+**Date Range**: 04 December 2023 - 09 December 2023
 
-
-## Funds
-- Administrative Approval to the Construction of New Court Building at Chandrapur\
-  [202311291752549112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311291752549112.pdf)
 
 ## Miscellaneous
-- Legislation Internship programme order for Law students.\
-  [202311281619147312.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311281619147312.pdf)
+- Corrigendum- administrative approval to outsource the manpower for the work of translation of judgments of Hon.Bombay High Court and Hon. Supreme Court.\
+  [202312041234364512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041234364512.pdf)
 
-- Regarding outsourcing the Services of 2 Peons in the office of Chief Presenting Officer, Maharashtra Administrative Tribunal, Nagpur\
-  [202312011700089912.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312011700089912.pdf)
+- Administrative Approval to PDA Account of District Judge-1 and Additional Sessions Judge, Belapur, Navi Mumbai, District Thane.\
+  [202312041731447112.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041731447112.pdf)
+
+- Regarding giving Administrative and Financial Approval for Purchase of Computers in all Offices of Charitable organisations.\
+  [202312081708391512.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312081708391512.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

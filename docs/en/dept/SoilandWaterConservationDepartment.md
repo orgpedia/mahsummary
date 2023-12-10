@@ -1,24 +1,17 @@
 # Soil and Water Conservation Department
 
-**Date Range**: 27 November 2023 - 02 December 2023
+**Date Range**: 04 December 2023 - 09 December 2023
 
 
 ## Funds
-- Disbursement of Funds for Conceptual Work of 0 to 100 Ha Irrigation Area Project: Distt. Acola. (Vidarbha Division)\
-  [202311301437178526.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311301437178526.pdf)
+- 0 to 100. Disbursement of funds for new/in-progress project works: Dist. Jalna (Marathwada Division)\
+  [202312051903538126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051903538126.pdf)
 
-- Regarding disbursement of funds for 6th Enumeration Program and 1st Water Storage Enumeration Program of Central Government Sponsored Minor Irrigation Schemes.\
-  [202311301444411926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311301444411926.pdf)
+- 0 to 100. Disbursement of funds for new/in-progress project works: Dist. Akola (Vidarbha Division)\
+  [202312051904412226.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051904412226.pdf)
 
-- Distribution of funds under Scheduled Tribe Category under Centrally Sponsored Pradhan Mantri Krishi Sinchan Yojana - Watershed Development Component 2.0.\
-  [202311301738042026.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311301738042026.pdf)
-
-- Distribution of Share Capital Contribution for Maharashtra Water Conservation Corporation (Year 2023-24)\
-  [202311301825360126.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311301825360126.pdf)
-
-## Miscellaneous
-- Requisition No. ZH-5, Heading 4702 A 019. Regarding provision of funds for purchase of land through direct direct purchase through private negotiation. (Land Acquisition Fund)\
-  [202311301441342226.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311301441342226.pdf)
+- Regarding disbursement of funds for drain deepening/widening works under Jalsamriddhi Cement Dam Programme: Distt. Wardha (Vidarbha Division)\
+  [202312051909573926.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051909573926.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

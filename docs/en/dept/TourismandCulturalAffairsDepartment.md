@@ -1,45 +1,37 @@
 # Tourism and Cultural Affairs Department
 
-**Date Range**: 27 November 2023 - 02 December 2023
+**Date Range**: 04 December 2023 - 09 December 2023
 
 
 ## Funds
-- Contribution of share capital to Kolhapur Chitranagari Corporation, regarding grant of administrative approval under section 54-Investment.\
-  [202311281017246023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311281017246023.pdf)
+- Karla, Dist. Regarding establishment of Chanakya Center for Excellence at Maharashtra Tourism Development Corporation premises in Pune.\
+  [202312041248080623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041248080623.pdf)
 
-- Approval to tenders and revised administrative approval to conservation work of murlidhar mandir and sangameshwar mandir akam.\
-  [202311291031168523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311291031168523.pdf)
+- Amrit Mahotsav of Freedom Ekchhatra Yojana regarding the administrative approval of the expenditure incurred for the implementation of Ai Women Centered / Gender Inclusive Tourism Policy.\
+  [202312041754370723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041754370723.pdf)
 
-- Approval to tender of revised administrative approval to photogrammetric and lidar serve of control area of state protected monuments in museum pune.\
-  [202311291040567423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311291040567423.pdf)
+- Regarding the financial sanction for the establishment of a training institute for Village Development Training and Research Awareness (Maharudra) under the umbrella scheme for Swatantrya Amrit Mahotsav.\
+  [202312051434037823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051434037823.pdf)
 
-- Approval to tender of revised administrative approval for conservation of archaeological site inamgaon dist. pune.\
-  [202311291046513623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311291046513623.pdf)
+- Raigad Fort and Area Development Tourism Planning Authority Hon. Regarding inclusion of Member of Legislative Assembly (Mahad-Mangaon Assembly Constituency) as Member.\
+  [202312051556520223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051556520223.pdf)
 
-- Approval of tender and revised administrative approval to photogrammetric and lidar survey of control area of state protected monuments in ratnagiri division.\
-  [202311291101259923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311291101259923.pdf)
+- Regarding disbursement of funds for the construction of a theater in District Kudal, District Sindhudurg.\
+  [202312051643541923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051643541923.pdf)
 
-- Regarding approval of expenditure incurred for outsourcing services to the establishment of Maharashtra State Hindi, Sindhi, Gujarati Sahitya Akademi, Mumbai\
-  [202311291122590123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311291122590123.pdf)
-
-- Regarding setting up of multi-purpose complex in Mauritius with the financial support of the State Government.\
-  [202312011138555123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312011138555123.pdf)
-
-- Regarding giving administrative approval to the expenses incurred for conducting online quizzes based on gazetteers published by Darshanika Department under the umbrella scheme Nectar Festival of Freedom.\
-  [202312011553208523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312011553208523.pdf)
+- To Accord Administrative Approval for the project museum on wheels of arms in the era of Chhatrapati Shivaji Maharaj under AKAM - 350th Anniversary of coronation ceremony of Chhatrapati Shivaji Maharaj.\
+  [202312071443328423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312071443328423.pdf)
 
 ## Miscellaneous
-- Approval for appointment of consultant to prepare gadmandir ramtek dist. Nagpur.\
-  [202311291035531023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311291035531023.pdf)
+- Navadurga: Regarding giving financial approval to the cultural program of Jagar Stree Shakti and its organizing expenses.\
+  [202312051434121623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051434121623.pdf)
 
-- Approval to tender and released funds for appointment of consultant to prepare UNESCO proposal for ganesh utsav in Maharashtra.\
-  [202311291051063523.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311291051063523.pdf)
+- Regarding disbursing funds for the construction of the theater of K.G.D.Madgulkar Theater, Atpadi, Dist.Sangli\
+  [202312051702358623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051702358623.pdf)
 
-- Approval to tender and released funds for appointment of consultant to prepare UNESCO proposal for Pandharpur wari in Maharashtra.\
-  [202311291056340023.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311291056340023.pdf)
-
-- Regarding approving the book publication grant names and expenses for the year 2022-23 of the Maharashtra State Gujarati Sahitya Akademi.\
-  [202311291136268823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311291136268823.pdf)
+## Personnel
+- 6691 Sq. at Bandra for Mumbai Metro Line-3, Colaba Bandra-Sipz Project. I. Space Mumbai Metro Rail Corporation Ltd. Regarding extending the MoU upto 31.12.2023 for the temporary transfer of him for 3 years.\
+  [202312051442396823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051442396823.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

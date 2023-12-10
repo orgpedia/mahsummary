@@ -1,18 +1,14 @@
 # Co-operation, Textiles and Marketing Department
 
-**Date Range**: 27 November 2023 - 02 December 2023
+**Date Range**: 04 December 2023 - 09 December 2023
 
-
-## Funds
-- Regarding notification of Marathwada Urban Backs Co-op Ltd., District Chhatrapati Sambhajinagar as a State Apex Training Institute under Section 24-A of the Maharashtra Cooperative Societies Act, 1960.\
-  [202311281614565302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311281614565302.pdf)
-
-- Regarding disbursement of funds for the Asian Development Bank (ADB) funded Maharashtra Agribusiness Network (Magnet) project for the year 2023-24...\
-  [202312011532153802.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312011532153802.pdf)
 
 ## Miscellaneous
-- Integrated and Sustainable Textile Industry Policy 2023-28 Regarding setting up of a committee to determine eligible machinery for benefit of capital subsidy to other machinery under Maha-Technology Upgradation Fund Scheme (Maha-TUFS).\
-  [202311281534540102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311281534540102.pdf)
+- To form committee to study issues regarding Urban co-operative Banks of State\
+  [202312041307310102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041307310102.pdf)
+
+- Regarding extension of the ongoing inquiry of Nagpur District Central Co-operative Bank under Section 88 of the Maharashtra Co-operative Societies Act, 1960.\
+  [202312071453049302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312071453049302.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

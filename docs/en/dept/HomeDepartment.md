@@ -1,31 +1,39 @@
 # Home Department
 
-**Date Range**: 27 November 2023 - 02 December 2023
+**Date Range**: 04 December 2023 - 09 December 2023
 
 
 ## Funds
-- Yerwada central Jail In Government Vehicle Tata Truck No. MH-46-BB-3487 Regarding granting administrative approval for servicing and repair expenses of this vehicle\
-  [202311281305130429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311281305130429.pdf)
+- Regarding disbursement of Quarter-24 installment funds for Mumbai City CCTV Project.\
+  [202312051135145829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051135145829.pdf)
 
-- Administrative approval for purchase of video Conferencing Units for Prison Department for financial year 2023-24\
-  [202311281310021129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311281310021129.pdf)
+- For expansion and renovation of parade ground at Police Training Centre, Khandala Rs. 1,63,43,000/- (Literally Rupees One Crore Sixty Three Lakh Forty Three Thousand only) regarding granting administrative approval to the expenditure budget.\
+  [202312081504325529.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312081504325529.pdf)
 
-- Regarding disbursement of funds for e-challan project.\
-  [202312011454506629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312011454506629.pdf)
+- Regarding disbursement of funds amounting to Rs.329.94 crores to Maharashtra State Road Transport Corporation for October, 2023 as reimbursement of discounted price...\
+  [202312081703413429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312081703413429.pdf)
 
 ## Miscellaneous
-- Regarding conversion of Vehicle Inspection and Testing Center at Nashik into Automated Vehicle Inspection Center.\
-  [202311281222380629.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311281222380629.pdf)
+- Mauje Gokul towards Helwak (Koynanagar) hrs. Patan District Regarding approving establishment of State Disaster Response Force and Police Training Center at Satara\
+  [202312041429583329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041429583329.pdf)
 
-- May appointed as Pune and Pimpri-Chinchwad City CCTV Project Consultant. Regarding payment to PwC Company for the work done for the period from 1.8.2023 to 19.9.2023.\
-  [202312011445033729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312011445033729.pdf)
+- Appointed as consultant to implement e-challan project in the state. Regarding extension of time to KPMG Company.\
+  [202312041540445429.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041540445429.pdf)
 
-- May appointed as Mumbai City CCTV Project Consultant. Regarding payment of work done for the period July 2023 to September 2023 to PWC companies\
-  [202312011450510729.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312011450510729.pdf)
+- Opening of New Account Head Under the Asian Development Bank-Assisted Sustainable Coastal Protection and Management Investment Program\
+  [202312051705457929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051705457929.pdf)
 
-## Personnel
-- Supplementary Select List 2022-23 (Part-5): Regarding posting-on-promotion to post in the cadre of Deputy Superintendent of Police/Assistant Commissioner of Police (Unarmed)\
-  [202311291823225929.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311291823225929.pdf)
+- Regarding creation of eight supernumerary posts of Assistant Superintendent of Police-I.P.S 75th RR Batch.\
+  [202312052024345129.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312052024345129.pdf)
+
+- May appointed as project consultant to implement Modernization Project of Police Control Rooms (DIAL-112) in the state. Regarding extension of time to Ernst Young\
+  [202312071224309029.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312071224309029.pdf)
+
+- Regarding approval to outsource (Maharashtra State Security Corporation) the services of 500 manpower on establishment of Mira-Bhainder-Vasai-Virar Police Commissionerate.\
+  [202312071746036329.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312071746036329.pdf)
+
+- Regarding appointment of Mr. Dattatray Padsalgikar, IPS (retired) as Director Emeritus of Maharashtra Intelligence Academy, Pune on contractual basis.\
+  [202312081624120829.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312081624120829.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

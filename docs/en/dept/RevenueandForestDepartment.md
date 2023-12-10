@@ -1,58 +1,55 @@
 # Revenue and Forest Department
 
-**Date Range**: 27 November 2023 - 02 December 2023
+**Date Range**: 04 December 2023 - 09 December 2023
 
 
 ## Funds
-- Due to the flood of the year 1991, Mauje Palaswada, Haturna and Bhapki (Ajitpur) Varud, Dist. Regarding providing administrative approval for resettlement of 370 houses in Amravati village to safe place....\
-  [202311281716369219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311281716369219.pdf)
+- Regarding giving administrative approval to the budget for the construction of a consolidated building for Chief Conservator of Forests (Pvt.), Nashik and other offices under him.\
+  [202312051251194519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051251194519.pdf)
 
-- Sanctioning the Collector, Amravati to purchase a new vehicle in place of his old registered vehicle.\
-  [202311281727572219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311281727572219.pdf)
+- ONGOING MATTER PROPOSAL UNDER STATE PLAN YEAR 2023-24 ESTABLISHMENT OF WILDLIFE APANGALAYA (2406 2232).\
+  [202312051512064819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051512064819.pdf)
 
-- Sanctioning the officers of various Regional offices under Collector, Satara to purchase new vehicles in exchange of their old 14 registered vehicles.\
-  [202311281728295219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311281728295219.pdf)
+- Construction of Tehsil Office building in Selu District Wardha.\
+  [202312051646125819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051646125819.pdf)
 
-- Centrally Sponsored Scheme Year 2023-24 Tiger and Elephant Project for disbursement of funds for measures to be taken in response to damage caused by wild elephants in Kolhapur Forest Circle.\
-  [202311291128114219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311291128114219.pdf)
+- Regarding making records available under Revenue Department available through Setu/Apale Sarkar Seva Kendra/Maha-e Seva Kendra and providing facility of application through e-Haqq system.\
+  [202312051745207519.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051745207519.pdf)
 
-- Regarding the disbursement of funds under the Tribal Sector Up-Plan component under the Centrally Sponsored Scheme Year 2023-24 Tiger and Elephant Project.\
-  [202311291132144219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311291132144219.pdf)
-
-- Current Affairs Proposal under State Plan Year 2023-24 Nature Conservation and Wildlife Management (Programme) (2406 0775).\
-  [202311291219193919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311291219193919.pdf)
-
-- Regarding providing assistance to the affected for crop damage due to unseasonal rains in various districts of the state from January to June, 2023 (Unseasonal Rains 2023 Order No.7).\
-  [202311301258340019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311301258340019.pdf)
-
-- Regarding disbursement of funds to provide relief for loss of agricultural crops/ agricultural land due to heavy rains and floods during the period June to October, 2023 (Monsoon Season 2023 Order No.2)...\
-  [202311301258446219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311301258446219.pdf)
-
-- Regarding disbursement of funds to provide relief for damage to property and infrastructure due to heavy rains and floods during September, 2023 (Monsoon Season 2023 Order No.3)...\
-  [202311301258499119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311301258499119.pdf)
-
-- Sanctioning the officers of various Regional offices under Collector, Pune to purchase new vehicles in exchange of their old 05 registered vehicles.\
-  [202311301451326819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311301451326819.pdf)
-
-- Regarding disbursement of grant under the account head Eco Task Force Battalion (2406 A211) for the financial year 2023-24.\
-  [202311301644068619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311301644068619.pdf)
-
-- Regarding disbursement of funds to provide relief for damage to infrastructure due to heavy rains and floods during the period June to July, 2023 (Monsoon Season 2023 Order No.5)...\
-  [202312011444548419.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312011444548419.pdf)
+- Regarding approval of purchase of new vehicles instead of registered vehicles\
+  [202312081043331919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312081043331919.pdf)
 
 ## Miscellaneous
-- Forest Land-Washim Diversion of 0.1890 ha. Forest land under Forest (Conservation) Act, 1980 in favour of M/s. Reliance Jio Infocomm Limited, Nagpur for laying of underground Optical Fiber Cable passing within Right of Way of Karanja-Akola road in Washim District\
-  [202311281706067219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311281706067219.pdf)
+- Sanction of Junior Administration Grade to Indian Forest Service officer (Batch 2014)\
+  [202312041403442319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041403442319.pdf)
 
-- For the year 2013-14 Regarding getting back the amount of unexcavated sand from Shahada sand block. Mr. Sachin Ramchandra Thorat.\
-  [202311301216388019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311301216388019.pdf)
+- Forest Land-Gadchiroli Diversion of 1.5039 ha. Forest land under Forest (Conservation) Act, 1980 in favour of M/s Reliance Jio Infocomm Limited, Nagpur for laying Optical Fiber Cable within RoW of existing MDR-02 and NH-930D from Mangewara to Dhanora Route in Dhanora District Gadchiroli in the State of Maharashtra\
+  [202312041702372219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041702372219.pdf)
 
-- Regarding constitution of Standing Committee of State Wildlife Board\
-  [202312011130280219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312011130280219.pdf)
+- Administrative approval for construction of New Building of Sub- Registrar Office, Kandhar, Dist. Nanded\
+  [202312071211097819.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312071211097819.pdf)
+
+- Administrative approval for construction of New Building of Sub- Registrar Office, Loha, Dist. Nanded\
+  [202312071219160919.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312071219160919.pdf)
 
 ## Personnel
-- Regarding availability of services of officers awaiting appointment\
-  [202312011441368119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312011441368119.pdf)
+- REGISTRATION AND STAMPS DEPARTMENT REGARDING POST BY TRANSFER IN 2023 IN THE REGISTER OF SUB REGISTRAR, CLASS-II WITH PERIODIC TRANSFER\
+  [202312041554403719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041554403719.pdf)
+
+- REGISTRATION AND STAMPS DEPARTMENT REGARDING REGISTRATION OF POST IN THE REGISTER, CLASS-II REGISTER WITH REGULAR TRANSFER IN THE YEAR 2023....\
+  [202312041559058119.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041559058119.pdf)
+
+- REGISTRATION AND STAMPS DEPARTMENT REGARDING REGISTRATION OF POST IN THE REGISTER, CLASS-II REGISTER WITH REGULAR TRANSFER IN THE YEAR 2023....\
+  [202312041602555219.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041602555219.pdf)
+
+- REGISTRATION AND STAMPS DEPARTMENT REGARDING REGISTRATION OF POST IN THE REGISTER, CLASS-II REGISTER WITH REGULAR TRANSFER IN THE YEAR 2023.\
+  [202312041606531719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041606531719.pdf)
+
+- REGISTRATION AND STAMPS DEPARTMENT REGARDING POST BY TRANSFER IN 2023 IN THE REGISTER OF SUB REGISTRAR, CLASS-II WITH PERIODIC TRANSFER\
+  [202312041611004019.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041611004019.pdf)
+
+- REGISTRATION AND STAMPS DEPARTMENT REGARDING POSTING BY TRANSFER IN 2023 IN THE REGISTER OF SUB REGISTRAR, CLASS-II WITH REGULAR TRANSFER.\
+  [202312041614445319.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041614445319.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

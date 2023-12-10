@@ -1,55 +1,48 @@
 # General Administration Department
 
-**Date Range**: 27 November 2023 - 02 December 2023
+**Date Range**: 04 December 2023 - 09 December 2023
 
-
-## Funds
-- Regarding giving improved administrative and financial approval for development of Karad Airport.\
-  [202311291439537507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311291439537507.pdf)
-
-- Regarding disbursement of funds for various matters (research activities) carried out through the Maharashtra Policy Research Institute. (year 2023-24) under the programme\
-  [202312011506324507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312011506324507.pdf)
-
-- Annual limit of provident fund of Maharashtra General Provident Fund subscribers in a financial year within the limit given in sub-clause (i) of clause (c) of Explanation below sub-rule (2) of Rule 9(d) of the Income-tax Rules, 1962 (currently Rs. .Five Lakhs) regarding keeping the limit...\
-  [202312011538114507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312011538114507.pdf)
 
 ## Miscellaneous
-- CPTP - medical examination of candidates selected for interview through state service exam.\
-  [202311281050324107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311281050324107.pdf)
+- Regarding the cancellation of the appointment From Assistant Section officer (Main) Exam 2021 in Mantralaya Department.\
+  [202312041440345407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041440345407.pdf)
 
-- Regarding the constitution of a committee for checking the payments related to repairs of D.V.Vehicles at the district level\
-  [202311281542573107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311281542573107.pdf)
+- Regarding the completion of the process of writing the performance evaluation report of the Government Officers/Employees by 31st December\
+  [202312041648524007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041648524007.pdf)
 
-- Regarding the celebration of birth anniversary and national day of Rashtra Purush / noble person in the year 2023.\
-  [202311291622018007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311291622018007.pdf)
+- Revised GR-CPTP Degree.\
+  [202312041735562807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041735562807.pdf)
 
-- Clerk-Typist (Marathi/English) Examination-2011 Recommended by Maharashtra Public Service Commission Regarding cancellation of allotment of Shri. Kunal Vinod Rathod.\
-  [202311301112401907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311301112401907.pdf)
+- Regarding registration on Call Before u Dig (CBuD) system before digging on state government as well as private land\
+  [202312041740217307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041740217307.pdf)
 
-- Grant of revised rate of Dearness Relief to AIS Pensioners/Family pensioners 46 Revised Rates effective from date 01/07/2023\
-  [202311301506392507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311301506392507.pdf)
+- Grant release for CPTP Training to YASHADA Training Centre Pune\
+  [202312051221117407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051221117407.pdf)
 
-- Extension of Deputation- Shri. Sanjay S. Aghav, Under Secretary\
-  [202312011220489607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312011220489607.pdf)
+- Filling the post of deputation basis\
+  [202312051241563507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051241563507.pdf)
 
-- Repatriation from Deputation- Shri. Subhash B. Ingale, Deputy Secretary\
-  [202312011224019007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312011224019007.pdf)
+- Regarding the extension of the maintenance and upkeep contract for the government-owned Cessna Citation 560 XLS VT-VDD aircraft.\
+  [202312051459232707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051459232707.pdf)
 
-- Regarding the action to be taken pursuant to the first report accepted by the Standing Committee headed by Honble Justice Shri Sandeep Shinde (Retd.).\
-  [202312011305461507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312011305461507.pdf)
+- About declaring a local holiday on the occasion of Dr. Babasaheb Ambedkar Mahaparinirvana Day.\
+  [202312051533358607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051533358607.pdf)
 
-- Regarding the provision of manpower to the committee formed in accordance with the demands for giving Kunbi caste certificate to the Maratha community.\
-  [202312011608546907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312011608546907.pdf)
+- Regarding the appointment of a study group to study the various demands of journalists in the state of Maharashtra.\
+  [202312051650445407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051650445407.pdf)
+
+- Regarding appointment of Agency for Aviation Management Services for Air Vehicles namely Government Aircraft Cessna Citation 560 XLS VT-VDD and Government Helicopter Airbus H145 VT GOV.\
+  [202312051655350807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051655350807.pdf)
+
+- Regarding appointment of Kaizen Institute appointed through QCI for postal management, promotion of e-office use, clearance of backlog of old orders.\
+  [202312051710346307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051710346307.pdf)
 
 ## Personnel
-- Repatriation from Deputation- Shri. Santosh V. Rokade, Deputy Secretary\
-  [202312011226193607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312011226193607.pdf)
+- Ad-hoc promotion on the post of Assistant Section officer- Smt. N. N. Rane Ad-hoc Select List 2023-24.\
+  [202312071835198707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312071835198707.pdf)
 
-- Transfer of Under Secretary- Shri. Sanjay J. Savane, Under Secretary\
-  [202312011228429107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312011228429107.pdf)
-
-- Appointment of Zilla Sainik Welfare Officers, (Group-A)\
-  [202312011654164407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312011654164407.pdf)
+- Temporary promotion on the post of Assistant Section officer -Ad-hoc Select List 2023-24- Minor Change in Posting.\
+  [202312071840020607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312071840020607.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
