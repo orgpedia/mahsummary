@@ -17,6 +17,15 @@
   [202312151218010724.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312151218010724.pdf)
 
 ## Miscellaneous
+- To release grant for the scheme of scheme expenditure under the TSP in financial year 2023-24. (scheme expenditure-BCW)\
+  [202311301136555824.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311301136555824.pdf)
+
+- To release grant for the scheme of District annual sub plan under the TSP in financial year 2023-24.Demand No-T-9\
+  [202311301137027124.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311301137027124.pdf)
+
+- Regarding forming a committee to operate a central kitchen as well as a semi-central kitchen for providing breakfast, two time meals a day to the students in Government Ashram Schools.\
+  [202311301137092624.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311301137092624.pdf)
+
 - To release grant for the scheme of committed expenditure schemes under the TSP in financial year 2023-24.\
   [202311301137149424.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202311301137149424.pdf)
 

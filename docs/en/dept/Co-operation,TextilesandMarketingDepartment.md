@@ -5,7 +5,16 @@
 
 ## Funds
 - Regarding disbursement of capital subsidy instead of interest subsidy to textile units under Textile Policy 2011-2017\
+  [202312111152211302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312111152211302.pdf)
+
+- Regarding disbursement of capital subsidy instead of interest subsidy to textile units under Textile Policy 2011-2017\
   [202312111152357302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312111152357302.pdf)
+
+- Regarding Disbursement of Interest Subsidy to Textile Sectors under Textile Policy 2011-2017.\
+  [202312121244472302.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312121244472302.pdf)
+
+- Regarding disbursement of interest subsidy subsidy to textile units under Textile Policy 2011-2017.\
+  [202312121249058602.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312121249058602.pdf)
 
 - from financial institutions to co-operative yarn mills Regarding provision of 12 interest on loan received- Adishakti Muktai Cooperative Sutagirni Marya., Muktainagar, Distt. Jalgaon.\
   [202312131657326102.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312131657326102.pdf)

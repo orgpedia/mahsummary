@@ -14,6 +14,15 @@
 - School Shifting- Shifting of The Mahindra United World College of India, Punes The Mahindra United World College of India to Khubwali Tq Mulshi District Pune\
   [202312121657094021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312121657094021.pdf)
 
+- Regarding approval of expenses for participation of Maharashtra team in All India Civil Services Swimming Competition 2023-24 to be held at New Delhi from 15th to 17th December, 2023.\
+  [202312151302199921.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312151302199921.pdf)
+
+- All India Civil Services Cricket Tournament 2023-24\
+  [202312151303525621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312151303525621.pdf)
+
+- All India Civil Services Football Tournament 2023-24\
+  [202312151307169021.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312151307169021.pdf)
+
 ## Personnel
 - Regarding promotion to the post of Deputy Director of Education and equivalent in Maharashtra Education Service Group-A (Administrative Branch).\
   [202312151704238621.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312151704238621.pdf)

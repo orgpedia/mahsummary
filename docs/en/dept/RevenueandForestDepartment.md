@@ -15,6 +15,9 @@
   [202312131752260619.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312131752260619.pdf)
 
 ## Personnel
+- Issuing guidelines cum Standard Operating Procedure regarding implementation of The Maharashtra Stamp Duty Amnesty Scheme-2023 declared by notification dated 7th Decenmber 2023\
+  [202312111616047719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312111616047719.pdf)
+
 - Mr. Regarding one year extension to Ajit Deshmukh, Deputy Collector as Deputy Commissioner, Pune Municipal Corporation, Pune\
   [202312141706541719.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312141706541719.pdf)
 

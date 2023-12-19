@@ -14,5 +14,8 @@
 - Regarding the continuation of the newly created 03 temporary posts in Sub District Hospital, Naladurg, Dist.Dharashiv under Deputy Director Health Services, Latur Mandal, Latur.\
   [202312041611130417.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041611130417.pdf)
 
+- Maharashtra Medical and Health Service, Group-B Medical Officers, Group-B Cadre Interim Seniority List as on 01.01.2023\
+  [202312111112037717.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312111112037717.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

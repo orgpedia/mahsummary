@@ -10,6 +10,9 @@
 - Release of Rs. 6644.90000 lakh grants under food and security mission-food grain Scheme for General category in year 2023-24\
   [202312111311412901.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312111311412901.pdf)
 
+- Regarding sanction of 12.50 Project Allowance as per 7th Pay Commission to Government Officers / Employees under World Bank Assisted Nanaji Deshmukh Krishi Sanjeevani Project.\
+  [202312111831267601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312111831267601.pdf)
+
 - Release of Rs.228.91666 lakh grants for FNS-commercial crop(cotton, sugarcane)programme under KrishiUnnati Scheme for General category in year 2023-24\
   [202312121455464701.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312121455464701.pdf)
 
@@ -21,6 +24,10 @@
 
 - Under the National Agricultural Extension and Technology Mission (NMAET) Agricultural Extension sub-mission, the central share of the third tranche of funds for Scheduled Tribes to implement the Assistance for Improvements in Agricultural Extension Programs (ATMA) Scheme of the State for the year 2023-24 is Rs. 78.505 lakhs and State share Rs. 52.33667 lakhs in total amount of Rs.130.84167 lakhs to be distributed in the current year.\
   [202312151654308601.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312151654308601.pdf)
+
+## Personnel
+- Guidelines regarding the implementation of cadre-wise reservation policy for teaching posts in Maharashtra University of Animal and Fisheries Science and internal colleges / fields / other institutions as per Maharashtra Educational Institutions (Reservation in Teaching Cadre) Act 2021\
+  [202312141552014801.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312141552014801.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

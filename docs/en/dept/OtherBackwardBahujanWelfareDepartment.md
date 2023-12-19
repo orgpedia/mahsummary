@@ -4,11 +4,17 @@
 
 
 ## Funds
+- Regarding providing post-action approval and funds to the proposal of 343 individual Gharkul beneficiaries in Gondia district under Yashwantrao Chavan Mukta Vasahat Yojana.\
+  [202312111553442134.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312111553442134.pdf)
+
 - Regarding providing post-action approval and funds to the proposal of 16 individual Gharkul beneficiaries in Dharashiv district under Yashwantrao Chavan Mukta Vasahat Yojana.\
   [202312111554003634.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312111554003634.pdf)
 
 - Regarding implementation of Gyanjyoti Savitribai Phule Aadhaar Yojana for higher education students belonging to Other Backward Classes, Freed Castes and Nomadic Tribes, and Special Backward Classes\
   [202312131645415734.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312131645415734.pdf)
+
+- Regarding providing post-action approval and funds to the proposal of 613 individual Gharkul beneficiaries in Bhandara district under Yashwantrao Chavan Mukta Vasahat Yojana.\
+  [202312141027525934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312141027525934.pdf)
 
 - Provide the remaining funds for the houses sanctioned post-work in the year 2021-22 under yashwantrao chavan open colony scheme.\
   [202312141028032934.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312141028032934.pdf)

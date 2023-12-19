@@ -20,5 +20,8 @@
 - Regarding the extension of the surplus post created for the employees working in the office under Chief Engineer, Public Works Regional Department, Pune.\
   [202312141645257818.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312141645257818.pdf)
 
+- Provisional seniority list for the period of 01.01.2016 to 01.01.2023 of the cadre of Deputy Chief Architect in Public Works Department.\
+  [202312141828469718.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312141828469718.pdf)
+
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

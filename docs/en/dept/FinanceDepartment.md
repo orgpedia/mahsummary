@@ -7,6 +7,9 @@
 - Maharashtra Group-c services main exam -2021 recommended by Maharashtra Public service commission, Regarding Cancellation of allotment of waitlisted candidates to the post of Technical Assistant Group-c Directorate of Insurance\
   [202312041521409105.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041521409105.pdf)
 
+- Fixation of time limit for implementation of National Pension System applicable to State Government Employees.\
+  [202312041627292805.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041627292805.pdf)
+
 - List of Maharashtra State Government Sponsored Lottery schemes Period dt.04/12/2023. to dt.10/12/2023.\
   [202312071205202505.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312071205202505.pdf)
 
