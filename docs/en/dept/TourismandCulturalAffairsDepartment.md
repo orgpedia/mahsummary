@@ -1,37 +1,30 @@
 # Tourism and Cultural Affairs Department
 
-**Date Range**: 04 December 2023 - 09 December 2023
+**Date Range**: 11 December 2023 - 16 December 2023
 
 
 ## Funds
-- Karla, Dist. Regarding establishment of Chanakya Center for Excellence at Maharashtra Tourism Development Corporation premises in Pune.\
-  [202312041248080623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041248080623.pdf)
+- Regarding disbursement of funds to the Directorate of Archeology and Museums under the umbrella scheme for Swatantracha Amrut mahotsav.\
+  [202312121640425823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312121640425823.pdf)
 
-- Amrit Mahotsav of Freedom Ekchhatra Yojana regarding the administrative approval of the expenditure incurred for the implementation of Ai Women Centered / Gender Inclusive Tourism Policy.\
-  [202312041754370723.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041754370723.pdf)
-
-- Regarding the financial sanction for the establishment of a training institute for Village Development Training and Research Awareness (Maharudra) under the umbrella scheme for Swatantrya Amrit Mahotsav.\
-  [202312051434037823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051434037823.pdf)
-
-- Raigad Fort and Area Development Tourism Planning Authority Hon. Regarding inclusion of Member of Legislative Assembly (Mahad-Mangaon Assembly Constituency) as Member.\
-  [202312051556520223.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051556520223.pdf)
-
-- Regarding disbursement of funds for the construction of a theater in District Kudal, District Sindhudurg.\
-  [202312051643541923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051643541923.pdf)
-
-- To Accord Administrative Approval for the project museum on wheels of arms in the era of Chhatrapati Shivaji Maharaj under AKAM - 350th Anniversary of coronation ceremony of Chhatrapati Shivaji Maharaj.\
-  [202312071443328423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312071443328423.pdf)
+- Regarding giving financial approval to the proposal for the construction of necessary catering and accommodation under the auditorium through Yashda under the jurisdiction of the General Administration Department on the land at Pune to implement the Maharashtra Policy Research Institute under the Ekchhatra scheme for the Samanthatra Amrit Mahotsav.\
+  [202312121640488123.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312121640488123.pdf)
 
 ## Miscellaneous
-- Navadurga: Regarding giving financial approval to the cultural program of Jagar Stree Shakti and its organizing expenses.\
-  [202312051434121623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051434121623.pdf)
+- Regarding the financial approval of the expenditure incurred for various works carried out through the Directorate of Archives under the umbrella scheme for Swatantryaya Amrit Mahotsav.\
+  [202312121640244423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312121640244423.pdf)
 
-- Regarding disbursing funds for the construction of the theater of K.G.D.Madgulkar Theater, Atpadi, Dist.Sangli\
-  [202312051702358623.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051702358623.pdf)
+- One umbrella for the Swatantyaccha Amrut mahotsav. Regarding disbursement of funds to Darshanika Department under the scheme.\
+  [202312121640358423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312121640358423.pdf)
 
-## Personnel
-- 6691 Sq. at Bandra for Mumbai Metro Line-3, Colaba Bandra-Sipz Project. I. Space Mumbai Metro Rail Corporation Ltd. Regarding extending the MoU upto 31.12.2023 for the temporary transfer of him for 3 years.\
-  [202312051442396823.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051442396823.pdf)
+- Regarding approval of expenses of cultural program organized on the occasion of Lok Nritya Bharat Bharti Mahotsav at Kolhapur.\
+  [202312121640551323.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312121640551323.pdf)
+
+- Regarding receiving financial approval for the book publication grant scheme of Maharashtra State Sindhi Sahitya Akademi to the eligible name and grant amount.\
+  [202312121641010423.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312121641010423.pdf)
+
+- Regarding giving financial approval to Natya Mahotsav project under Amrit Mahotsav and Hirak Mahotsav of Freedom.\
+  [202312141725274923.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312141725274923.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

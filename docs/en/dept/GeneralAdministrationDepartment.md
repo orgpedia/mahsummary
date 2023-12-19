@@ -1,48 +1,33 @@
 # General Administration Department
 
-**Date Range**: 04 December 2023 - 09 December 2023
+**Date Range**: 11 December 2023 - 16 December 2023
 
 
 ## Miscellaneous
-- Regarding the cancellation of the appointment From Assistant Section officer (Main) Exam 2021 in Mantralaya Department.\
-  [202312041440345407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041440345407.pdf)
+- Regarding repatriation of Shri. Vaibhav Koshti, Desk Officer.\
+  [202312111814051807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312111814051807.pdf)
 
-- Regarding the completion of the process of writing the performance evaluation report of the Government Officers/Employees by 31st December\
-  [202312041648524007.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041648524007.pdf)
+- Regarding extension of time to deputation. Smt.Dipali Divate, Desk Officer.\
+  [202312111817079407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312111817079407.pdf)
 
-- Revised GR-CPTP Degree.\
-  [202312041735562807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041735562807.pdf)
+- Regarding extension of time to deputation. Smt.Madhuri Kumbhar, Desk Officer.\
+  [202312111819063307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312111819063307.pdf)
 
-- Regarding registration on Call Before u Dig (CBuD) system before digging on state government as well as private land\
-  [202312041740217307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312041740217307.pdf)
+- Regarding extension of time to deputation. Smt.Geeta Kulwant, Desk Officer.\
+  [202312111820560307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312111820560307.pdf)
 
-- Grant release for CPTP Training to YASHADA Training Centre Pune\
-  [202312051221117407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051221117407.pdf)
+- Regarding extension of deputation of Mr.G.R.Kathale, Assistant Section Officer.\
+  [202312121147486107.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312121147486107.pdf)
 
-- Filling the post of deputation basis\
-  [202312051241563507.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051241563507.pdf)
+- Regarding the formation of a committee to fully protect the procedure of examinations conducted for various posts in the State Government\
+  [202312141700055407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312141700055407.pdf)
 
-- Regarding the extension of the maintenance and upkeep contract for the government-owned Cessna Citation 560 XLS VT-VDD aircraft.\
-  [202312051459232707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051459232707.pdf)
-
-- About declaring a local holiday on the occasion of Dr. Babasaheb Ambedkar Mahaparinirvana Day.\
-  [202312051533358607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051533358607.pdf)
-
-- Regarding the appointment of a study group to study the various demands of journalists in the state of Maharashtra.\
-  [202312051650445407.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051650445407.pdf)
-
-- Regarding appointment of Agency for Aviation Management Services for Air Vehicles namely Government Aircraft Cessna Citation 560 XLS VT-VDD and Government Helicopter Airbus H145 VT GOV.\
-  [202312051655350807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051655350807.pdf)
-
-- Regarding appointment of Kaizen Institute appointed through QCI for postal management, promotion of e-office use, clearance of backlog of old orders.\
-  [202312051710346307.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051710346307.pdf)
+- Regarding the additional charge of the posts of State Chief Information Commissioner and State Information Commissioner, Brihanmumbai Bench...\
+  [202312151105563907.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312151105563907.pdf)
 
 ## Personnel
-- Ad-hoc promotion on the post of Assistant Section officer- Smt. N. N. Rane Ad-hoc Select List 2023-24.\
-  [202312071835198707.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312071835198707.pdf)
-
-- Temporary promotion on the post of Assistant Section officer -Ad-hoc Select List 2023-24- Minor Change in Posting.\
-  [202312071840020607.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312071840020607.pdf)
+- Regarding payment of salary of Smt.Mansi, IAS (2021) through General Administration Department.\
+  [202312111314488807.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312111314488807.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*

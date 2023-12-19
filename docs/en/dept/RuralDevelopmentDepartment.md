@@ -1,19 +1,19 @@
 # Rural Development Department
 
-**Date Range**: 04 December 2023 - 09 December 2023
+**Date Range**: 11 December 2023 - 16 December 2023
 
 
 ## Funds
-- Regarding disbursement of the first installment of Central Governments share of Rs.9302.925 lakhs and State Governments share of Rs.6201.950 lakhs in the financial year 2023-24 under Pradhan Mantri Awas Yojana (Rural) (Scheduled Castes Upyojana) (Vighyo).\
-  [202312051245103720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051245103720.pdf)
+- Regarding giving administrative approval to the cost of Rs.100.00 crore for the establishment of Maharashtra Rural Development and Research Academy (MahaRUDRA) planned training institute under the Amrit Mahotsav of Independence.\
+  [202312111109206720.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312111109206720.pdf)
 
 ## Miscellaneous
-- Fund release to Maharashtra State Rural Livelihood Mission (MSRLM) for Scheduled Castes (SCP) for the year 2023-24.\
-  [202312051156241820.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051156241820.pdf)
+- Permitting Special Earned Leave in every calendar year and encashment of Special Earned Leave to Center Heads under Zilla Parishad for work to be done during long leave period.\
+  [202312131053574220.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312131053574220.pdf)
 
 ## Personnel
-- Creation of Supernumerary post for Maharashtra Development Services, Group-B cadre Shri. B.R. Koli who has been appointed from Scheduled Tribe Category but caste validity certificate invalidated...\
-  [202312051435544320.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312051435544320.pdf)
+- Maharashtra Development Services Group A , Block Development Officer (s-20) Request Transfer.\
+  [202312111649111120.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202312111649111120.pdf)
 
 
 *Archives of earlier summaries are available at http://mahsummary.orgpedia.in/en/archive.html*
